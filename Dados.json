@@ -1,0 +1,98 @@
+
+
+[
+   
+    {
+        "id":1,
+        "numero":1,
+        "titulo":" Bayete! Hosi ya Tilo",
+        "autor": "Jon Whesley",
+        "ref":"Psalma 45; Hlav. 15: 12, 13.",
+        "categoria": "Adoracao",
+        "letra": [
+            {"verso":"1. Bayete! Hosi ya tilo, L' a hi hanyisaka Ha phokota ni mavoko Ha nkhensa Yesu, Yesu ,Twarisan' Yesu", "refrao": false },
+            { "verso":"Bayete Hose Yesu, Hose ya hina yesu, Yesu Hosi ya Ti Hosi", "refrao": true},
+            { "verso":" 2. Ha twarisa Nkulukumba, L'a nga hi ponisa, A hi twela vusiwana,Ha nkhensa Yesu, Yesu, Dzunisan' Yesu.", "refrao": false},
+            { "verso":" 3. Ha nkhensa Hosi ya ntamu,Loy' a nga heriki; A hi hlayisa masiku,Ha nkhensa Yesu, Yesu, Kurisan' Yesu.", "refrao": false},
+            { "verso":" 4. Ha dzunisa Hosi Yesu L'a hi khanyisaka;Ha vonga vito ra yena, Ha nkhensa, Yesu, Yesu Dzunisan' Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id":2,
+        "numero":2,
+        "titulo":" Dzunisani Hosi ya Matilo",
+        "autor": "",
+        "ref":"",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso":"1. Dzunisani hosi ya matilo, Mi vonga vito ra N' wana wa kwe, Hikuva tintswalo ta Hosi Yesu Ti tlurisa mpimo wa hina vanhu.", "refrao": false},
+            {"verso":"Ti tlurisa mpimo wa hina vanhu.", "refrao": true},
+            {"verso":"2. Vulan' timhaka ta yena, Yesu, L' a nga hi fela, hina vadyohi; Mi  vonga hikuva o vambiwile Hikwalaho ka swidyoho swa hina.", "refrao": false},
+            {"verso":"3. O fanele ku nkhensiwa, yena, Hi vanhu hinkwavo ni tintsumi; Tanan' vamakwerhu a hi vongeni Vito ra hena  l' a nga hi ponisa.", "refrao": false},
+            {"verso":"4. Hi nkhinsamela mahlwen' ka yena, L'a kwetsimaka, l'a hi rhandzaka; Hi vonga matimba, ni mikateko, A hi dzuniseni Hosi ya ntamu", "refrao": false}
+        ]
+    },
+    {
+        "id":3,
+        "numero":3,
+        "titulo":" Hosi ya Tihosi",
+        "autor": "",
+        "ref":"1 Tim. 6: 14 - 16; na Psa. 95: 6; 73: 25; 103: 3,4.",
+        "categoria": "Adoração",
+        "letra": [
+            {"verso": "1. Hosi ya tihosi, ha ku dzunisa sweswi; Ha ku tshinelela, ha nkhisamela wena, Ha twarisa Yesu, Mupfuni lo' nkulu, Hosi ya matilo, Aleluya! Amen.", "refrao": false},
+            {"verso": "2. Hosi ya tihosi, Ha ku tsakela wena Hina mani henhla loko ku nga ri wena Ni la misaveni Hi na wena tsena, A hi lavi umbe, Aleluya!Amen.", "refrao": false},
+            {"verso": " 3. Hosi ya tihosi. Ha ku tlangela wena, Loy' a nga hi fela, a vuya a hi ntshunxa, Ha twarisa ntamu wa Nhenha ya tilo, L'a susaka swivi, Aleluya! Amen.", "refrao": false},
+            {"verso": "4. Hosi ya tihosi. Ha ku twarisa wena, Hi wena muhanyisi L'a susaka mavabyi. Hi wena Nkulunkumba N' anga ya matimba, L'a hi tshungulaka, Aleluya! Amen.", "refrao": false},
+             {"verso": "5. Hosi ya tihosi, Yi vongeni namuntlha, L'a hi hlayisaka, A xurhisa hi Moya, L'a hi tsakisaka, L'a nga ta hi teka. N'wi Kurisen' yena, Aleluya! Amen.", "refrao": false}
+
+        ]
+    },
+    {
+        "id":4,
+        "numero":4,
+        "titulo":" twarisane hosi yesu",
+        "autor": "",
+        "ref":"Psa. 96: 1 - 10",
+        "categoria": "Adoração",
+        "letra": [
+           {"verso": "1. Twarisani Hosi Yesu Vulani ta yena Kulukumba wa matilo, Mufumi wa hina.", "refrao": false},
+           {"verso": "2. Tlakusani Mukwetsimi, Tlangelani yena; Kurisani Muponisi, Aku twale yena.", "refrao": false},
+           {"verso": "3. Nkhinsamelani Mufumi, Phokotan' mavoko; Vongani vito ra yena,", "refrao": false},
+            {"verso": "4. Nkensani tintswalo. Hi tindzimi ni timbilu, Nkhensani rirhandzu; Va byeleni vamatiko, Yesu wa va rhandza.", "refrao": false},
+            {"verso": "5. Wa va ntshunxa vabohiwa, Ntlhan' wini wa nala; Wa va nyika mikateko. Ni ndzhaka le henhla", "refrao": false}
+        ]
+    },
+    {
+        "id":5,
+        "numero":5,
+        "titulo":" Bayete Hosi Yesu!",
+        "autor": "",
+        "ref":"Hlav. 5:9; Hebr.2.9.",
+        "categoria": "Adoração",
+        "letra": [
+            {"verso": "1 Ha ku twarisa we Yesu Wena Nkulunkumba Hi wena l' a nga hi ntshunxa Bayete Hosi Yesu Yesu Hosi ya tihosi", "refrao": false},
+            {"verso": "2 Wena Hosi Emanuel Mufumi wa tilo Ha twarisa vito ra ku Bayete Hosi Yesu Yesu Hosi ya tihosi", "refrao": false},
+            {"verso": "3 Mavandla ya vapfumeli Ma ndzunisa wena L'a nga hi hlantswa hi ngati Bayete Hosi Yesu Yesu Hosi ya tihosi", "refrao": false},
+            {"verso": "4 Ni kwale henhla tilweni Hi ta ku twarisa Hi laha ku nga heriki Bayete Hosi Yesu Yesu Hosi ya Tihosi", "refrao": false}
+        ]
+    },
+    {
+        "id":6,
+        "numero":6,
+        "titulo":" twarisane hosi yesu",
+        "autor": "",
+        "ref":"Psa. 96: 1 - 10",
+        "categoria": "Louvor",
+        "letra": [
+           {"verso": "1. Twarisani Hosi Yesu Vulani ta yena Kulukumba wa matilo, Mufumi wa hina.", "refrao": false},
+           {"verso": "2. Tlakusani Mukwetsimi, Tlangelani yena; Kurisani Muponisi, Aku twale yena.", "refrao": false},
+           {"verso": "3. Nkhinsamelani Mufumi, Phokotan' mavoko; Vongani vito ra yena,", "refrao": false},
+            {"verso": "4. Nkensani tintswalo. Hi tindzimi ni timbilu, Nkhensani rirhandzu; Va byeleni vamatiko, Yesu wa va rhandza.", "refrao": false},
+            {"verso": "5. Wa va ntshunxa vabohiwa, Ntlhan' wini wa nala; Wa va nyika mikateko. Ni ndzhaka le henhla", "refrao": false}
+        ]
+    }
+
+
+
+]
