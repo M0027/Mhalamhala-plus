@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Text, ScrollView } from 'react-native';
-import { RouteProp, useRoute } from '@react-navigation/native';
+import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../../App';
 import Footer from '../components/Footer';
 
@@ -17,10 +17,10 @@ const AboutScreen = () => {
           Um aplicativo de letras de hinos cristãos aprimorado, o Mhalamhala Plus eleva a sua experiência musical e espiritual. Com uma interface limpa e moderna, navegar pelos seus hinos favoritos nunca foi tão fácil e intuitivo.
         </Text>
         <Text style={styles.featureTitle}>Novas Funcionalidades Poderosas:</Text>
-        <View style={styles.featureItem}>
+        {/* <View style={styles.featureItem}>
           <Text style={styles.featureText}>Adicione Seus Hinos:</Text>
           <Text style={styles.featureDescription}>Expanda sua coleção! Agora você pode adicionar outros hinos que não estão inclusos, personalizando sua experiência de louvor.</Text>
-        </View>
+        </View> */}
         <View style={styles.featureItem}>
           <Text style={styles.featureText}>Grave Seus Hinos:</Text>
           <Text style={styles.featureDescription}>Capture a essência de cada hino! A funcionalidade de gravação de áudio permite que você salve suas próprias interpretações.</Text>
@@ -42,7 +42,7 @@ const AboutScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'black',
   },
   content: {
     padding: 20,
@@ -50,20 +50,22 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 28,
     fontWeight: 'bold',
-    color: '#555',
+    // color: 'rgba(255,255,255,.8)',
+    color:"#25D366",
     marginBottom: 15,
     textAlign: 'center',
   },
   description: {
     fontSize: 18,
-    color: '#555',
+    color: 'rgba(255,255,255,.8)',
     lineHeight: 24,
     marginBottom: 20,
   },
   featureTitle: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#555',
+    // color: 'rgba(255,255,255,.8)',
+    color:"#25D366",
     marginBottom: 10,
   },
   featureItem: {
@@ -72,23 +74,24 @@ const styles = StyleSheet.create({
   featureText: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#555',
+    color: 'rgba(255,255,255,.8)',
   },
   featureDescription: {
     fontSize: 18,
-    color: '#555',
+    color: 'rgba(255,255,255,.8)',
     lineHeight: 22,
   },
   accessibilityTitle: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#555',
+    color:"#25D366",
+    // color: 'rgba(255,255,255,.8)',
     marginTop: 20,
     marginBottom: 10,
   },
   accessibilityDescription: {
     fontSize: 18,
-    color: '#555',
+    color: 'rgba(255,255,255,.8)',
     lineHeight: 24,
     marginBottom: 20,
   },

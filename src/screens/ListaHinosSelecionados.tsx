@@ -1,45 +1,63 @@
 import React, { useEffect } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { StyleSheet, View, Text,FlatList, TouchableOpacity } from 'react-native';
+import { StyleSheet, View, Text, FlatList, TouchableOpacity } from 'react-native';
 import { useState } from 'react';
-  
+import Titulos from '../../Titulos.json'
 
 
-const ListaHinosSelecionados = ({navigation}) => {
+
+const ListaHinosSelecionados = ({ navigation }) => {
 
   // const [hinosSelecionados, setHinosSelecionados] = useState([]);
-  const [favoritos, setFavoritos]=useState([]);
+  const [favoritos, setFavoritos] = useState([]);
 
-   useEffect(()=>{
-     recuperahinos()
+  useEffect(() => {
+    buscarFavoritos()
 
-   },[])
+  }, [])
 
 
-  const recuperahinos = async () => {
+  const buscarFavoritos = async () => {
+
     try {
-      const jsonValue = await AsyncStorage.getItem('favoritos');
-      const arrayRecuperado = jsonValue != null ? JSON.parse(jsonValue) : [];
-      setFavoritos(arrayRecuperado);
 
-    } catch (e) {
-      console.error('Erro ao recuperar o array:', e);
-      return [];
+      const favoritosSalvos = await AsyncStorage.getItem('favoritos');
+      const favoritos = favoritosSalvos ? JSON.parse(favoritosSalvos) : {};
+      console.log('falha ao buscar favoritos', favoritos)
+      const hinosComFavoritos = Titulos.map(hino => ({
+        ...hino,
+        favorito: favoritos[hino.numero] || false, // se não existir, define como false
+      }));
+
+      const apenasFavoritos = hinosComFavoritos.filter(hino => hino.favorito);
+
+      setFavoritos(apenasFavoritos);
+
+
+      // console.log('falha ao buscar favoritos', encontrarObjetosComuns(favoritos, hinosData))
+
+
+    } catch (error) {
+      console.error('falha ao buscar favoritos', error)
+
     }
+  }
 
-  };
 
 
-    const renderItem = ({ item }) => (
-    <TouchableOpacity onPress={()=> navigation.navigate('HinoDetalhe', {hino:item})} style={{
-      padding: 20,
+  const renderItem = ({ item }) => (
+    <TouchableOpacity onPress={() => navigation.navigate('HinoDetalhe', { hino: item })} style={{
+      padding: 15,
       margin: 5,
-      backgroundColor: '#3CB371',
+      backgroundColor: "#25D366",
       borderRadius: 10,
+      justifyContent:'center'
     }}>
       <Text style={{
-        color:'#fff'
-      }}>{item.numero+'.'+item.titulo}</Text>
+        color: '#fff',
+        fontSize:18,
+        fontWeight:700
+      }}>{item.numero + '.' + item.titulo}</Text>
     </TouchableOpacity>
   );
 
@@ -48,7 +66,7 @@ const ListaHinosSelecionados = ({navigation}) => {
     <View style={styles.container}>
       <FlatList
         data={favoritos}
-        keyExtractor={(item) => item.id.toString()}
+        keyExtractor={(item) => item.id}
         renderItem={renderItem}
         ListEmptyComponent={<Text style={styles.alert}>Nenhum Hino selecionado, para selecionar volte para lista dos favoritos e clica sem soltar no hino desejado até aparecer o icone certo.</Text>}
       />
@@ -59,7 +77,7 @@ const ListaHinosSelecionados = ({navigation}) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'white',
+    backgroundColor: 'black',
     padding: 15,
   },
   card: {
@@ -81,10 +99,10 @@ const styles = StyleSheet.create({
     color: '#555',
     flex: 1,
   },
-  alert:{
-    color:'orange',
-    fontSize:18,
-    textAlign:'center'
+  alert: {
+    color: 'orange',
+    fontSize: 18,
+    textAlign: 'center'
   }
 });
 

@@ -154,7 +154,7 @@ const AdicionarHinoScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'white',
+    backgroundColor: 'black',
     padding: 20,
     marginBottom:0
   },
@@ -162,28 +162,30 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: 'bold',
     marginBottom: 20,
-    color: '#333',
+    color: '#fff',
     textAlign: 'center',
   },
   input: {
     borderWidth: 1,
+    color:'#fff',
     borderColor: '#ccc',
     borderRadius: 8,
     padding: 15,
     marginBottom: 15,
     fontSize: 16,
-    backgroundColor: '#f9f9f9',
+    backgroundColor: 'black',
   },
   letraInput: {
     minHeight: 150,
     textAlignVertical: 'top',
+    color:'#fff'
   },
   pickerContainer: {
     marginBottom: 15,
   },
   label: {
     fontSize: 14,
-    color: '#555',
+    color: '#fff',
     marginBottom: 5,
     marginLeft: 5,
   },

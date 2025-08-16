@@ -1,0 +1,1017 @@
+[
+    {
+        "numero": 1,
+        "titulo": "Bayete! Hosi ya Tilo",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 0.1,
+        "titulo": "Saudai Jesus",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 2,
+        "titulo": "Dzunisani Hosi ya Matilo",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 3,
+        "titulo": "Hosi ya Tibosi",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 4,
+        "titulo": "Twarisani Hosi Yesu",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 5,
+        "titulo": "Bayete Hosi Yesu!",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 6,
+        "titulo": "A hi Tsakeni",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 7,
+        "titulo": "Bayete Hosi Imanuel!",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 8,
+        "titulo": "I Yesu hi Ntsima ya kwe",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 9,
+        "titulo": "Xana u ti Twile ta Yesu",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 10,
+        "titulo": "Yesu e Xihambanweni",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 11,
+        "titulo": "Loko ndzi Vona Hosi",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 12,
+        "titulo": "O Ndzi Fele Xihambanweni",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 13,
+        "titulo": "Rirhandzu le' ri Hlamarisaka",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 14,
+        "titulo": "Muferi o Pflukile",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 15,
+        "titulo": "Ngati Ya Yesu Ntsena",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 16,
+        "titulo": "Matimba ma Kon' e Ngatin'",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 17,
+        "titulo": "Xana ngati yi ku Hlantswile",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 18,
+        "titulo": "Yesu o ku Fele",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 19,
+        "titulo": "Marito Ya Yesu",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 20,
+        "titulo": "Yesu wa Hundza Namuntlha",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 21,
+        "titulo": "Pfumela Yesu a Nghena Mbilwini",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 22,
+        "titulo": "Vonakalisa Mbilwin'",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 23,
+        "titulo": "Yingisa Nakulorhi",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 24,
+        "titulo": "Xana u Ta ya Kwihi Ke?",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 25,
+        "titulo": "Nkari wu tsanana Ngopfu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 26,
+        "titulo": "Languta, u ta hanya",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 27,
+        "titulo": "Muponisi Yesu",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 28,
+        "titulo": "Tshemba Yesu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 29,
+        "titulo": "Tanan'Tanan'!",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 30,
+        "titulo": "Yingisa Mhaka Ya Yesu",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 31,
+        "titulo": "Yesu wa Vitana",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 32,
+        "titulo": "Yesu wa ku vita",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 33,
+        "titulo": "Nghena Nyangweni",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 34,
+        "titulo": "Tiko ra kanana",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 35,
+        "titulo": "Tana Svoswi",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 36,
+        "titulo": "Tanani eXilhobyeni",
+        "categoria": "Envagelizacao"
+    },
+    {
+        "numero": 37,
+        "titulo": "Tindlela Timbirhi",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 38,
+        "titulo": "Oho Yesu, Ndza ta Sweswi",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 39,
+        "titulo": "Ndzi ta ka Wena, Hosi",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 40,
+        "titulo": "Ndza ta Hosi, Ndzi ri Tano",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 41,
+        "titulo": "Ha fa Hina Vanhu, Yesu",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 42,
+        "titulo": "Sweswi Ndza Tivula",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 43,
+        "titulo": "Wa nga Tlhela u Ndzi Amukela",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 44,
+        "titulo": "A kun a Mhaka Yin'wana",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 45,
+        "titulo": "Ha yi dangela Evangeli",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 46,
+        "titulo": "Ndzi Tlangela wena, Hosi",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 47,
+        "titulo": "Ndzi Kutsuriwile Kunene",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 48,
+        "titulo": "O susile Swidyoho swa mina",
+        "categoria": " louvor"
+    },
+    {
+        "numero": 49,
+        "titulo": "La'visan' Lirandzu",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 50,
+        "titulo": "Mpfhuka Kriste a Ndzi Ntshunxa",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 51,
+        "titulo": "Ndzi kuma hinkwaswo ka Yesu",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 52,
+        "titulo": "A Hi Takuseni Marito",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 53,
+        "titulo": "Yesu L'a nga ndzi Rhandza",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 54,
+        "titulo": "Ku Ponisiva Ka Nandziha",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 55,
+        "titulo": "I Yesu l'a nga Ndzi Ntshunxa",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 56,
+        "titulo": "Ndza N'wi Rhandza Yesu Wa Nga",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 57,
+        "titulo": "Vumboni bya Evangeli",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 58,
+        "titulo": "Yesu wa ponisa",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 59,
+        "titulo": "Vito ra Yesu ra Pfuna",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 60,
+        "titulo": "Tsemba e Vitweni ra Yesu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 61,
+        "titulo": "Ndzi N'wana wa Hosi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 62,
+        "titulo": "Yesu Kriste, Tana Sweswi",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 63,
+        "titulo": "A nga kona Munghana Un'wana",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 64,
+        "titulo": "Rirhandzwini ra Hosi Yesu",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 65,
+        "titulo": "Yesu wa Ndzi Yimela",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 66,
+        "titulo": "Loko ndzi na Yesu kriste",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 67,
+        "titulo": "Loko Ndzi la Misaveni",
+        "categoria": "Adoracao"
+    },
+    {
+        "numero": 68,
+        "titulo": "Yesu wa hi Hlayisa hi Masiku",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 69,
+        "titulo": "Yesu i Muhanyisi",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 70,
+        "titulo": "Khumba Nguvu ya Yesu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 71,
+        "titulo": "Ndzi Nghenile Ndyondzweni ya Yesu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 72,
+        "titulo": "Ndzi Tinyiketa",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 73,
+        "titulo": "Ndzi tsinelela, Hosi ya nga",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 74,
+        "titulo": "Swa Misava Mi nga Teka",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 75,
+        "titulo": "Hundzan', Mitsakiso ya misava",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 76,
+        "titulo": "Kusuhi ni Xikwembu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 77,
+        "titulo": "Ndzi ta n'wi Landza",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 78,
+        "titulo": "Yesu i Muhluri",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 79,
+        "titulo": "Hi ta Hlula",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 80,
+        "titulo": "Swa Fana ni Tilo Sweswi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 81,
+        "titulo": "Mahlomulo a ma Fihli Yesu",
+        "categoria": "louvor"
+    },
+    {
+        "numero": 82,
+        "titulo": "Nji Muyenji",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 83,
+        "titulo": "Ndza ku Tshemba Yesu",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 84,
+        "titulo": "Hosi ha Khongela",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 85,
+        "titulo": "Ndzi lava ku fana ni Yesu",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 86,
+        "titulo": "Hlangana na Yesu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 87,
+        "titulo": "Ku khongela ka Nandziha",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 88,
+        "titulo": "Kamba Mbilu",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 89,
+        "titulo": "Ndzi na Ndlala, Ndzi na Torha",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 90,
+        "titulo": "Tjhama na Hine, Hosi Yeru",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 91,
+        "titulo": "Ndzi Tekele Xihambano",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 92,
+        "titulo": "Ndzi Fume, Hosi",
+        "categoria": "Arrependimeto"
+    },
+    {
+        "numero": 93,
+        "titulo": "Loko yi ta Hosi",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 94,
+        "titulo": "Tiko le`ji Tjhavisaka",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 95,
+        "titulo": "Mhalamhala ya Xikwembu",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 96,
+        "titulo": "Hosi Yesu, O ta Vuya",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 97,
+        "titulo": "Mapapeni ya ta Hosi",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 98,
+        "titulo": "Wa Vuya Hosi Yesu",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 99,
+        "titulo": "Ndzi ta Tsaka Kwale Kaya",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 100,
+        "titulo": "Tsemba ra Hina",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 101,
+        "titulo": "Tana Moya wo Kwetsima",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 102,
+        "titulo": "Ha Kombela, Hosi Yesu",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 103,
+        "titulo": "Ndzilo wa Hosi",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 104,
+        "titulo": "Phukani n'wina Vapfunneri",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 105,
+        "titulo": "Tana Moya wa Pentekosta",
+        "categoria": "Oração / Clamor"
+    },
+    {
+        "numero": 106,
+        "titulo": "Hi le Mahlweni ka Wena",
+        "categoria": "Oração / Clamor"
+
+    },
+    {
+        "numero": 107,
+        "titulo": "Vakriste, Tiyiselani!",
+        "categoria": "Consolacao"
+    },
+    {
+        "numero": 108,
+        "titulo": "Twarisan' Timhaka ta Yesu",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 109,
+        "titulo": "Lavane Vanhu va nga si Lova",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 110,
+        "titulo": "Vandla ra Vaphasi",
+        "categoria": "Esortacao"
+    },
+    {
+        "numero": 111,
+        "titulo": "Byala Emixweni",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 112,
+        "titulo": "Tirhani hi Ntamu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 113,
+        "titulo": "Pfulsane, Pfulsane, Vamakwerhu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 114,
+        "titulo": "Fambani Vamakwerhu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 115,
+        "titulo": "Yinbeni Nanga hi Ntamu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 116,
+        "titulo": "Vakriste Nyimpi ya Hosi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 117,
+        "titulo": "Famba na vo, Hosi Yesu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 118,
+        "titulo": "Risimu ra ku Nylketa Vatinhi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 119,
+        "titulo": "Landza Rito ra Hosi Yesu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 120,
+        "titulo": "Nkhuvulo Ematini",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 121,
+        "titulo": "Hosi Yesu va Tiyise",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 122,
+        "titulo": "Etafuleni ra ku Hosi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 123,
+        "titulo": "Yesu af a nji Ranja",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 124,
+        "titulo": "ku Hlangana ka Vakriste",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 125,
+        "titulo": "Nhlengeletano ya Xikwembu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 126,
+        "titulo": "Katekisa Yindlu Leyi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 127,
+        "titulo": "Tisani Vukhume bya Yehova",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 128,
+        "titulo": "Ha mi Losa Vamakwerhu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 129,
+        "titulo": "Ndlela ya Xihambano",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 130,
+        "titulo": "Yerusalema, karikwerhu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 131,
+        "titulo": "Jesus Me Ama",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 132,
+        "titulo": "Pelo Sangue",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 133,
+        "titulo": "Conversão",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 134,
+        "titulo": "Livre estou",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 135,
+        "titulo": "Paz, Paz gloriosa Paz",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 136,
+        "titulo": "Nome de Jesus",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 137,
+        "titulo": "Fogo Divino",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 138,
+        "titulo": "Chuvas de Graça",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 139,
+        "titulo": "Imploramos teu poder",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 140,
+        "titulo": "Vem a' Assembleia de Deus",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 141,
+        "titulo": "Jesus Voltará",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 142,
+        "titulo": "O Fim das Lutas",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 143,
+        "titulo": "O Senhor da Ceifa Chama",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 144,
+        "titulo": "Cristo Cura, Sim",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 145,
+        "titulo": "Ya Pfuriwa Yindlu, ya"
+    },
+    {
+        "numero": 146,
+        "titulo": "Xewani Vafundzisi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 147,
+        "titulo": "Risimu ra ku Tekana",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 148,
+        "titulo": "From: \"Ingonhama ka Juda.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 149,
+        "titulo": "Tune : \"Jesus is Passing this Way.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 150,
+        "titulo": "from \"The Cleasing Wave.\" (P.P.P)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 151,
+        "titulo": "From: \" Oh the Blood.\" ( Chorus)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 152,
+        "titulo": "From: \" Hiding in Thee.\" (Chorus) W.O.C",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 153,
+        "titulo": "From: \" Lord I am Coming Home.\" (W.J.K.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 154,
+        "titulo": "From: \"Jesus, Jesus, How I Trust Thee.\" (L.M.R.S.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 155,
+        "titulo": "From: \" If Jesus Goes with Me.\" (C.A.M.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 156,
+        "titulo": "From: \" Fishers of Men.\" (H.D.C.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 157,
+        "titulo": "From Chorus of: \" In the Service of the King.\"(A.H.A.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 158,
+        "titulo": "\"All your Anxiety, All your Care.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 159,
+        "titulo": "\"Steal Away to Jesus.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 160,
+        "titulo": "\"Bend me Lower.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 161,
+        "titulo": "\"Let it Come, O Lord, We Pray Thee.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 162,
+        "titulo": "\"Lord Send Thy Blessing.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 163,
+        "titulo": "Tune: \" Gave me oil in my lamp.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 164,
+        "titulo": "Tune only: \"Let The Tide Come in.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 165,
+        "titulo": "From: \" He Will Fill Your Heart Today.\" ( C.H.M.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 166,
+        "titulo": "From: \"Tis Burning in My Soul.\" (D.T.W.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 167,
+        "titulo": "Tune: Let the Holy Ghost Come in\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 168,
+        "titulo": "From: \" Let the Lower Lights be Burning.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 169,
+        "titulo": "From: \" Oh! That Wilt be glory.\" (C.H.C)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 170,
+        "titulo": "Tune: \" He's Coming Soon.\" (T.H.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 171,
+        "titulo": "From: \" I Shall Know Him.\" (F.J.C.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 172,
+        "titulo": "Tune: \" Our Lord is Coming Back to Earth Again\" (J.M.K.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 173,
+        "titulo": "Tune only: \"Giemern Blodet.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 174,
+        "titulo": "From: \"The Regions Beyond.\" (Chours) A.B.S",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 175,
+        "titulo": "From: \"O Steal Away Softly to Jesus.\" (E.E.H.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 176,
+        "titulo": "From: \"Let the Beauty of Jesus be Seen in me.\" (T.M.J.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 177,
+        "titulo": "From: \"Turn your Eyes upon Jesus.\" ( H.H.L.)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 178,
+        "titulo": "From: \"Dare to be a Daniel.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 179,
+        "titulo": "From: \"U Jesu u ya biza.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 180,
+        "titulo": "Tune only: \"Give Me Oil in My Lamp.\"",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 181,
+        "titulo": "I Yesu, i Yesu",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 182,
+        "titulo": "kun'wanyana Endzutini",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 183,
+        "titulo": "A ndzi koti ku Dzivila Amintiro ya Hosi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 184,
+        "titulo": "Ruma ndzilo lo' wuntswha",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 185,
+        "titulo": "Ri ta xa siku ro phatima",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 186,
+        "titulo": "Nkhensa Hosi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 187,
+        "titulo": "Oho! Ndzi Tsakile",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 188,
+        "titulo": "Hosi Ndzi Fihle",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 189,
+        "titulo": "Hosi, Ndzi Tlakuse",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 0.190,
+        "titulo": "If you Believe and I Believe",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 1.190,
+        "titulo": "Na Afrika ri ta pona",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 2.90,
+        "titulo": "Ponisa na Moçambique",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 191,
+        "titulo": "Hi ku twanana hi Tirhela Hosi",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 192,
+        "titulo": "Todos devem conhecer (bis)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 193,
+        "titulo": "Cristo é meu e eu d'Ele sou",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 194,
+        "titulo": "O amor de Jesus não tem igual",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 195,
+        "titulo": "Aleluia aleluia aleluia (bis)",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 196,
+        "titulo": "O melhor para Ti, Senhor",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 197,
+        "titulo": "Completa entrega a ti Amado",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 198,
+        "titulo": "Sim posso todas as coisas,",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 199,
+        "titulo": "Não há outro que por mim morresse",
+        "categoria": "Adoracao / louvor"
+    },
+    {
+        "numero": 200,
+        "titulo": "Aleluia, glória a Jesus",
+        "categoria": "louvor"
+    }
+]

@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, TouchableOpacity, Text, StyleSheet, Linking } from 'react-native';
-import { Ionicons, FontAwesome  } from '@expo/vector-icons'; // ícones do Expo (se estiver usando)
+import { FontAwesome  } from '@expo/vector-icons'; // ícones do Expo (se estiver usando)
 
 export default function Footer() {
   return (
@@ -11,15 +11,15 @@ export default function Footer() {
         onPress={() => Linking.openURL('https://wa.me/258833072296')}
         style={styles.button}
         >
-        <FontAwesome name="whatsapp" size={24} color="#25D366" />
+        <FontAwesome name="whatsapp" size={20} color="#25D366" />
       </TouchableOpacity>
 
-      {/* <TouchableOpacity
-        onPress={() => Linking.openURL('https://wa.me/258833072296')}
+      <TouchableOpacity
+        onPress={() => Linking.openURL('https://mauro-assis-cumbane.vercel.app')}
         style={styles.button}
         >
-        <FontAwesome name="telegram" size={20} color="#0088cc" />
-      </TouchableOpacity> */}
+        <FontAwesome name="chrome" size={20} color="orange" />
+      </TouchableOpacity>
 
       {/* <TouchableOpacity
         onPress={() => Linking.openURL('https://wa.me/258833072296')}
@@ -32,10 +32,10 @@ export default function Footer() {
         onPress={() => Linking.openURL('https://facebook.com/')}
         style={styles.button}
         >
-            <FontAwesome name="facebook" size={24} color="#1877F2" />
+            <FontAwesome name="facebook" size={20} color="#1877F2" />
       </TouchableOpacity>
           </View>
-      <Text style={styles.text}> © 2025 Todos direitos reservados por <Text style={styles.nome}>Mauro De Assis </Text> </Text>
+      <Text style={styles.text}> © 2025. bay <Text style={styles.nome}>Mauro De Assis </Text> </Text>
     </View>
   );
 }
@@ -44,12 +44,13 @@ const styles = StyleSheet.create({
   footer: {
     flexDirection: 'column',
     justifyContent: 'space-around',
-    backgroundColor: '#fff',
-    paddingVertical: 10,
+    backgroundColor: 'black',
+    paddingVertical: 0,
     position: 'absolute',
     bottom: 0,
     width: '100%',
-    padding:2,
+    padding:0,
+    maxHeight:60
     
   },
   redes:{
@@ -57,13 +58,13 @@ const styles = StyleSheet.create({
     justifyContent:'center'
   },
   button: {
-    backgroundColor: '#fff',
     paddingVertical: 8,
     paddingHorizontal: 16,
     borderRadius: 20,
   },
   text: {
-    textAlign:'center'
+    textAlign:'center',
+    color:'#ccc'
   },
   nome:{
     color:'#1877F2'

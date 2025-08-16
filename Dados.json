@@ -64,34 +64,1603 @@
         ]
     },
     {
-        "id":5,
-        "numero":5,
-        "titulo":" Bayete Hosi Yesu!",
-        "autor": "",
-        "ref":"Hlav. 5:9; Hebr.2.9.",
-        "categoria": "Adoração",
+    "id": 5,
+    "numero": 5,
+    "titulo": "Bayete Hosi Yesu!",
+    "autor": null,
+    "ref": "Hlav. 5:9; Hebr.2.9.",
+    "categoria": "Adoracao",
+    "letra": [
+      {"verso": "1 Ha ku twarisa we Yesu :I: Wena, Nkulunkumba :I: Hi wena l'a nga hi ntshunxa, Bayete, :I: Hosi Yesu :I: Yesu, Hosi ya thiosi.", "refrao": false},
+      {"verso": "2 Wena, Hosi Emanuel, :I: Mufumi wa tilo :I: Ha twarisa vito ra ku. Bayete, :I: Hosi Yesu :I: Yesu, Hosi ya thiosi.", "refrao": false},
+      {"verso": "3 Mavandla ya vapfumeli, :I: Ma ndzunisa wena :i: L'a nga hi hlantswa hi ngati. Bayete, :I: Hosi Yesu :I: Yesu, Hosi ya thiosi.", "refrao": false},
+      {"verso": "4 Ni kwale henhla tilweni :I: Hi ta ku twarisa :I: Hi laha ku nga heriki. Bayete :I: Hosi Yesu :I:", "refrao": false}
+    ]
+  },
+{
+    "id": 6,
+    "numero": 6,
+    "titulo": "A hi Tsakeni",
+    "autor": null,
+    "ref": "\"ku tsaka ku ve misaveni.\" Luk.2 : 7 - 16.",
+    "categoria": "Adoracao ",
+    "letra": [
+      {"verso": "1 A hi tsakeni namuntlha, Hi tsakela ku tswariwa, Ka Mesia, yi nga Hosi Yesu, N'wana wa Xikwembu.", "refrao": false},
+      {"verso": "2 A nga va mani misaven' A nga va mani matilwen' I Yehova, yena ntsena, L'a nyikaka N'wana wa kwe.", "refrao": false},
+      {"verso": "3 A hi tsaken' hi tsakela, Xinyimpfana xa Xikwembu, Yi nga mhamba ya hinkweru, Yesu, N'wana wa Xikwembo.", "refrao": false},
+      {"verso": "4 Hi tsakile e timbilwini' Hi dzunisa hi milomu, Hi phokotela mavoko, Hi ku: Aleluya, Amem.", "refrao": false}
+    ]
+  },
+
+  {
+    "id": 7,
+    "numero": 7,
+    "titulo": "Bayete Hosi Imanuel!",
+    "autor": "M.S.K.",
+    "ref": null,
+    "categoria": "Adoracao ",
+    "letra": [
+      {"verso": "1 ' Bayete Hos' Imanuel, Hi nkhisamela wena, Hi mbilu hi ku flangela, Ku nga ri hi nomu ntsena, Hi twarisa vito ra ku, Yingela vandla ra tilo Ra hlamula hi matimba: 'Bayet'l 'Bayet'l 'Bayet'l 'Bayet'l", "refrao": false},
+      {"verso": "( vuyelelo bya vavasati:) :I: 'Bayet'l Imanuel! Imanuel! :I: Mfumu i wa ku ni ku twala, Ni ntamu ni ku vonakala Mikarhin' hinkwayo, :I: ' Bayet'l Imanuel! Imanuel! :I: Hosi ya tihosi! 'Bayet'l Imanuel!", "refrao": true},
+      {"verso": "( vuyelelo bya vava nuna:) :I: 'Bayet'l Hosi ya tihos'l ' Bayet'l :I: Mfumu ni ku twala ni ku Vonakala Mikarin' hinkwayo. :I: Bayete Hos' ya tihos'l' Bayete! :I: Hosi ya ti hosi ya tihosi! 'Bayet'l Imanuel!", "refrao": true},
+      {"verso": "2 'Bayete hos' Imanuel, Hi veka tindzalama Emilengeni ya wena, L'a nga wu heta munyama, Ni mintsungu ya matilo Yi ndzunisa Xinyimpfana: ' Bayet'l ' Bayeet'l Bayet'l 'Bayet'l Imanuel!", "refrao": false}
+    ]
+  },
+  {
+    "id": 8,
+    "numero": 8,
+    "titulo": "I Yesu hi Ntsima ya kwe",
+    "autor": "I.L.C.",
+    "ref": "Yohane 4 na heb. 13:6.",
+    "categoria": " louvor",
+    "letra": [
+      {"verso": "1 I Yesu hi ntshima ya kwe Lwa tjhamaka le nhlobyeni, A khanela ni wansati Lwa nga tlhasa ku ka mati, E Kombisa xivi xa kwe Hi maritu ma nge mangani; Yesu Kriste i ha mun'we Mlinkameni ya minkama.", "refrao": false},
+      {"verso": "2 I Yesu Iwa mu dahaka Lwe wa ku diwa nhlokonho: \"Hosi loko u psi ranja Wa nga susa ni swihono.\" Hosi Yesu a mu khumba. \"Nja psi ranja, basisiwa. Yesu Kriste i ha mun'we Anhlokonho yi dahiwa.", "refrao": false},
+      {"verso": "3 I Yesu Iwa xurisaka Axitjhungu le huleni. Langusani njisanyana Lwa tshindzekelaka Hosi A na nthanu wa makati Ni tinhlampfi ti nge tingani, Yesu Kriste i ha mun'we A nga hluliwa hi mani?", "refrao": false},
+      {"verso": "4 I Yesu Iwa baka nkosi, Le 'Betani, axireni; La e mu pfuxa Lazaro A mu humexa ku feni: Na mamana wa le Nam, Lwa feliwiki hi n'wan'a kwe. Yesu Kriste i ha mun'we", "refrao": false},
+      {"verso": "5 I Yesu Iwa vambiwaka. A fa le xihambanweni, Kambe a tlhela a pfuka, A tekeliwa tlabini. Psopsi a le matilweni A khongelela vana va kwe. Yesu Kriste i ha mun'we, A ta vuy'a teka va kwe.", "refrao": false}
+    ]
+  },
+  {
+    "id": 9,
+    "numero": 9,
+    "titulo": "Xana u ti Twile ta Yesu",
+    "autor": "C.A.C.",
+    "ref": "Esoya 40:28; Rom.5.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Xana u ti twile ta Yesu? Ta ku fa ka yena? Yesu l'a nga ku rlhela nandzu Hi yo ngati ya yena?", "refrao": false},
+      {"verso": "Yesu o twistwe kuvava, A xanisiwa a fa: A fela wena na mina A hi rhandza swonghasi.", "refrao": true},
+      {"verso": "2 Xana u ti twile ta hari Ya mitwa e nhlokwen'? Ni ta ku khongela ka yena, \"Va khomele, Tatana?", "refrao": false},
+      {"verso": "3 Xana u ti twile ta khamba Le'ri nga hundzuka, Xihambanweni a kombela", "refrao": false},
+      {"verso": "4 Xana u ti twile mbilwini, Rito ra Muferi, \"Swidyoho swa ku swi rihiwile Ndzi ku amukerile\"?", "refrao": false},
+      {"verso": "5 Xana u ti twile tintswalo E mbilwini ya ku? Xana u ri: \"Ndza ku nkhensa Yesu Le'swi u nga ndzi fela?", "refrao": false},
+      {"verso": "6 Xana u ti twele ta kaya Ka le henhla-henhla? I Yesu l'a nga ku lunghisela Ndlela ya ku ya kona.", "refrao": false}
+    ]
+  },
+  {
+    "id": 10,
+    "numero": 10,
+    "titulo": "Yesu e Xihambanweni",
+    "autor": "C.A.C.",
+    "ref": "I Petro 2: 24 na kol. 1: 20.",
+    "categoria": "Adoracao",
+    "letra": [
+      {"verso": "1 Yesu exihambanwine ndzi ku Vona kona, Lomu u yeke ku feni U rhwele Swidjoho. Yesu wanga, Yesu wanga, U ndzi kutsurile; A u na swo swivi, wena, U ndzi fela mina.", "refrao": false},
+      {"verso": "2 Ndi yima Xihambanweni, Xa dzi hlamarisa; Rirhandzu ra ku ri kulu, Ha! ri ndzi hlurile. M'feri wa nga, M'feri wa nga, Ndi vona timbanga Emavokwen' nemilengen' Ya mhamba ya mina", "refrao": false},
+      {"verso": "3 Ndzi kuma xihambanweni Ku rivaleriwa, Ngati ya Yesu yi hlantswa swidyoho swa mina. Muponisi, Mukutsuri, U ndzi londzovota, U ndzi rhulisa, ndza tsaka Rirhandzweni ra wena.", "refrao": false},
+      {"verso": "4 Kusuhi ni xihambano ndzi lava Ku tshama, Ndzi vambiwe ka misava. Ndzi hanyela wena. Hosi yanga, Hosi yanga, Mukutsur' i wena; Mina ndzi tinyiketile ndzi wa wena ntsena.", "refrao": false}
+    ]
+  },
+  {
+    "id": 11,
+    "numero": 11,
+    "titulo": "Loko ndzi Vona Hosi",
+    "autor": "C.A.C.",
+    "ref": "Fúlpia 3: 7, 8.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Loko ndzi yi vona Hosi Yi fa exihambanweni; Ndzi fularhela rifuwo Ni hikwaswo swa misava.", "refrao": false},
+      {"verso": "2 Xana ndzi nga tidzunisa Loko ndzi languta mhamba? Matshan' weni yanga o file. Yesu,N'wana wa Xikwembu.", "refrao": false},
+      {"verso": "3 Languta mitwa nhlokweni, Vona ngati mayokweni, Yo! Mbanga leyi ya fumu, Ho! Rirhandzu le'rikulu.", "refrao": false},
+      {"verso": "4 Ndzi nga nkhensela ha yini, Rirhandzu le' ra ku nghasi? Ndzi hava leswo ringana, Ndzi nyika xiviri xa nga.", "refrao": false}
+    ]
+  },
+  {
+    "id": 12,
+    "numero": 12,
+    "titulo": "O Ndzi Fele Xihambanweni",
+    "autor": "C.A.C.",
+    "ref": "I kor. 5.7; I kor 15.3.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Muponisi l'a hlamalisaka, O ndzi fele xihambanweni; O halatile ngati ya kwe Ku ndzi kutsula vudyohwen', O ndzi fele xihambanweni', O ndzi fele xihambanweni', Matshan'weni ya nga,Yesu o file, O ndzi fele xihambanwen'.", "refrao": false},
+      {"verso": "2 O siyile kaya ni vuhosi, Hi ku randza ka Tatana, O tswariwile la misaveni, Hi xivumbeko xa vanhu.", "refrao": false},
+      {"verso": "3 O thaviwile hikokwalaho Ka swidyoho swa hinkwerhu; I Muhanyisi wa mavabye, Hi tsunguriwa hi yena.", "refrao": false},
+      {"verso": "4 O nyikete vutomi bya yena, Ku hi kutsula swivini; O yile ku hi lunghisela", "refrao": false}
+    ]
+  },
+  {
+    "id": 13,
+    "numero": 13,
+    "titulo": "Rirhandzu le' ri Hlamarisaka",
+    "autor": "C.A.C.",
+    "ref": "\"Vona rirhandzu le' ronghasi.\" I Yoh. 3: 1; na Yoh.4:8,10; Esaya 53:4,5.",
+    "categoria": "Adoracao",
+    "letra": [
+      {"verso": "1 Ndzi yima hi ku hlamala Yesu wa Nazareta, Hikuva o ndzi rhandzile Mina,nala wa yena.", "refrao": false},
+      {"verso": "Ra hlamarisa, ra hlamarisa, Rirhandzu ra Muferi, Ra hlamarisa ra hlamarisa, Ri nga ka ringa heri.", "refrao": true},
+      {"verso": "2 O yile eGetsemane Ku ndzi khongelela; Hambi a nga ri na munhu Ku ya n 'wi chavelela.", "refrao": false},
+      {"verso": "3 Tintsume ti n'wi vomile, Ti tile ku n'wi pfuna Emaxangweni la'ma kulu. Ti n'wi chavelerile.", "refrao": false},
+      {"verso": "4 O byarile xihambanweni Swidyoho swa himkweru, O rhwarile ni mavabye, O ndzi londzovotile.", "refrao": false},
+      {"verso": "5 Loko ndzi nghena tilweni, Ndzi vonana na Yesu. N'ta n'wi nkhensa hi masiku", "refrao": false}
+    ]
+  },
+  {
+    "id": 14,
+    "numero": 14,
+    "titulo": "Muferi o Pflukile",
+    "autor": null,
+    "ref": "\"Hosi yi pfukile kunene.\" Luka 24: 34; Hlavutelo 1:18.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Vutomi bya yena, O nyiketile, Matshan' wen' ya hina O vambive.", "refrao": false},
+      {"verso": "Muferi o pfukile, Khombo ra riftu o hlurile. O pfukile e xikarhi ka vafi, Wa hanya hi laha ku nga heriki Wa hanya, Wa hanya. Aleluya! Wa hanya!", "refrao": true},
+      {"verso": "2 Va yimbele ntsumbu wa Mudyondzisi, Va pfarile sirha ra Muferi.", "refrao": false},
+      {"verso": "3 Riftu ri hluriwe hi Muhanyisi, Yena o pfukile, Hosi Yesu.", "refrao": false}
+    ]
+  },
+  {
+    "id": 15,
+    "numero": 15,
+    "titulo": "Ngati Ya Yesu Ntsena",
+    "autor": "C.A.C.",
+    "ref": "\"Ngati ya Yesu Kriste...ya hi lhantsa.\" I yoh.1:7; ( na Heberu 9:22).",
+    "categoria": "Adoracao",
+    "letra": [
+      {"verso": "1 Ndzi nga lhants'wa hi yini? Hi ngati ya Yesu ntsena. Ndzi nga pona hi yini? Hi ngati ya Yesu ntsena.", "refrao": false},
+      {"verso": "I xuma e ka mina, Yona ya ndzi basisa, I xona xihlovo xa nga, I ngati ya Yesu ntsena.", "refrao": true},
+      {"verso": "2 Ndzi suserive swivi Hi ngati ya Yesu ntsena. Ndzi rivaleriwile Hi ngati ya Yesu ntsena.", "refrao": false},
+      {"verso": "3 Hi yona mhamba ya nga, Hi ngati ya Yesu ntsena. A hi swiendlo swa nga, I ngati ya Yesu ntsena.", "refrao": false},
+      {"verso": "4 Sweswi ndzi ni ku hlula Hi ngati ya Yesu ntsena. Ndzi ta fika ne tilweni Hi ngati ya Yesu ntsena.", "refrao": false},
+      {"verso": "5 Nzi tsakile, ndzo tshemba Engatin' ya Yesu ntsena. Ku lulama ka mina I ngati ya Yesu ntsena.", "refrao": false},
+      {"verso": "6 Ndzi gandzela Xikwembu Hi ngati ya Yesu ntsena. Ndzi Kongela ka Xona Hi ngati ya Yesu ntsena.", "refrao": false},
+      {"verso": "I risuna 'ka mina, Nkateko lo'wukulu' I riftuwo 'ka mina, I ngati ya Yesu ntsena.", "refrao": true}
+    ]
+  },
+  {
+    "id": 16,
+    "numero": 16,
+    "titulo": "Matimba ma Kon' e Ngatin'",
+    "autor": "I.L.C.-C.A.C.",
+    "ref": "Hebr. 9:14",
+    "categoria": "Adoracao",
+    "letra": [
+      {"verso": "1 Xan wa lava ku ponisiwa? Matimba ma kona Ka Hosi Yesu", "refrao": false},
+      {"verso": "Matimba ma kon' engatin' Ya Yesu Xinyimpfana; Matimba ma kon'engatin' Ya Yesu, Muponisi.", "refrao": true},
+      {"verso": "2 Vanhu va lova emunyameni, O ta va ponisa Hosi Yesu. Va nga hlantswiwa exihlobyeni, Matimba ma kon' engatin'.", "refrao": false},
+      {"verso": "3 Xana wa lava ku huma swivin' Matimba ma kona ka Hosi Yesu, Tana, u tengisiva embilwin' Matimba ma kon' engatin'.", "refrao": false},
+      {"verso": "4 Xana wa lava ku nghena tilwen' O ta ku nghenisa Hosi Yesu. Hatha namunthla, u ta vutomin', Matimba ma kon' engatin'.", "refrao": false}
+    ]
+  },
+  {
+    "id": 17,
+    "numero": 17,
+    "titulo": "Xana ngati yi ku Hlantswile",
+    "autor": "C.A.C.",
+    "ref": "\"Va tibasisile hi ngati ya Xinyipfana.\" Hlav. 7:14.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Xana u hlantswiwile exihlobyeni, Engatin' ya Yesu Muferi? Wa tshemba tintswalo ta yena sweswi? Xana ngati yi ku hlantswile?", "refrao": false},
+      {"verso": "Ngati ya Muferi Ya swi kota ku susa swivi. Ya basisa mbilu, hi ko yi tenga. Tana exihlobyeni sweswi.", "refrao": true},
+      {"verso": "2 Xana wa landza Yesu hi masiku? U hlantswiwe ngatin' ya Yesu Xana wa tshemba Muferi, wo rhula? Xana ngati yi ku hlantswile?", "refrao": false},
+      {"verso": "3 Loko Hosi yi ta, u ta tenga Ke? U ta pfumala ni xisandzu? U ta lulamela ku nghena tilwen' Xana ngati yi ku hlantswile?", "refrao": false},
+      {"verso": "4 Tchukumeta mikhuva ya misava, Amukela swa Hosi Yesu, Tana u tinyiketa e ka yena U hlantswiwa 'ngatini ya kwe.", "refrao": false}
+    ]
+  },
+  {
+    "id": 18,
+    "numero": 18,
+    "titulo": "Yesu o ku Fele",
+    "autor": "C.A.C.",
+    "ref": "\" Kriste o hi ferile.\" Roma 5:8.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Hina a hi suken' sweswi. Swidyohweni swa hina; Hi ha yi mbilu hinkwayo E Hosini ya hina.", "refrao": false},
+      {"verso": "Yesu o ku fele, O ndzi fele mina, O va ferile hinkwayo A ta va ponisa.", "refrao": true},
+      {"verso": "2 Mahanyelo ya misava Ama pfuni nchumu, Hi na mapfalo, ha chava,", "refrao": false},
+      {"verso": "3 A hi languten' le henhla EHosini ya hina, L'a fumaka kwale henhla Ne tikweni ra hina.", "refrao": false},
+      {"verso": "4 Hi ta kuma mikateko Eku teni ka hina, Hi ta kuma swo nandziha Timbiiwine ta hina.", "refrao": false}
+    ]
+  },
+  {
+    "id": 19,
+    "numero": 19,
+    "titulo": "Marito Ya Yesu",
+    "autor": null,
+    "ref": "Yohane 6:63.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Yimbelela timhaka ke, Marito ya Yesu. Ndza lava ku ma yingisa Marito ya Yesu, Marito ya ku hanya, Ndzi ta ma anakanya. Ya saseka, ya khorwisa, Marito ya Yesu.", "refrao": false},
+      {"verso": "2 Ya hi tisela ku rhula Marito ya Yesu Ya hlongola ni mapfalo Marito ya Yesu Yesu wa hi vitana Ku ta e ka yena, Ya hi nyika mikateko Marito ya Yesu.", "refrao": false},
+      {"verso": "3 Loko hina hi kumile Marito ya Yesu, Hi ta va byela van'wana Marito ya Yesu, Na vona va ta nghena Endyondzweni ya yena.", "refrao": false}
+    ]
+  },
+  {
+    "id": 20,
+    "numero": 20,
+    "titulo": "Yesu wa Hundza Namuntlha",
+    "autor": "A.C.N.",
+    "ref": "Yohane 7:37, ni Mateo 20:30.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Xana yi kona mbilu, Le'yi rhandzaka sweswi Ku ponisiiwa hi Yesu? Yesu wa ku vitana.", "refrao": false},
+      {"verso": "Yesu wa hundza namuntlha, Namuntlha, namuntlha, Yesu wa hundza namuntlha, O ta ku hundza sweswi.", "refrao": true},
+      {"verso": "2 Xana yi kona mbilu Le'yi nga ni miringo? Yesu o ta susa swivi, Swivi hinkwaswo swa ku.", "refrao": false},
+      {"verso": "3 Xana yi kona mbilu Le'yi nga muuyameni? Yesu Rivoni ra hina: O ta yi voningela.", "refrao": false},
+      {"verso": "3 Tana halenu, makweru, Yesu wa ku vitana, Ku ku nghenisa ndleleni", "refrao": false},
+      {"verso": "4 Yesu o kona namuntlha, Namuntlha, namuntlha, Yesu o kona namuntlha, O ta ku hundza sweswi.", "refrao": true}
+    ]
+  },
+  {
+    "id": 21,
+    "numero": 21,
+    "titulo": "Pfumela Yesu a Nghena Mbiłwini",
+    "autor": "C.A.C.",
+    "ref": "Wazwiwo,ndzi yimile nyangweni, ndza gongonzda. Hlavutelo 3:20; Mateo 11:28,29.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Xana u karhele hi swidyoho? Pfalula mbilu ya wena; Wa byi lava vutomi le' byintswa Pfumela Yesu a nghena.", "refrao": false},
+      {"verso": "Tshika ku kanakana, Sweswi, pfumela Yesu, Sweswi pfalula nyangwa, Pfumela Yesu a nghena.", "refrao": true},
+      {"verso": "2 Xana wa lava ku basisiwa? Pfalula mbilu ya wena. Ngati ya Yesu yi ta ku hlantswa Pfumela Yesu a nghena.", "refrao": false},
+      {"verso": "3 Xana u le xikarhi ka mpfuka? Pfalula mbilu ya wena. Yesu o ta ku nyika ku tsaka Pfumela Yesu a nghena.", "refrao": false},
+      {"verso": "4 Xana vangana ke, vo ku tsika? Pfalula mbilu ya wena. Yesu i nakulorhi wo tiya,", "refrao": false},
+      {"verso": "5 Xana wa lava ku yimbelela Tinsimu le' to saseka, Ni ku ya mutini wa le henhla, Pfumela Yesu a nghena.", "refrao": false},
+      {"verso": "Sweswi, ndza pfumela ke, Sweswi, ndzi nkhensa Yesu, Sweswi, ndzi pfula nyangwa, Kutani Yesu wa nghena.", "refrao": true}
+    ]
+  },
+  {
+    "id": 22,
+    "numero": 22,
+    "titulo": "Vonakalisa Mbilwin'",
+    "autor": null,
+    "ref": null,
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Xana wa ha chava nala wa vanhu? Xana wa chava ku tshika munyama? Pfula majinela, pfula ni nyangwa; Vonakalisa mbilwin'.", "refrao": false},
+      {"verso": "Vonakalisa mbilwin', Vonakalisa mbilwin', Pfula majinela, pfula ni nyangwa, Vonakalisa mbilwin'.", "refrao": true},
+      {"verso": "2 Xana wa lava ku tsaka endleni? Xana wa lava ku huma 'munyamen'? Pfula majinela, pfula ni nyangwa, Vonakalisa mbilwin'.", "refrao": false},
+      {"verso": "3 U ta tsaka, u ta rhula misaven', U ta tsaka, u ta rhula matilwen'; Loko u pfalula mbilu ya wena, Vonakalisa mbilwin'.", "refrao": false}
+    ]
+  },
+  {
+    "id": 23,
+    "numero": 23,
+    "titulo": "Yingisa Nakulorhi",
+    "autor": "C.A.C.",
+    "ref": "Mateo 11:28",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Yingisa nakulorhi, Wa vitaminva sweswi, Wa pfumala vutomi, Pfumela ka Muferi.", "refrao": false},
+      {"verso": "Namuntla, Pfumela, Tana ka Yesu sweswi.", "refrao": true},
+      {"verso": "2 Kule u hambukile, Namuntlha pfumela ke, U nga ali Xikwembu, Amukela tintsvalo.", "refrao": false},
+      {"verso": "3 Hinkwaswo swa misava, Swi ku pfune yini ke? Mitsakiso ya kumeka, Entirhweni wa Yesu", "refrao": false},
+      {"verso": "4 Sweswi u nga ittsoni. Hundzuka nakulorhi. Amukela vutomi, U ta tsaka mbilwini.", "refrao": false}
+    ]
+  },
+  {
+    "id": 24,
+    "numero": 24,
+    "titulo": "Xana u Ta ya Kwihi Ke?",
+    "autor": "C.A.C.",
+    "ref": "Ma\" U ya kwihi?\" Yohana 13:36; 14:5,6",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Xana u ta ya kwihi ke? Wa vutisiiwa namuntlha. Wa khaluta misaveni, U ta ya, u ta ya kwihi?", "refrao": false},
+      {"verso": "U ya kwihi? U ya kwihi? Hlawula hlamula sweswi", "refrao": true},
+      {"verso": "2 Van' wana va n'wi hlawula, Yesu loy' a nga hi fela, Va hundza, va pfumela, U ta ya kwihi ke, wena?", "refrao": false},
+      {"verso": "3 Ku ni swivandla swimbirhi, Tilo ni tiva ra ndzilo. Ndlela i yin'we yo pona, U ta ya kwihi ke, wena?", "refrao": false},
+      {"verso": "4 Vanhu va landza swo biha, A va tsundzuki xidziva, Masiku ya hundza sweswi, Wena wa kongoma kwihi?", "refrao": false},
+      {"verso": "5 Tintswalo ti kona sweswi Mundzuku ku ni vukarhi, Ku lova kule kusuhi, Wena wa kongoma kwihi?", "refrao": false},
+      {"verso": "6 Tana, amukela Hosi, Yi ta ku hlantswela swivi Yi ta ku nyika vutomi, U ta va ni kaya tilweni.", "refrao": false}
+    ]
+  },
+  {
+    "id": 25,
+    "numero": 25,
+    "titulo": "Nkari wu tsanana Ngopfu",
+    "autor": "J.H.N.",
+    "ref": "Yakob 4:14 na 5:8",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Nkarhi wu tsanana ngopfu, Wa khaluta hi ku hatlisa, Kasi ma ha tifambela", "refrao": false},
+      {"verso": "2 Nkari wu tsanana ngopfu, Tanani mi ta tinyiketa, Mi pfumela eka Yesu, Hikuva i Muponisi.", "refrao": false},
+      {"verso": "3 Nkarhi wu tsanana ngopfu, Tanani mi n'wi nkinsamela, Hikuva ma vitaniwa, Ku pfumela eka Yesu.", "refrao": false},
+      {"verso": "4 Nkarhi wu tsanana ngopfu, Yesu wa ta hi ku hatihisa. Mi ta tsaka, mi ta rhula Etilwen' swin'we na Yesu.", "refrao": false}
+    ]
+  },
+  {
+    "id": 26,
+    "numero": 26,
+    "titulo": "Languta, u ta hanya",
+    "autor": "C.A.C.",
+    "ref": "Hayo 21:9, ni yoh, 3:14.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Ndzi ni mahaka yo tsakisa, aleluya! Makwerhu wa nga yingisa; I marito la'manene ya Kriste, Hi yena l'a Ku lavaka.", "refrao": false},
+      {"verso": "Languta u ta hanya, Amukela Muferi; Exihambanweni Yesu a ku fela, Hi yona Hosi ya vutomi.", "refrao": true},
+      {"verso": "2 Ndzi ni Rito ra Rirhandzu, Aleluya! Xikwembu xa ha ku rhandza; Yesu wa swi kota ku ku ponisa, Sweswi u n'wi pfumelela.", "refrao": false},
+      {"verso": "3 U ta nyikiwa vutomi, Aleluya! Byi nga le'byi nga heriki; O ta hlangula swidyoho swa wena, U n'wi amukela, Muferi.", "refrao": false},
+      {"verso": "4 Mina ndzi ba nkulungwane, Aleluya! Ndzi langutile ka Yesu; Ndzi ntshunxekile, ndzi ni mikateko, Ndzi ponisiwe hi Yesu.", "refrao": false}
+    ]
+  },
+  {
+    "id": 27,
+    "numero": 27,
+    "titulo": "Muponisi Yesu",
+    "autor": null,
+    "ref": null,
+    "categoria": "Adoracao",
+    "letra": [
+      {"verso": "1 L'a nga ta kwala I man'? Muponisi Yesu; O tile ku hi fela, Muponisi Yesu.", "refrao": false},
+      {"verso": "Tanan' vamakwerhu, A hi nkhinsameni, Hi dzuna vito ra kwe, Muponisi Yesu.", "refrao": true},
+      {"verso": "2 O rhandzile mani ke Muponisi Yesu; O rhandzile hinkwavo, Muponisi Yesu", "refrao": false},
+      {"verso": "3 O ta hi rivalela, Muponisi Yesu? A va a hi ponisa. Muponisi Yesu.", "refrao": false},
+      {"verso": "4 Hi fanele ku tiva, Kwala misaveni. Leswaku hi kumile, Vutomi tilweni.", "refrao": false},
+      {"verso": "5 Loko hi fa, Hi ta ya eka yena Yesu. Hi tsama na yena, Masiku hinkwawo.", "refrao": false}
+    ]
+  },
+  {
+    "id": 28,
+    "numero": 28,
+    "titulo": "Tshemba Yesu",
+    "autor": "A.C.N.",
+    "ref": "Timhaka 2:38, na 16:31",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Hundzukani, Pfumelani Eka Muferi, Yesu Kriste wa mi rhandza O ta mi ntshuxa.", "refrao": false},
+      {"verso": "2 Tshemba Yesu, tshemba Yesu N'wi tsembe sweswi: Wa ku rhandza, wa ku rhandza, O ta ku ntshunxa.", "refrao": true},
+      {"verso": "3 Tshemba Yesu, Tshemba Yesu N'wi tsembe sweswi, Wa ku pfuna, wa ku pfuna, Wa ku ponisa.", "refrao": true},
+      {"verso": "4 Tshemba Yesu, Tshemba Yesu Wena muvabyi, U ta hanya, u ta hanya. Wa ku hanyisa.", "refrao": true}
+    ]
+  },
+  {
+    "id": 29,
+    "numero": 29,
+    "titulo": "Tanan'Tanan'!",
+    "autor": "S.M.K.",
+    "ref": "\"Tanani ka mina.\" Esaya 45:22. Mat. 11:28; Yoy. 6;37.",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Yingisani, n'we, matiko, Rito le ro nandziha Evangeli ya Xikwembu Ya vula, yi mi byela: Tanan', Tanani. Tanan', Tanani mi", "refrao": false},
+      {"verso": "2 Mhalamhala ya Xikwembu, Yi karhi yi vitana, Yi vita n'wina vasandzi La' va ha tixisaka. Tanan', Tanan' Tanan', mi ponisiwa.", "refrao": false},
+      {"verso": "3 Varhumiwa va Xikwembu Va tsutsuma himkwako Va mi byela ta ririrhandzu Ra Xikwembu Tatana, Pfumelani, Muponisi i Yesu.", "refrao": false},
+      {"verso": "4 Hi yona nhenha ya hina, Loy' a hi hluleleke; Ha kunene mi ta tsaka Loko mi ta ka Yesu Tanan', Tanan' Tanan', mi ponisiwa.", "refrao": false},
+      {"verso": "5 I xihlovo xa rirhandzo Ra Yehova Xikwembu; Xan' i mani misaveni L'a felaka un' wana? Tanan', Tanan' Tanani, mi ponisiwa.", "refrao": false},
+      {"verso": "6 Sweswi, mina ndzi tsakile, Hi kuva ndza pfumela. Ndza n'wi nkhensa, Ndza n'wi vonga. Yesu Muferi Wanga, Aleluya, Aleluya ka Hosi.", "refrao": false}
+    ]
+  },
+  {
+    "id": 30,
+    "numero": 30,
+    "titulo": "Yingisa Mhaka Ya Yesu",
+    "autor": "F.N.M.",
+    "ref": null,
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Yingisa mhaka ya Yesu, Wena n'wan' a makhombo; Yesu hi ku fa ka yena A ku pfulele tilo.", "refrao": false},
+      {"verso": "Hundzuka namuntlha, U ta kuma ku hanya; Pfumela' ka Yesu, Muponisi i yena.", "refrao": true},
+      {"verso": "2 Loko Yesu o fikile, Xikarhi ka misava; A hanyisa la'vo tala, Va suka va n`wi landza.", "refrao": false},
+      {"verso": "3 A hanyisa lw'a khutaka, Na vo la' vo-fe mahlo. A va khumba hi navoko, Va m' landza hi ku tsaka.", "refrao": false},
+      {"verso": "4 Laha Yesu a fambaka, A landza hi mitlawa, Va N'wi yingisa hinkwave", "refrao": false},
+      {"verso": "5 Xana wa swi lava wena, Ku nghena matilweni? Hundzuka ka Xikwembu, Pfumela eka Yesu.", "refrao": false},
+      {"verso": "6 Loko ku fika masiku Ya ku hundza misaven' Yesu Mupfuxi wa wena; U ta tshama na Yena.", "refrao": false},
+      {"verso": "Le tilwen' na Yesu Hi ta xwa hi masiku. Hi tsaka, hi rhula, Ni muteki wa hina.", "refrao": false}
+    ]
+  },
+  {
+    "id": 31,
+    "numero": 31,
+    "titulo": "Yesu wa Vitana",
+    "autor": "C A C",
+    "ref": "Mateo 22:3; Hlav. 22:17..",
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Yesu wa twela vusiwana, Wa ku vita, wa ku vita. Xana wa tsakela swa misava? Kasi swa ku lovisa.", "refrao": false},
+      {"verso": "Wa vitana, wa vitana Yesu wa vita. Wa ku vita namuntlha.", "refrao": true},
+      {"verso": "2 Yesu wa vita, wa ku rindzela, Waku vita, wa ku vita. Tisa swidyoho, titsongahate, U tisola u pona.", "refrao": false},
+      {"verso": "3 Yesu wa ku lava n'wa misava, Wa ku vita, wa ku vita. Tisa mirhwalo, o ta ku ntshunxa. O ta ku amukela.", "refrao": false}
+    ]
+  },
+  {
+    "id": 32,
+    "numero": 32,
+    "titulo": "Yesu wa ku vita",
+    "autor": "S.M.K.",
+    "ref": null,
+    "categoria": "louvor",
+    "letra": [
+      {"verso": "1 Yesu wa ku vita, Yesu wa ku vita, Pfumela ka Yena sweswi, O ta ku hanyisa", "refrao": false},
+      {"verso": "2 Mina ndza n'wi landza, Ndza n'wi ndzuna mina, Ndzi n'wi nkhensa, Hosi ya nga, Ndzi n'wi landzelela", "refrao": false},
+      {"verso": "3 Wa rhambiwa wena, Yesu wa ku vita, Hi yona hosi ya wena, Pfumela u hanya.", "refrao": false},
+      {"verso": "4 U nga kanakani, Tana u nkhinsama, Yesu o yimile kola, U n'wi amukela.", "refrao": false}
+    ]
+  },
+  
+  {
+    "id": 33,
+    "numero": 33,
+    "titulo": "Nghena Nyangweni",
+    "autor": "E.M.N.",
+    "ref": "Nghenani hi nyangwa le'yo khuma. Mat. 7:13.",
+    "categoria": " Evangelístico",
+    "letra": [
+      {"verso": "1 Nyangwa ya tilo yi pfuriwile, Hi yena Yesu l'a yi pfuleke, Loko a fa matshan'weni ya hina, Ku hi ntshunxa eswivin' swa hina.", "refrao": false},
+      {"verso": "Nghena nyangweni, Nghena nyangweni, Nghena nyangweni, Namuntiha. Nghena nyangweni, Nghena nyangweni,", "refrao": true},
+      {"verso": "2 Vona! Van'wana va ku rhangela, Hatla na wena, hatla u nghena, Hosi Yesu wa ku vita sweswi, O ta ku nghenisa etilweni.", "refrao": false},
+      {"verso": "3 Xana u nga tshuka u titsona Tintsvalo le'ta ku hlamalisa. Hosi Yesu wa ku lava sweswi, Tana namutlha ke, u nga hlweri.", "refrao": false},
+      {"verso": "4 Yingisa Rito ra Hosi Yesu, Ō ri: \"Ndzi ta ku nyika vutomi, L'a taka ka mina ndzi tiyisa, Ndzi nga ka ndzi nga n'wi fularheli\".", "refrao": false},
+      {"verso": "Tana namuntlha, Tana namuntlha, Tana ka Yesu namuntlha, Tana namuntlha, Tana namuntlha, Tana ka Yesu sweswi.", "refrao": true}
+    ]
+  },
+  {
+    "id": 34,
+    "numero": 34,
+    "titulo": "Tiko ra kanana",
+    "autor": "P.N.K.",
+    "ref": "\" Xana o ta famba\"? Gn.24:58",
+    "categoria": "Chamado",
+    "letra": [
+      {"verso": "1 Hi ta ya tikweni ra la'vo Kwetsima, Kaya ra ku rhula le'ri nga henlha, Na n'wina vadyohi ndleleni ya rifu, Xana mi ta ya tikwen' ra Kanana.", "refrao": false},
+      {"verso": "Mi ta ya? Mi ta ya? Mi ta ya? Mi ta ya? Xana mi ta ya tikwen' ra Kanana?", "refrao": true},
+      {"verso": "2 A ku na vuvabyi, Yesu i vutomi, Kwaleyo ku kona ku tsaka ntsena, A ku na miringo, hambi a ri nala, Xana mi ta ya tikwen' ra Kanana?", "refrao": false},
+      {"verso": "3 Eti kweni le'ri katekisiweke, Hi ta va na Yesu nsin'wini ya kwe, A hi nga pfumali, hi ta va vafuwi Xana mi ta ya tikwen' ra Kanana?", "refrao": false},
+      {"verso": "4 Yanani vafambi, ra ha ri mahlweni Mundzuku hi ta dya ndzhaka le henhla, N'wina la'va nga ni timbilu to tika, Xana mi ta ya tikwen' ra Kanana?", "refrao": false},
+      {"verso": "Ndzi ta ya, Ndzi ta ya, Ndzi ta ya, Ndzi ta ya, Ina ndzi ta ya tikwen' ra Kanana.", "refrao": true}
+    ]
+  },
+  {
+    "id": 35,
+    "numero": 35,
+    "titulo": "Tana Svoswi",
+    "autor": "M.N.",
+    "ref": null,
+    "categoria": "Chamado",
+    "letra": [
+      {"verso": "1 We makwerhu, tana swoswi, Eka Hosi ya wena; Wa ku rhandza, Muhanyisi, Tana swoswi 'ka yena.", "refrao": false},
+      {"verso": "Vuy: Tana swoswi, tana swoswi, Tana 'ka yona Hosi.", "refrao": true},
+      {"verso": "2 kasi wa ha tsendzeleka Kule na ye Muferi, Ku tipfuna wa tsandzeka, Tana ke, u nga hlwert.", "refrao": false},
+      {"verso": "3 Amukela Mukutsuri, Hatlisa u tshinela; Swidyohweni u nge rhuli, Tana ke, u nga hlwert.", "refrao": false},
+      {"verso": "4 Tīsa ni swidyoho swa ku, Tana ke, nakulori, Tshemba host, hi leswaku Yi ta tirha mahlori.", "refrao": false},
+      {"verso": "5 U ta khuma swo nandziha, Host yi ta hlangula Swidyoho ni le'swo biha, Yi va yi ku kutsula.", "refrao": false}
+    ]
+  },
+  {
+    "id": 36,
+    "numero": 36,
+    "titulo": "\" Tanani eXilhobyeni\"",
+    "autor": "E.M.N.",
+    "ref": "\" Nwina hinkwenu la'va nga ni torha, tanani matini, hambi n'wina la'va mi pfumalaka mali\". Esa. 55:1,2,6,7.",
+    "categoria": "Evangelístico",
+    "letra": [
+      {"verso": "1 Tanani exihlobyen' Xa mati ya vutomi, Hambi n'win' la'va pfumalaka mali. Tanani, mi ta xava, Vuswa na wona ntswamba, Mi dya mi kondza mi xurha swinene.", "refrao": false},
+      {"verso": "Xihlobyeni, Xihlobyeni, U kumile mati la'ma Pfelelaka kona. Xihlobyeni, Xihlobyeni, Xihlobyeni xa mati ya vutomi.", "refrao": true},
+      {"verso": "2 Yingisani, mi ta dya, Mi nwa le'swo nandziha. Mimoya ya n'wina yi ko yi hanya. Mi nga hakeri nehumu, Mi kuma hi tintswalo, Tana exihlobyeni xa mati.", "refrao": false},
+      {"verso": "3 Lavani Yehova Ke, Loko a ha kumeka, Khongelani ka yena, Muhanyisi. Tsikan' ndlela ya n'wina, Ni hinkwaswo swo biha, Tlhelelan' ka Yehova Mi ta pona.", "refrao": false}
+    ]
+  },
+  {
+    "id": 37,
+    "numero": 37,
+    "titulo": "Tindlela Timbirhi",
+    "autor": "S.M.M.",
+    "ref": "Mateo 7:13,14; Swiv. 16:25.",
+    "categoria": "Chamado",
+    "letra": [
+      {"verso": "1 ka fambiwa misaveni, Hi tindlela le' timbirhi, Yin'we i le'ya ku lova, Yin'wanyana ya ku pona; Ya ku lova, le'ya ndzilo. I budula le'ri kulu.", "refrao": false},
+      {"verso": "2 Yi fambiwa hi vanyingi Vo titsona swa vutomi, Muponisi va m' pfumala, Ku hundzuka va ha ala, Va kongoma eku feni, Va ta lova le ndzilweni.", "refrao": false},
+      {"verso": "3 Loko yi ri ya ku pona Yi larile ngopfu yona, A va fambi l'avotala Eka le'yi yaka kaya, Vanhu la' va pfumelaka", "refrao": false},
+      {"verso": "4 Va m' tsakela Hosi Yesu, L'a nga na vo hi masiku, Va nyikiwa hi tintswalo Swo saseka swa matilo. Endleleni le'yo khuma, Va ta kuma ni ku fuma.", "refrao": false},
+      {"verso": "5 Nghena swesw' ndlelen' leyi, Amukela yona Hosi, Fularhela leswo biha Swa misava ni swa nsila, U nga tshuki u yi landza A budula ra ku lova.", "refrao": false}
+    ]
+  },
+  {
+    "id": 38,
+    "numero": 38,
+    "titulo": "Oho Yesu, Ndza ta Sweswi",
+    "autor": "S.M.D.M.",
+    "ref": "\"Oho Xikwenbu. Ndzi hlantswe kunene ...susa swivi swa mina.\" Psa. 51:1-4.",
+    "categoria": "Arrependimento",
+    "letra": [
+      {"verso": "1 Oho Yesu, ndza ta sweswi, O ndzi amukela, Ndzi tisa hi swivi swa nga, U ndzi amukela.", "refrao": false},
+      {"verso": "2 Ndzi xisiwile hi nala, Masiku hinkwawo, Kunene a ndzi lovile", "refrao": false},
+      {"verso": "3 O, namuntlha ndza tisola. U ndzi amukela, Ndza ta Hosi hi mihloti, U ndzi amukela.", "refrao": false},
+      {"verso": "4 Hlantswa mbilu ya nga, Hosi, Ndzi hlayise Yesu. Moya lo'wu hanyisaka Tirha masingita.", "refrao": false},
+      {"verso": "5 Ndza ta Hosi, ndzi mudyohi, U ndzi testselela, Ndzi kombela wena Hosi U ndzi amukela.", "refrao": false},
+      {"verso": "6 O, Moya wa Pentekosta Xika hi matimba, Hi ve timboni ta wena Hi nga chavi nehumu.", "refrao": false}
+    ]
+  },
+  {
+    "id": 39,
+    "numero": 39,
+    "titulo": "Ndzi ta ka Wena, Hosi",
+    "autor": null,
+    "ref": "Mateo 11:28; Psa. 51:1-4; Roma 3:20,24;Tito 3:5-7.",
+    "categoria": "Arrependimento",
+    "letra": [
+      {"verso": "1 Ndzi twa rito ra ku Ri vitana mina, Wa swi lava ku ndzi hlantswa, Hi ngati ya wena.", "refrao": false},
+      {"verso": "Ndza ta ke, Hosi, Ndzi ta ka wena, Ndzi basise hi ngati", "refrao": true},
+      {"verso": "2 Ndzi swi ringetile, Ku susa swidyoho, Ni ku tinhlantswa swimene, Kambe ndzi tsandzeka.", "refrao": false},
+      {"verso": "3 Ndzi swi ringetile, K'endla swo saseka, Kambe a swi pfuni nehumu, Ndzi nga ri na wena.", "refrao": false},
+      {"verso": "4 A ndza ha ringeti, Swi ndzi tsandzile ke, Ndzi tisola, ndzi pfumela E ka wena, Yesu.", "refrao": false},
+      {"verso": "5 Wena u ndzi fele, Murhin' wa Golgotha, Ngati ya ku, yona ntsena Ya susa swidyoho.", "refrao": false},
+      {"verso": "6 Ndza ta, ndzi ni chaka Ndzi bihile ngopfu, Ndzi nyike mbilu le'yintshwa Ndzi ta ku hanyela.", "refrao": false}
+    ]
+  },
+  {
+    "id": 40,
+    "numero": 40,
+    "titulo": "Ndza ta Hosi, Ndzi ri Tano",
+    "autor": "C.A.C.",
+    "ref": "\" Vonani Xinyimpfana xa Xikwembu, le'xi susaka swidyoho swa misava.\" Yoh 1:29.",
+    "categoria": "Arrependimento",
+    "letra": [
+      {"verso": "1 Ndza ta Hosi, Ndzi ri tano, Ndzi ni rito leri ntsena. Wena u ndzi fele mina, Yesu, Xinyimpfana, ndza ta.", "refrao": false},
+      {"verso": "2 Ndza ta Hosi, ndzi ri tano, Ndzi ni nandzu, ndzi ni thyaka, Ku tihlantswa a ndzi koti, Yesu, Xinyimpfana, ndza ta.", "refrao": false},
+      {"verso": "3 Ndza ta Hosi, ndzi ri tano, Ndzi xikarhi ka mpfulka, Ndzi tshinyiwa hi mapfalu Yesu, Xinyimpfana, ndza ta.", "refrao": false},
+      {"verso": "4 Ndza ta Hosi, ndzi ri tano, Ndzi xisiwana emoyen', Ndzi lo'wo-fe-mahlo, mina, Yesu, Xinyimpfana, ndza ta.", "refrao": false},
+      {"verso": "5 Ndza ta Hosi, ndzi ri tano, Ndzi rivalele swidyoho, Ndzi basise, ndzi hanyise, Yesu, Xinyempfana ndza ta.", "refrao": false},
+      {"verso": "6 Ndzata Hosi, ndzi ri tano, Ri ndzi hurile rirandzu; Ndzi titshika, ndzi ku landza. Yesu, Xinyimpfana ndza ta.", "refrao": false}
+    ]
+  },
+  {
+    "id": 41,
+    "numero": 41,
+    "titulo": "Ha fa Hina Vanhu, Yesu",
+    "autor": "P.M.",
+    "ref": "\"Loko a hi tifele milandzwini ya hina Xikwembu xi hi hanyisile\". Efe. 2:4,5; ni Esaya 59:12",
+    "categoria": "Arrependimento",
+    "letra": [
+      {"verso": "1 Ha fa hina Vanhu, Yesu, Ha lova hinkweru, Hi swidyoho le'swi kulu", "refrao": false},
+      {"verso": "2 Hi na mayabyi, ni riftu Hi swidyoho leswi; Hi na ndlala ni nhlomulo, Hi milandzu leyi.", "refrao": false},
+      {"verso": "3 Ha fa hina vanhu, Yesu, Muferi wa hina! Hi Kutsule, hi ponise, Eswivini swa hina.", "refrao": false},
+      {"verso": "4 Khoma xihloka xa Rito, Swi tsheme hi xona; Swi herise swi tsuvule, Hosi, hi Kutsule.", "refrao": false},
+      {"verso": "5 Xika Moya wo Kwetsima, Tirha eka hina, Le'swo rhandziwa hi wena, Ha swi rhandza hina.", "refrao": false}
+    ]
+  },
+  {
+    "id": 42,
+    "numero": 42,
+    "titulo": "Sweswi Ndza Tivula",
+    "autor": "A.C.N.",
+    "ref": null,
+    "categoria": "Confissão",
+    "letra": [
+      {"verso": "1 Sweswi ndza tivula mina E mahlwen' ka Hosi. Ndzi mudyohi, ndzi lovile, A ndzi fanelanga.", "refrao": false},
+      {"verso": "Tintswalo le'ti kulu Le'ti rhumiweke Exikarhi ka misava; Hi n'wana wa yena.", "refrao": true},
+      {"verso": "2 Xikwembu xi yi rhandzile Misava swonghasi;", "refrao": false},
+      {"verso": "Va ha ri munyameni, A va si n'wi tiva L'a nga ta emisaveni Ku va fela vona.", "refrao": false},
+      {"verso": "3 Ndza lava ku amukela Wena Hosi Yesu, Swa misava ndza swi Tshika, Wa nga ndzi ponisa. Ndzi landza wena ntsena, Ndzi kongoma tilo Laha ndzi nga ta tshamisa Na wena, Yehova.", "refrao": false},
+      {"verso": "4 Namuntlha ndzi ni ku tsaka Ndzi kumile sweswi Vutomi bya Yesu Kriste, Hosi ya tihosi. Hikuva a hi fele Hina va misava, Sweswi wa ha hi vitana Ku ta e ka Yena.", "refrao": false},
+      {"verso": "5 A hi nkhenseni Yehova, Hi nsovo wa yena; Hi twarisa vito ra kwe L`a nga hi ponisa . Kute loko hi nghena Kaya kwale henhla, Hi ta n`wi ndzunisa kona Mikarihi hinkwayo.", "refrao": false}
+    ]
+  },
+  {
+    "id": 43,
+    "numero": 43,
+    "titulo": "\"Wa nga Tlhela u Ndzi Amukela \"",
+    "autor": "D.M.T.",
+    "ref": "From : \"yesu, bendikulahlile.\"(H.H.D.) Ri huma ka le 'ra xizulu",
+    "categoria": "Arrependimento",
+    "letra": [
+      {"verso": "1 Yesu a ndzi ku tshikile, Kasi wena u ndzi fele, Ndza ta sweswi ndzi mudyohi, Wa nga tlhel'u ndzi amu`kela.", "refrao": false},
+      {"verso": "2 Ndzi na swivi le`swikulu, Swa ndzi tsandza, swa lovisa, Ndzi languta eka wena, Wa nga tlhel`u ndzi am`kela", "refrao": false},
+      {"verso": "3 Le`swi ndzi ku dyoheleke, Ndza tisola, ndza swi tsika Hosi ya nga, ndzi tiyese, Wa nga tlhel`u ndzi am`kela.", "refrao": false},
+      {"verso": "4 A ndzi fanelang mina, Ku vuriwa wana wa ku. Kambe sweswi nzda hundzuka; Wa nga tlhel u ndzi am`kela.", "refrao": false},
+      {"verso": "5 Hosi Yesu ndza nyiketa, Mmiri nimbilu ya mina ; Wanga susa nandzu wa nga, Wa nga tlhel`u ndzi am`kela.", "refrao": false}
+    ]
+  },
+  {
+    "id": 44,
+    "numero": 44,
+    "titulo": "A kun a Mhaka Yin'wana",
+    "autor": "C.A.C.",
+    "ref": "Mhaka ya xihambano ..i mantimba ya Xikwembu Roma 1:26; 1 kor .1:8; Mhaka 20:24",
+    "categoria": "Doutrina",
+    "letra": [
+      {"verso": "1 A ku na mhaka yi wana, Ku kotisa Evangeli, Le`yi tsakisaka mbliu; I mhaka ya Muponisi . Yi nyika I`a hundzukaka, Ku rhula ni mikateko; Yi hlangula ni mihloti, Yi n`wi susela swidyoho.", "refrao": false},
+      {"verso": "Ku hava mhaka yin`wana, Mhaka le`yi ndzi tsakisaka, Mhaka ya Yesu Muferi, Mhaka le`yi nga heriki, Ndzi ta suma tilwene, Ta yona Evangeli.", "refrao": true},
+      {"verso": "2 A ku vanga ni un`wana L`a twistweke swonghasi Ku vaviseka ni ku fa . Hi yena ntsena Muferi . A kun a vito rin`wana , Le`ri pfunaka swonghasi. Hi nga kombela xa nchumu, Kutani ha hlamuriwa.", "refrao": false},
+      {"verso": "3 A ku na Hosi yin`wana Le `yi ndzi yi tsakelaka, Ku nga Yesu, Hosi ya nga, N ta vi rhandza Yesu ntsena . A ku na N anga yin` wana, Le` vi ti vaka mavabyi, Ndzi tshunguriwa hi yona, Ya ndzi` hanyisa mmirini.", "refrao": false},
+      {"verso": "4 A ku na kaya kun` wana ; Ka rikwerhu ku le henhla; Ndzi ni yindlu le`yi kulu Kwale henhla ka mapapa . Ha mi hlayela mahungu, N`wina tiko ra vatsonga, Yi fikile Evangeli Ku mi tivisa swa tilo.", "refrao": false}
+    ]
+  },
+  {
+    "id": 45,
+    "numero": 45,
+    "titulo": "Ha yi dangela Evangeli",
+    "autor": null,
+    "ref": null,
+    "categoria": "Doutrina",
+    "letra": [
+      {"verso": "1 Ha yi dangela yona Evangeli Le`yi teke xikarhi ka hina ; Yi tiyisile ku tsaka ni vutomi ; Yi hi ntshumxe ntihan` wini wa nala", "refrao": false},
+      {"verso": "Ha yi dangela Evangeli Timhaka ta Hosi Yesu L`a nga hi fela e murhini, A hi rhandza, a hi ntshumxa.", "refrao": true},
+      {"verso": "2 Ha tsakela marito ya ku pona Hi yena Yesu l`a ponisaka; L`a hundzukaka a va a pfumela, Wa nyikiwa vutomi le` byintshwa.", "refrao": false},
+      {"verso": "3 Ha yi nkhensa mahungu yo saseka, Ya Yesu N anga le`yo tihariha Hambi ha vabya ni ku karhateka, Hi tsakela timhaka ta yena.", "refrao": false},
+      {"verso": "4 Yī hi tsakisa mahungu hinkwawo; Wa heleketa hi masingita; Yena, Yesu, Mukhuvuri lo'nkulu, Wa hi ha ni tindzimi le'tintswha.", "refrao": false},
+      {"verso": "5 Ha dangela marito ya ku hanya, Hosi yi na hina fii masiku, Vuloyi byi hluriwa ni swo dlaya Yesu Mulweri, wa hi lwela.", "refrao": false},
+      {"verso": "6 Ha ma twarisa mahungu ya Hosi, Ku vuya ka yona ku kusuhi, Varikwerhu va ha lova sweswi, Ha ya ku va byela Evangeli.", "refrao": false}
+    ]
+  },
+  {
+    "id": 46,
+    "numero": 46,
+    "titulo": "Ndzi Tlangela wena, Hosi",
+    "autor": "C.A.C.",
+    "ref": "A Tsonga Composition - Ra xitsonga (Melody \"Dellig er Jorden.\")",
+    "categoria": "Entrega",
+    "letra": [
+      {"verso": "1 Ndzi dangela wena, l'a nga ndzi ponisa, Yesu Hosi ya tintswalo, U ndzi amukele n'wana wa ku lova, Ndzi va n'wana wa ku.", "refrao": false},
+      {"verso": "2 Ndzi swi tsakerile, swikwembu swa vanhu; A ndza ha landzi mikhuva Ya ku swi gandzela ni ya ku swi phahla, Ndzo tsakela wena.", "refrao": false},
+      {"verso": "3 A ndza ha byi chavi na byona vuloyi, Wena u Mulweri wa nga; Na swo switshungulo na yona mitundu, Ndzi swi fularhela", "refrao": false},
+      {"verso": "4 Hlangula mikhuva ya yona munyama, Ya ku hlahluva tinholo, Ndzi ku tshemba wena ku nga ri vangoma, Hambi vanyamsoro.", "refrao": false},
+      {"verso": "5 Ndzi tiyise Hosi, ndzi nga ha naveli Michongolo ni tingoma, Na byalwa na fole ndzi nga swi tsakeri, Ndzi tsakela wena.", "refrao": false},
+      {"verso": "6 Basisa milomu, ndzi chava ku hemba, Ni Ku xisa ni ku hleva; Susa le'swo yila le'swo nyamisaka Ndzi va lo'wo tenga.", "refrao": false},
+      {"verso": "7 Embilwin'ya mina hlongola hinkwaswo Le'swi hlungaka vuhosi, Unga testseleli le'swi nga nyawuriki; Fuma u le swaku.", "refrao": false}
+    ]
+  },
+  {
+    "id": 47,
+    "numero": 47,
+    "titulo": "Ndzi Kutsuriwile Kunene",
+    "autor": "C.A.C.",
+    "ref": "\"Mi kutsuriwile mikhuveni ya n'wina ya swa Hava...hi ngaati le'yi pfumariwaka ya Xinyi- mpfana.\" 1 Pet 1:18, 19.",
+    "categoria": "Louvor",
+    "letra": [
+      {"verso": "1 Ndzi kutsuriwile kuneni Hi ngati ya Hosi Yesu, Hinkwaswo sweswi i le'swintswha, Ndza n'wi trinela masiku. Tsakan', tsakan', Ndzi ponisiwe hi Yesu, Tilwen', tilwen', Ndzi langutela Xikwembu", "refrao": false},
+      {"verso": "2 A ndzi nkhinsamela swikwembu, Ndzi tolovela ku phahla; Sweswi, ndza n'wi tirhela Yesu, Hi yona Mhamba ya mina.", "refrao": false},
+      {"verso": "3 A ndzi va tsemblie vangoma Ni ku hlalluva ka vona ; Namuntlha Mupfuni i Yesu, Buku i tinhlolo ta nga.", "refrao": false},
+      {"verso": "4 A ndzi tsemblie switsungulo, Ndzi tilavela tin' anga L'a ndzi tshungulaka namuntlha I Yesu N'anga ya mina.", "refrao": false},
+      {"verso": "5 A ndzi tsutsumela mabyalwa, Ni ku ma dzaha mafole; Sweswi ndzi xurhile hi moya, Ndzi tsakela ku khongela.", "refrao": false},
+      {"verso": "6 Nhlengeletano ya Xikwembu I michongolo ya mina; Ndzi tinyiketile ka Yesu, Ndzi tsakela Yesu ntsena.", "refrao": false}
+    ]
+  },
+  {
+    "id": 48,
+    "numero": 48,
+    "titulo": "O susile Swidyoho swa mina",
+    "autor": "C.A.C.",
+    "ref": "\"Yena o humelerile leswaku a susa swidyoho swa hina.\" 1 Yoh. 3:5; Heberu 9:28.",
+    "categoria": "Louvor",
+    "letra": [
+      {"verso": "1 Ndzi tile Yesu, ndzi ni nandza, O susile ndzwhalo, swidyoho swa mina; Rirhandzu ra kwe ri ndzi tsakisa", "refrao": false},
+      {"verso": "O susile swivi, o susile ndzwhalu, Ndzi yimbelela minkhenso, Ndzi katekile, swi susiwile Swidyoho swa mina.", "refrao": true},
+      {"verso": "2 Ndzwhalo wa swidyoho a wu tika, O susile ndzwhalo, swidyoho swa mina; Yesu u ndzi rihela milandzu, O susile swivi.", "refrao": false},
+      {"verso": "3 K'avanyisiwa ku hava sweswi, O susile ndzwhalo, swidyoho swa mina: Ndzi tehupukile hi musa wa kwe, O susile swivi.", "refrao": false},
+      {"verso": "4 Loko u ta ka Yesu namuntlha, O ta susa ndzwhalo, swidyoho swa wena; O ta ku ha ku tsaka ka tilo, O ta susa swivi.", "refrao": false}
+    ]
+  },
+  {
+    "id": 49,
+    "numero": 49,
+    "titulo": "La'visan' Lirandzu",
+    "autor": "C.A.C.",
+    "ref": "\"La'visan' Lirandzu lo'la ku nhati, lolu a hi nyikike loni Tatana\". I Yohani 3:1",
+    "categoria": "Consagraçao",
+    "letra": [
+      {"verso": "1 La'visan' Lirandzu loli, Hi hananiwa ni Tatana, Leswaku hi hlayiwa vana, Vana va Xikwembu,", "refrao": false},
+      {"verso": "Vonan' :I: lo'la ku nhati :I: Liranju la xone Xikwembu, Hine hi ta txhuliwa", "refrao": true},
+      {"verso": "2 A he he kule na yena, Hi ūhìngkèlile kusuhi, Hi yamukèliwe Kunene, Hi ūhama ka yene.", "refrao": false},
+      {"verso": "3 Ku nga si voneka lexi, Hi taka ' va xone tilwen' Ha psi tiva a ta ' voneka, Hi ta fana na yen'.", "refrao": false},
+      {"verso": "4 Xi ni ndjombo xidumbiso, A hi 'veni la'va ku basa, Psanga hi lepsi a nga psone, Hi ta mu hlalela.", "refrao": false}
+    ]
+  },
+  {
+    "id": 50,
+    "numero": 50,
+    "titulo": "Mpfhuka Kriste a Ndzi Ntshunxa",
+    "autor": null,
+    "ref": null,
+    "categoria": "Louvor",
+    "letra": [
+      {"verso": "1 Mpfhuka Kriste a ndzi Ntshunxa Ndzi tsakile ku tiurisa, Hambi ndzi le nhlomulweni, Ndzi na Yesu, I nkateko.", "refrao": false},
+      {"verso": "Vuy. Aleluya, ndzi tsakile, Swivi swa nga swi herile, Hinkwaku ndzi ni nkateko Yesu wa nga i rifuwo.", "refrao": true},
+      {"verso": "2 Khale tilo rive kule, Sweswi o nge ri kusuhi, Ndzi ni vutomi le'byintswha, Ndzi na Yesu, i nkateko.", "refrao": false},
+      {"verso": "3 Hambi kwala misaveni; Ndzi twa ndlala, kumbe torha, Ni loko ndzi xaniseka, Ndzi na Yesu i nkateko", "refrao": false}
+    ]
+  },
+    {
+        "id": 51,
+        "numero": 51,
+        "titulo": "Ndzi kuma hinkwaswo ka Yesu",
+        "autor": "C.A.C",
+        "ref": "Kol. 2:3",
+        "categoria": "Adoracao / louvor",
         "letra": [
-            {"verso": "1 Ha ku twarisa we Yesu Wena Nkulunkumba Hi wena l' a nga hi ntshunxa Bayete Hosi Yesu Yesu Hosi ya tihosi", "refrao": false},
-            {"verso": "2 Wena Hosi Emanuel Mufumi wa tilo Ha twarisa vito ra ku Bayete Hosi Yesu Yesu Hosi ya tihosi", "refrao": false},
-            {"verso": "3 Mavandla ya vapfumeli Ma ndzunisa wena L'a nga hi hlantswa hi ngati Bayete Hosi Yesu Yesu Hosi ya tihosi", "refrao": false},
-            {"verso": "4 Ni kwale henhla tilweni Hi ta ku twarisa Hi laha ku nga heriki Bayete Hosi Yesu Yesu Hosi ya Tihosi", "refrao": false}
+            {"verso": "1 Vanu hinkwavo va tsutsumela Le' swi mbilu hi swi navelaka; Ndzi swi kumile le'swo tsakisa, Minkateko yile ka Xikwembu.", "refrao": false},
+            {"verso": "Ndzi kuma hinkwaswo ka Yesu, Hi yena l'a tsakisaka. Ku hanya handle ka Yesu A swi ndzi pfuni nichumu.", "refrao": true},
+            {"verso": "2 Vanhu va tikeriva hi ndzwhalo, A va si hamukela tintswalo, Loy' a nga va pfunaka o kona. Loko va hundzuka, va ta kholwa.", "refrao": false},
+            {"verso": "3 Yesu o pfumariva vanhu, Hi yena l'a susaka swidyoho Ni mahlomulo ni swo vavisa.. A nga va nyika le'swo tsakisa.", "refrao": false}
         ]
     },
     {
-        "id":6,
-        "numero":6,
-        "titulo":" twarisane hosi yesu",
-        "autor": "",
-        "ref":"Psa. 96: 1 - 10",
-        "categoria": "Louvor",
+        "id": 52,
+        "numero": 52,
+        "titulo": "A Hi Takuseni Marito",
+        "autor": "C.A.C",
+        "ref": "Hlawutelo 5:9.",
+        "categoria": "Adoracao / louvor",
         "letra": [
-           {"verso": "1. Twarisani Hosi Yesu Vulani ta yena Kulukumba wa matilo, Mufumi wa hina.", "refrao": false},
-           {"verso": "2. Tlakusani Mukwetsimi, Tlangelani yena; Kurisani Muponisi, Aku twale yena.", "refrao": false},
-           {"verso": "3. Nkhinsamelani Mufumi, Phokotan' mavoko; Vongani vito ra yena,", "refrao": false},
-            {"verso": "4. Nkensani tintswalo. Hi tindzimi ni timbilu, Nkhensani rirhandzu; Va byeleni vamatiko, Yesu wa va rhandza.", "refrao": false},
-            {"verso": "5. Wa va ntshunxa vabohiwa, Ntlhan' wini wa nala; Wa va nyika mikateko. Ni ndzhaka le henhla", "refrao": false}
+            {"verso": "1 A hi takuseni marito sweswi Hi yi vonga Hosi namuntlha, Hikuva yi hi rhandzile swonghasi Hi rirhandzu le'ri tiyeke.", "refrao": false},
+            {"verso": "Aleluya! A ku nkhensive Vito ra N'wana wa Yehova, O fanele Yesu hi ku vongiwa Hi vunyingi bya vanhu Kwala.", "refrao": true},
+            {"verso": "2 Vonani rirhandzu le'ra ku nghasi, Loko hi thyiwa vana va kwe, Hi nga tshuki hi ku tsaka sweswi, Hikuva hi katekisiwe.", "refrao": false},
+            {"verso": "3 Wee, Makwerhu, wa n'wi rhandza Yesu Ke? Yena loyi a ku feleke, Tanani n'wina la'va karheleke, Na n'wina va ku tikeriwa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 53,
+        "numero": 53,
+        "titulo": "Yesu L'a nga ndzi Rhandza",
+        "autor": "C.A.C",
+        "ref": "\"Ha n'wi rhandza, hikuva hi yena a rhangeke a hi rhandza.\" 1 Yoh. 4:19; Gal 2:20; Kol. 1:14.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Swi hundzile hinkwaswo swa khale, Sweswi ndzi xivumbiwa le'xintswha, Mbilu yi ni ku tsaka ka tilo, Ngati ya Yesu yi hlantswile hinkwaswo.", "refrao": false},
+            {"verso": "I Yesu, I Yesu, Loy'a nga ndzi rhandza, O file xihambanweni Ku ndzi ntshunxa.", "refrao": true},
+            {"verso": "2 Khale a ndzi bohiwa ku dyohen', A ndzi lova, a ndzi munyamen', A ndzi chava vukarhi bya Hosi, Kambe ngati ya Yesu yi ndzi kutsula.", "refrao": false},
+            {"verso": "3 A ndzi phasiwa, a ndzi tlunyiwa, A ndzi tsandzeka a ku tiponisa, Sweswi ndzi hanyanyisiwa mahlo, Ndzi le ku tsakeni, ndzi mboni ya Yesu.", "refrao": false},
+            {"verso": "Ndza m'rhandza, ndza m'rhandza, Yesu Hosi ya nga, L'a nga ndzi rhandza, A fela handzu wa anga.", "refrao": true}
+        ]
+    },
+    {
+        "id": 54,
+        "numero": 54,
+        "titulo": "Ku Ponisiva Ka Nandziha",
+        "autor": "C.A.C",
+        "ref": "Tpsalma 96:1-8",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ku ponisiva ka nandziha, Eku tveni ka hina! Hikuva hi kutsuriwa Swidyoweni swa hina.", "refrao": false},
+            {"verso": "Dzunisani, dzunisani. Nkhensani Tingswalo ta Hosi, Aleluya! Aleluya! A hi vongeni Muponisi", "refrao": true},
+            {"verso": "2 Khale a hi lahlekile Swidyoheni swa hina; Kambe sweswi hi susiwe Ekhombyeni ra hina.", "refrao": false},
+            {"verso": "3 Ku ponisiva a ku twale Misaveni hinkwayo, Ni le henhla ka nkhensiwa Hi mavandla ya tilo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 55,
+        "numero": 55,
+        "titulo": "I Yesu l'a nga Ndzi Ntshunxa",
+        "autor": "C.A.C",
+        "ref": "Gal. 5:1; Roma 8:21; Yoh. 8:36",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Loko a ndzi famba eswidyohwen', Lok' a ndzi pasiva entlhan'win', Loko a ndzi nga tsakanga mbilwin'. I Yesu, l'a nga ndzi ntshunxa.", "refrao": false},
+            {"verso": "I Yesu l'a nga ndzi ntshunxa, I Yesu l'a nga ndzi ntshunxa, Timpertchana ti tshoviva tona I Yesu l'a nga ndzi ntshunxa.", "refrao": true},
+            {"verso": "2 Loko a ndzi biwa hi mapfalo, Lok' a ndzi lava ku hela mbilu, Loko a ndzi nga swi kote nehumu, I Yesu l'a nga ndzi ntshunxa.", "refrao": false},
+            {"verso": "3 Lok' a ndzi khunguvanyeka endlelen', Lok' a ndzi hulumetela khumbin', Ndzi nga tive ta vutomi tilwen', I Yesu l'a nga ndzi ntshunxa.", "refrao": false},
+            {"verso": "4 Ndzi ta flangela hi ku tsaka Tintswalo ta lo'ya nga ndzi rhandza A ko a fa matshan'win' ya mina I Yesu l'a nga ndzi ntshunxa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 56,
+        "numero": 56,
+        "titulo": "Ndza N'wi Rhandza Yesu Wa Nga",
+        "autor": "I.L.-C.A.C",
+        "ref": "L'a ndzi randzeke. Gal. 2.:20; I Yoh 4:19.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Wa la'va ku twa ha Yesu, Muponisi wa mina? Ndza n'wi rhandza ngopfu-ngopfu, Mukutsuri wa mina.", "refrao": false},
+            {"verso": "Ndza n'wi rhandza Yesu wa nga, Hi ku turisa mpimo; Ndzi kutsuriwe hi nxavo, Ngati ya Xinyimpfana.", "refrao": true},
+            {"verso": "2 Ndza n'wi rhandza Yesu wa nga, Hikuva wa ndzi pfuna. Loko ndzi dyiwa hi mbitsi, Wa ndzi hlulela tona.", "refrao": false},
+            {"verso": "3 Ndza n'wi rhandza Yesu wa nga Hikuva wa hanyisa; Loko ndzi le vuvabyini, Hi yona N'anga ya nga.", "refrao": false}
+        ]
+    },
+    {
+        "id": 57,
+        "numero": 57,
+        "titulo": "Vumboni bya Evangeli",
+        "autor": "LL.C.",
+        "ref": "Vula vumboni bya Evangeli ya tintsvalo ta Xikwembu. Mhaka 10:14.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Vumboni bya Evangeli, A hi byi tiyiseni, Ndzi pfumala tindzimi, Ta ku byi twarisa. Byi ndzi susela ndzhwalo, Byi ndzi ntshunxela moya, Vumboni bya Evangeli, ya Yesu.", "refrao": false},
+            {"verso": "Twarisan' vumboni Bya tintsvalo ta Xikwembu, Evangeli yi nga yona Mati ya vutomi. Yimbelalani, Aleluya! Aleluya! Loy'a swi rhandzaka a a teke, Mati ya vutomi bya tilo. Andzisani vumboni bya Evangeli, Amen!", "refrao": true},
+            {"verso": "2 Vumboni bya Evangeli, Byi ta ni le ka n'wina, Ha byona mi ta kuma Ku rivaleriva. Mi ntshunxiwa ntlan'wini, Mi ta katekisiwa, Hi vumbone bya Evangeli ya Yesu.", "refrao": false},
+            {"verso": "3 Vumboni bya Evangeli I rivoningo ra Moya, Ha byona mi endliwa Vana va Xikwembu. Mi pfuleriwa nyangwa, Mi nghena le tilweni, Hi vumboni bya Evangeli Ya Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 58,
+        "numero": 58,
+        "titulo": "Yesu wa ponisa",
+        "autor": "C.A.C",
+        "ref": "Luk. 19:10.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 A ndzi lova endzopen', A ndzi tsandzekile, Ku tihumesa khelen' Ra khombo ni rifu. Kambi Hosi yi twile. Ku rila ka mina, Yi tshambulute voko Ra ku ndzi ponisa.", "refrao": false},
+            {"verso": "Ndzi ponile, ndzi ponile, Rirhandzu ra Yesu ri hlurile.", "refrao": true},
+            {"verso": "2 Mbilu ya nga hinkwayo Ndzi yi nyiketile E ka Yesu Muferi, Ndzi ta n'wi hanyela. O ta fuma e mbilvin', Xi va xiluvelo Xa yena hi masiku, ndzi n'wi rhandza.", "refrao": false},
+            {"verso": "3 N'wina vanhu lendzingwen' Sweswi langutelan', E ka Yesu le henhla, O ta mi ponisa. Yena o ta rhulisa timbilu ta n'wina, N'wi amukelen' sweswi. Wa mi rhandza.", "refrao": false}
+        ]
+    },
+    {
+        "id": 59,
+        "numero": 59,
+        "titulo": "Vito ra Yesu ra Pfuna",
+        "autor": "C.A.C",
+        "ref": "Vito le' ri nge henhla ka movito hinkwawo; I vito ra Yesu. Filipia 2: 9, 10.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Vito ra Yesu ra pfuna Wena n'wana wa khombo, Rona ri ta ku tsakisa E ku famben' ka wena.", "refrao": false},
+            {"verso": "Vito le'ri tsakisaka, Vito le'ri hanyisaka, Vito le'ro mandziha' Hi ro vito ra Yesu", "refrao": true},
+            {"verso": "2 Va n'wi cha vito ra Yesu. Muponisi wa vanhu; Wa kota ku susa swivi Timbilwini ta hina.", "refrao": false},
+            {"verso": "3 Xikwembu xi twarisile Vito le ri ra Yesu, Leswaku l'a pfumelaka O ta londzovotiwa.", "refrao": false},
+            {"verso": "4 E nhlomulwen' ne miringwen', Yesu wa chavelela, Ne ku vabyen' wa hanyisa, I Mupfuni wa hina.", "refrao": false},
+            {"verso": "5 Vito leri ra chavisa Tintsumi ta Satana; Tshemba vitweni ra Yesu U ta hlula hinkwaswo.", "refrao": false},
+            {"verso": "6 A hi nkhinsamen' hi khensa Vito leri ra Yesu, Hi n'wi twarisa namuntlha, Ni masiku hinkwaswo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 60,
+        "numero": 60,
+        "titulo": "Tsemba e Vitweni ra Yesu",
+        "autor": "C.A.C",
+        "ref": "\"A ku na vito rimbe.\" Mhaka 4:12; Fil. 2:9.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Tsemba e vitwen' ra Yesu, N'wana wa mahlomulo; Ri ta tsakisa masiku. Ri tamele hinkwako", "refrao": false},
+            {"verso": "I vito ra Yesu, Leri ndzi tsakelaka, Hi rona risuna Ra pfuna hi masiku.", "refrao": true},
+            {"verso": "2 Tshemba evitwen' ra Yesu, Emiringwen' hinkwayo; Xi ve xithangu xa wena, Ri tamele hinkwako.", "refrao": false},
+            {"verso": "3 Tshemba evitwen' ra Yesu, Vito le'ro saseka; Ku hava hansi ka tilo Rimbe le'ri pfunaka.", "refrao": false},
+            {"verso": "4 Tshemba evitwen' ra Yesu, Ri twarise hinkwako; Byela vanhu ta ku pona, Ni ta ndlala ya tilo.", "refrao": false},
+            {"verso": "5 Tshemba evitwen' ra Yesu, Ne nkarhin' wa vuvabyi; Ka hlongoriwa hinkwaswo Hi vito ra Muferi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 61,
+        "numero": 61,
+        "titulo": "Ndzi N'wana wa Hosi",
+        "autor": "A.C.N.",
+        "ref": "Mi vana va Xikwembu hi ku pfumela ka Yesu Kriste. Gal. 3:26.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ndzi n'wana wa Hosi, O ndzi rhandzile, O tile ku ndzi fela la, Leswaku ndzi ta nghena kaya le henhla, Ndzi ta tshama na yena.", "refrao": false},
+            {"verso": "Ndzi n'wana wa Hosi, O ndzi rhandzile, A nga ka a nga ndzi rivari; O ta ndzi vitana hi siku rin'wana Ndzi ta tshama na yena, kona.", "refrao": true},
+            {"verso": "2 Ndzi n,wana wa Hosi, Wa ndzi rhandza ngopfu, Wa ndi hlayisa hi masiku; Loko ndzi karha, hambi ndzi ringiwa, Wa rhulisa a ndzi wisisa.", "refrao": false},
+            {"verso": "3 Ndzi n'wana wa Hosi, Ndzi rhandza ku famba, Ndzi ko ndzi nghena ematilwen'; 'Hinkwaswo swa misava swi nga ta hela, Na swona, swidyoho ku hava.", "refrao": false}
+        ]
+    },
+    {
+        "id": 62,
+        "numero": 62,
+        "titulo": "Yesu Kriste, Tana Sweswi",
+        "autor": "A.C.N.",
+        "ref": "Hosi i Mufumi wa mina, ndzi nga ka ndzi nga Chavi nehumu. Mateo 28:20; Heb. 13:6",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Yesu Kriste, tana sweswi, Ndzi pfumala matimba Ku ya famba e ndleleni, Lok' U nga na mina.", "refrao": false},
+            {"verso": "Loko u ri na mina. A ndzi nga chavi nehumu, Ndzi ta famba, ndzi tsakile, Ndzi ta famba na wena.", "refrao": true},
+            {"verso": "2 Yesu Kresti tana sweswi, Ndzi tshama ndzi languta Henhla laha u ngakona, Hikuva ndza ku rhandza.", "refrao": false},
+            {"verso": "3 Yesu Kresti, ndza swi lava Ku ku yingisa wena, Loko u ndzi byela mina Marito ya ku hanya.", "refrao": false},
+            {"verso": "4 Tana sweswi, u ndzi komba Ndlela ya ku ya tilwen' Kutani rirhandzu ra ku Ri ta tshama embilwin'.", "refrao": false},
+            {"verso": "5 Loko nkarhi wu fikile Wa ku rhurha misaven': Ndzi ta pfuniwa hi wena, Hosi, Mulondzovoti.", "refrao": false},
+            {"verso": "6 Kambe loko u ta Hosi, Ndza ha hanya misaven'. Ndzi ta tsaka ku tiurisa, Ndzi ta nghena etilwen'.", "refrao": false}
+        ]
+    },
+    {
+        "id": 63,
+        "numero": 63,
+        "titulo": "A nga kona Munghana Un'wana",
+        "autor": "C.A.C",
+        "ref": "Ku ni nakulobye l'a tilulaka makwave. Swi vuriso 18:24; Yohane 15:13",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 A nga kona Munghana un'wana, Ku hava!, Ku hava! A nga kona Muferi un'wana, Ku hava! Ku hava!", "refrao": false},
+            {"verso": "Yesu wa swi tiva hinkwaswo; Wa hi fambisa' masiku. O kwihi l'a fanaka na Yesu? Ku hava! Ku hava!", "refrao": true},
+            {"verso": "2 Muponisi un'wana ku hava, Ku hava! Ku hava! Muhanyisi un'wana ku hava! Ku hava! Ku hava!", "refrao": false}
+        ]
+    },
+    {
+        "id": 64,
+        "numero": 64,
+        "titulo": "Rirhandzwini ra Hosi Yesu",
+        "autor": "C.A.C",
+        "ref": "Tshamani rirhandzwini na mina. Yoh.15:9.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Rirhandzwini ra Hosi Yesu, Ndzi tshama hi masiku; I xitshamo xo nandziha, A ndzi na ripfalo. Yesu wa ndzi katekisa, Yena wa ndzi risa, Wa ndzi khoma hi vunene, Sweswi ndzi tsakile.", "refrao": false},
+            {"verso": "2 Loko nala a ndzi ringa A lava ku ndzi wisa, Ndzo khongela eka Yesu Ndzi n'wi tshemba yena. I rirhandzu le'ri kulu, Ri fana i tilo, Ni tintswalo to tiurisa Ta Hosi ya hina.", "refrao": false},
+            {"verso": "3 Wa swi rhandza ku n'wi tiva? N'wi amukelwni! Languta, o la kusuhi, Hatlisa u n'wi landza. Rirhandzwin' ra Hosi Yesu. Vanhu va nga nghena, Va ta kuma swo handziha Loko va n'wi landza.", "refrao": false}
+        ]
+    },
+    {
+        "id": 65,
+        "numero": 65,
+        "titulo": "Yesu wa Ndzi Yimela",
+        "autor": "C.A.C",
+        "ref": "Kriste, hi yena l'a hi khongelelaka. Rom. 8:34; hab. 7:25",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Exiluvelwen' le henhla, Yesu wa tshama, 'Xineneni xa Tatana Wa ndzi yimela; Yena l'a nga ndzi fela Wa hanya ku ndzi Iwela, Wa hanya ku khongela, Yesu wa mina.", "refrao": false},
+            {"verso": "2 Hambi nala a ndzi ringa, Ni ku ndzi henhla, Yesu wa ndzi ha matimba, Ni ku ndzi Iwela; Yena o ringiwile, Maxango o ma twile, Kambe o swi hlurile, Yesu wa mina.", "refrao": false},
+            {"verso": "3 Hambi loko ndzi tsandzeka Nzdi twa ku tsana Hi Muhluri swa koteka, Kambe, ku khana, L'a nga twa ku soriwa, Xivundza ni ku biwa, A nga na ku hluriwa, Yesu wa mina.", "refrao": false},
+            {"verso": "4 Yesu, Hosi ya rirhandzu Wa ha ndzi twela, E mahlweni ka Xikwembu Wa ndzi yimela; L'a nga hlula misaven, O ta vuya le mpfulken', Ku ndzi yisa le tilwen', Yesu wa mina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 66,
+        "numero": 66,
+        "titulo": "Loko ndzi na Yesu kriste",
+        "autor": "A.C.N.",
+        "ref": "Mi titsakela hi liswi mi nga ni ku averiwa e ku vavise Keni ka kriste .IPet .4:12,13; na IPet.4:19; Heb.13:5,6",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hambi ndzi ringiwa ngopfu, Ndzi hava nakulori; Hambi ndzi navela tilo Mbilu yi vaviseka.", "refrao": false},
+            {"verso": "Loko ndzi na Yesu Kriste, A ndzi nga chavi nchumu, Hikuva o ndzi tsakisa, Hi masiku hinkwawo", "refrao": true},
+            {"verso": "2 Hambi ndlela yi nga leha, Ni mbilu yi karhala; Maxango ni ko sandziwa Ndzi ta tshemba Yesu.", "refrao": false},
+            {"verso": "3 Hambi swilo swa misava Swi khunguvanyekisa; Satana a ndzi chavisa Hi ku vomba ka yena.", "refrao": false},
+            {"verso": "4 Hambi ndzi le nhlomulweni, Ndzi nga ri na matimba; Hambi ndzi le makhombyeni, Ndzi pfumala ku tsaka.", "refrao": false},
+            {"verso": "5 Hambi rifu ri nga fika, A ri nga ndzi chavisi; Hikuva ndzi ta n'wi vona Hi xiviri xa yena.", "refrao": false},
+            {"verso": "Yesu Kriste, Yesu ntsena, O ta ndzi nghenisa le; Ndzi ta thsama etilweni Na Yesu, Murhandziwa.", "refrao": true}
+        ]
+    },
+    {
+        "id": 67,
+        "numero": 67,
+        "titulo": "Loko Ndzi la Misaveni",
+        "autor": "A.C.N.",
+        "ref": "Roma 8:31; Heb. 13:5,6.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Loko ndzi la misaveni Ndzi pfumala matimba, A ndzi koti ku tirhela Yona Hosi ya mina; Wena Yesu (bis) Hi we Mupfuni wa nga", "refrao": false},
+            {"verso": "2 Ndzi nyike ku tiyisela, Ndzi hulele miringo; Ni loko ndzi famba kule, Wena u ndzi hlayisa; Ndza navela (bis) Kaya ra le tilweni.", "refrao": false},
+            {"verso": "3 Ndzi khome ndzi nga va chavi. Vanhu la'va sandzaka; Kambe ndzi ve mboni ya ku Wena n'winyi wa mina; E tilweni (bis) Ndzi nghewnise na mina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 68,
+        "numero": 68,
+        "titulo": "Yesu wa hi Hlayisa hi Masiku",
+        "autor": "C.A.C",
+        "ref": "Loyi a ngani matimba ku mi hlayisa mi nga kunguvanyeke. Yuda 1;24,25; Gal. 2:19.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Xin'we ni Kriste ndzi vambiwile, Kambe ndza hanya, ndzi nga ri mina. I Yesu l'a hanyaka 'ka mina, Sweswi ni masiku ndzi wa yena.", "refrao": false},
+            {"verso": "Hi siku rin'wana ni rin'wana Ndza tshama rirhandzwini ra Yesu, Ndzi tshamela ku vuya ka yena, Ndzi wa wena, Hosi, U wa mina.", "refrao": true},
+            {"verso": "2 'Mahlomulweni wa ndzi hlayisa Yesu wa rhwala mirhvalo ya nga. Kunene Nakulori i yena, Hi masiku ndza tshama ' ka yena", "refrao": false},
+            {"verso": "3 Loko ndzi vabya wa ndzi hanyisa Yesu, wa sula mihloti ya nga, Hi yena l'andzi haka ku rhula, E matimben' ya Yesu ndza hanya.", "refrao": false},
+            {"verso": "4 Hi masiku ndzi ta tshemba Yesu, Ndzi ko ndzi heta ripfumba ra mina, Hi yena l'a ndzi yisaka kaya, Laha ndzi nga ta tshama na yena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 69,
+        "numero": 69,
+        "titulo": "Yesu i Muhanyisi",
+        "autor": "C.A.C",
+        "ref": "Roma 8:31; Heb. 13:5,6.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hosi Yesu wa khaluta, A ku lavi ku mu khumba? We, muvabyi wo xaniseka! Yesu i Muhanyisi.", "refrao": false},
+            {"verso": "Wa ha tshungula, namuntlha, Vuvabyi wa ha hlongola; O ta ku nyika ni ku hanya, Yesu i Muhanyisi.", "refrao": true},
+            {"verso": "2 Mukhuhiwana ni nhlokonho Ni ku pandza ka tinhloko, Ma hola mavabyi hinkwawo, Yesu i Muhanyisi.", "refrao": false},
+            {"verso": "3 Mademona a hlongola, A horisa ni timbanga, Na yo ngati le'yi tlhavaka, Yesu i Muhanyisi.", "refrao": false},
+            {"verso": "4 L'a vabyaka a nga ta la A totiwa hi mafurha Kutani hi ta m'khongelela, Yesu i Muhanyisi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 70,
+        "numero": 70,
+        "titulo": "Khumba Nguvu ya Yesu",
+        "autor": "E.M.N.",
+        "ref": "Wansati a khumba makumu ya nguvu ya yena. Luka 8:43-48.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 A wansati loyi a nga vabya ngopfu, Hi malembe a xanisiwa, Kambe a twa marito ya Hosi Yesu, A n'wi khumba,a horisiwa.", "refrao": false},
+            {"verso": "Tshambuluta voko Ra wena namuntlha, Yesu a ri karhi a hundza. Khumba nguvu ya Yena hi ku pfumela, U ta kuma ku hanyisiwa.", "refrao": true},
+            {"verso": "2 Lo'wansati l'a nga tshinelela Yesu. A yi khumba nguvu ya yena, Hi ku tshemba matimba ya Hosi Yesu, Byi hola vuvabyi bya yena.", "refrao": false},
+            {"verso": "3 Loko wena u vabya u nga ta sweswi, Eka Yesu l'a hanyisaKa, U ta khongeleriwa hi vapfumeri, Hi mavoko u tlhandlekiwa.", "refrao": false},
+            {"verso": "4 E xihlobyeni xa tintswalo ta Yena, Lomu mati ma pfelelaka, U nga chyela u kondza u xurhisiwa Hi wo Moya lo'wo kwetsima.", "refrao": false}
+        ]
+    },
+    {
+        "id": 71,
+        "numero": 71,
+        "titulo": "Ndzi Nghenile Ndyondzweni ya Yesu",
+        "autor": "C.A.C",
+        "ref": "Rwalani joke ra mina. Mateo 11:29; 1 Yohane 5:3",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ndzi nghenile ndyondzweni ya Yesu Ndzi amukerile Muferi; Swidyoho swa mina swi herile, Ndzi le ndleleni ya vutomi.", "refrao": false},
+            {"verso": "Joko ra Yesu ra olova Ndzhvalo wa yena wu vevuka, Tidyondzo ta yena ta tsakisa Endleleni le'yi yaka kaya.", "refrao": true},
+            {"verso": "2 Sweswi ndza rhwala joko ra Yesu, Ndzi havi ya yena Kunene; Ndzi randza ku fumiva hi Hosi. Ndzi tsakile ku n'wi tirhela.", "refrao": false},
+            {"verso": "3 Ndzhwalo wa nala a wu karhata, Joko ra Yesu ra olova; Milawu ya Yesu a yi tiki, Wa ndzi ha matimba ku hlula.", "refrao": false},
+            {"verso": "4 Ndzi kumile ku wisa ka Yesu, Wa ndzi ha ku tsaka masiku; Yesu o ni mbilu ya tintsvalo, Wa hlayisa vanhu va yena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 72,
+        "numero": 72,
+        "titulo": "Ndzi Tinyiketa",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Eka Yesu ndzi nyiketa, Swiło hiknkwaswo swa nga. Ndza n'wi rhandza, ndza n'wi landza; Hi masiku hikwawo.", "refrao": false},
+            {"verso": "Ndzi tinyiketa, Ndzi tinyiketa, Hosi Yesu, Murhandziva, Ndzi tinyiketa.", "refrao": true},
+            {"verso": "2 Eka Yesu ndzi nyiketa, Mavoko ni milenge, Leswaku ndzi n'wi trthela Muponise wa mina.", "refrao": false},
+            {"verso": "3 Eka Yesu ndzi nyiketa, Ni ritimi ra mina, Leswaku ndzi vulavula Vumboni bya Muferi.", "refrao": false},
+            {"verso": "4 Eka Yesu ndzi nyiketa Ni masiku ya mina, Ku tifuma a ndzi rhandzi, Yesu i N'wini wa nga.", "refrao": false}
+        ]
+    },
+    {
+        "id": 73,
+        "numero": 73,
+        "titulo": "Ndzi tsinelela, Hosi ya nga",
+        "autor": "C.A.C",
+        "ref": "\" ndzi ta n'wi thsineta.\" Yer. 30:31.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ndzi tshinelela, Hosi ya nga, Ndzi va kusuhi ni Murhandziwa; Hi wena l'a ndzi tiyisaka, Ndzi kuma ku xurha ni ku tsaka.", "refrao": false},
+            {"verso": "2 Ndzi tshinelela, Hosi ya nga, Swa misava ndza swi fularhela, Ndzi tsakela swa wena ntsena, Hi wena loyi ndzi ku rhandzaka.", "refrao": false},
+            {"verso": "3 Ndzi tshinelela, Hosi ya nga, Ndza swi lava ku endla ku rhandza Ka wena, ni ku tsakisa, Ndzi ri karhi ndzi kongoma kaya.", "refrao": false},
+            {"verso": "4 Ndzi tshinelela, Hosi ya nga, Nkarhi, wu hundza, ndzi langutelaKu vuya ka Muteki wa nga, Ndzi ta kuma ku tshama na yena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 74,
+        "numero": 74,
+        "titulo": "Swa Misava Mi nga Teka",
+        "autor": "C.A.C",
+        "ref": "\"Leswi ngi swi ri rifuwo eka mina, ndzi swi endle swa Hava hikwalaho ka Kriste.\" Fil. 3:7,8; 1 Yoh. 2;15.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Swa misava mi nga teka, A ndza ha swi naveri; I Yesu ndzi n'wi lavaka, Ndza n'wi rhandza Muferi.", "refrao": false},
+            {"verso": "Aleluya! Ndzi ponile, Yesu i Muponisi; Hi yena l'a nga ndzi ntshunxa, A ndzi hlantswa embilwin'.", "refrao": true},
+            {"verso": "2 Swa misava mi nga teka, Yesu wa ndzi tsakisa, Hi masiku wa ndzi pfuna, Hi yena Muhlayisi.", "refrao": false},
+            {"verso": "3 Swa misava mi nga teka, Yesu i xuma xa nga; Wa ndzi nyika mikateko. Hi yena Hosi ya nga.", "refrao": false},
+            {"verso": "4 Swa misava mi nga teka, Yesu i N'anga ya nga, Wa horisa ni mavalye, Hi yena Muhanyisi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 75,
+        "numero": 75,
+        "titulo": "Hundzan', Mitsakiso ya misava",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hundzan', mitsakiso ya misava, Yesu wa ndzi vita eku tsaken', Ku hava ku tsaka ni ku rhula kwala, Yesu wa tsakisa, yesu ntsena.", "refrao": false},
+            {"verso": "Swi ve kule na mina, swa la, Ndzi lava ku tshama na Yesu le Swilo swa misava swa hundza namunthla, Ndzi rhandza wena Yesu wanga.", "refrao": true},
+            {"verso": "2 Milorho ya mina yi hundzile, Hi wena Yesu l'a voningaka, Ku navela ka mina ku ndzi xisile, Wena wa tsakisa, Yesu wa nga.", "refrao": false},
+            {"verso": "3 Salan' swa misava ni hinkwaswo, Ndzi tsakela vutomi bya Yesu, Ndzi navela kaya, ku tsaka, ku wisa, Ku rhula na wena, Murhandziwa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 76,
+        "numero": 76,
+        "titulo": "Kusuhi ni Xikwembu",
+        "autor": "I.L.C",
+        "ref": "\"Tshindjekelani ku Xikwembu Nkulukumba.\" Yakobo 4:8; Mateo 6:19,20",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Yesu Muhuluxi wa nga, Murhandziwa wa mina, Hinkwaku ku hanya kwa nga Ndzi fambise na wena.", "refrao": false},
+            {"verso": "Kusuhi ni Xikwembu, Kusuhi ni Xikwembu, Ndzi ta famba hi masiku Kusuhi ni Xikwembu.", "refrao": true},
+            {"verso": "2 A nji naveli lifuyo, Hambi ku titwalisa, Ndzi fuyile ngopfu - ngopfu, Loko nji na wene ntse.", "refrao": false},
+            {"verso": "3 Hambi ndlela yi karhata Yi nga leha, yí biya, Hambi yi ye le Golgotha, Ndzi na wena Xikwembu.", "refrao": false},
+            {"verso": "4 Loko ndzi famba nkinsini Wa ku fa ndzi le nyangwen', Ndzi kombela, Hosi Yesu, Ku nhingena na wena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 77,
+        "numero": 77,
+        "titulo": "Ndzi ta n'wi Landza",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 :I: :I: Yesu wa ndzi vita sweswi - :I: :I: Ku n'wi landza, landza misaven', : I: :I: Mufambisi n'ta n'wi Landza :I: :I: N't'a n'wi landza, landza misaven',", "refrao": false},
+            {"verso": "2 :I: :I: N'ta n'wi landza ne tangeni - :I: :I: Ku yi hlula, hlula miringo.", "refrao": false},
+            {"verso": "3 :I: :I:O ta yi nyika tintswalo - :I: :I: Ku n'wi landza, landza endlelen',", "refrao": false},
+            {"verso": "4 :I: :I: Hi ta wisa, hi ta rhula - :I: :I:", "refrao": false}
+        ]
+    },
+    {
+        "id": 78,
+        "numero": 78,
+        "titulo": "Yesu i Muhluri",
+        "autor": "C.A.C",
+        "ref": "\" Tiyisani timbilu nâzi hlurile misava.\" Yoh. 16:33; Heb. 2:14,15; na Efesa 6:10.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Aleluya! Nkateko! Yesu o ni matimba. Yi yena Muhluri; Valala va nga pfulka, Yesu o ta va hilula Hi yena Muhluri:", "refrao": false},
+            {"verso": "Hi hilula hi matimba, Aleluya! Nkateko! Yesu wa hi hiluela, Ha n'wi nkhensa, Aleluya! Hi yo Hosi ya hina.", "refrao": true},
+            {"verso": "2 Ha n'wi tshemba Muhluri, Yena a nga hluriwi, Hi yena Muhluri; Namuntlha hi tsakile, Swidyoho swi herile, Hi yena Muhluri;", "refrao": false},
+            {"verso": "3 Huwelela hikwakwo O hlurile hinkwaswo, Hi Yesu Muhluri; Hi ta khana halenu, A hi nga chavi nehumu", "refrao": false},
+            {"verso": "4 Ha langutela Yesu, O hlurile ni riftu, Hi Yesu Mulhuri; Hi ta pfula eku fen', Hi ta tsaka e tilwen', Hi Yesu Mulhuri.", "refrao": false}
+        ]
+    },
+    {
+        "id": 79,
+        "numero": 79,
+        "titulo": "Hi ta Hlula",
+        "autor": "F.K",
+        "ref": "\"Ya n'wi hlurile hi ngati ya xinyempfana, ni rito ra Vumboni bya vona.\" Hlavutelo 12:11.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 A hi yeni hi ya Iwela Tiko leri ra Xikwembu", "refrao": false},
+            {"verso": "Hi ta hlula, hi na Hosi, Hi tinhenha ta Mulhuli, Hi ni Fumu le'ra ntamu, Hi ta hlula, hi na Moya.", "refrao": true},
+            {"verso": "2 Nyimpi leyi hi yi Iwaka Ya tinele ta Satana.", "refrao": false},
+            {"verso": "3 A hi Iweni hi tiyile, Hi ta hlula, hi na Yesu.", "refrao": false},
+            {"verso": "4 Hi ta fika etilweni, Hi ta wisa, hi ta rhula.", "refrao": false}
+        ]
+    },
+    {
+        "id": 80,
+        "numero": 80,
+        "titulo": "Swa Fana ni Tilo Sweswi",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Vanhu va hi hialela, vo hlamala, Leswi hi tsaka' swonghasi; Hi perile Yordan' ha tshama Kanan' Swa fana ni tilo sweswi.", "refrao": false},
+            {"verso": "Swa fana ni tilo sweswi, Swa fana ni tilo sweswi, Hi perile Yordan', Ha tshama Kanan', Swa fana ni tilo sweswi.", "refrao": true},
+            {"verso": "2 Ha tsaka, ha khana, ha yimbelela, Vanyingi a va twisisi; Hi tala hi Moya lo'wo kwetsima, Swa fana ni tilo sweswi.", "refrao": false},
+            {"verso": "3 Hi ri twile risimu ra le tilwen', Ri huma ka vakwetsimi I marito ya Yesu xiluvelwen', Ma twala kwala kusuhi.", "refrao": false},
+            {"verso": "4 Ha khana Hosin' hi tsaka tintswalwen', Ta Yesu l'a nga hi fela; Sweswi o ta ta ku hi teka tilwen', Ri ta va kaya ra hina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 81,
+        "numero": 81,
+        "titulo": "Mahlomulo a ma Fihli Yesu",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hambi mahlomulo ma tala, Mbilu yi ri ni gome, Ku t'mphu emahlweni ka mina, Ku kwetsima ka Yesu.", "refrao": false},
+            {"verso": "Makhombo a ma n'wi sirheli, Mombo wa Yesu wa vangama, Ndza ha ta n'wi tsakela, Loko ndzi nga na Yesu, Ndzi ta hlula hinkwaswo.", "refrao": false},
+            {"verso": "2 Hambi ndzi tlhaviwa hi mitwa, Ndzi vaviseka ngopfu, Mahlomulo a ma nga fihli Ku kwetsima ka Yesu.", "refrao": false},
+            {"verso": "3 Hambi ndzi nga dyisiwa mbitsi, Ndzi ko ndzi hela ntamu, Ni nkosi wu pfimbisa mbilu, Ndzi korwile na Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 82,
+        "numero": 82,
+        "titulo": "Nji Muyenji",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hi mi muyenji la misaveni, Nji jula tilu akaya ja nga, Nambi minjingo mi le ndleleni, N'ta va nji wisa ku Yesu wa nga, Nji tshinjekela ku Hosi ya nga, Yi langusela ku famba kwa nga, Yi ta nji pfuna ni le ku feni, Yi ta nji yisa akaya ja nga.", "refrao": false},
+            {"verso": "2 Nambi nji yambala ni psitxhagati, Wu kone nkhantxu lo'wa ku basa, Wa ku nun'hwela, nji ta yambala, Siku nji hetaka mpfuka wa nga. Nambi ni yingela mikarato, Nji sanjiwa nji hlekiw' hi vanhu, Ku ta lulama hinkwapsu- kwapsu, Loko nji tlhasa akaya ja nga", "refrao": false},
+            {"verso": "3 Nambi nji rhwala ni xihambano, Xi binja xone, nji vavisiwa, Nji ta nyikiwa ngiyana kone. Le' ya vutomi, yi ni lisima, Nji ta mu vona lwa nji rhanjaka, Nji tjhama na Muhuluxi wa nga, Nji yimbelela tinsimu kone, Nji mu dzunisa Mufeli wa nga.", "refrao": false}
+        ]
+    },
+    {
+        "id": 83,
+        "numero": 83,
+        "titulo": "Ndza ku Tshemba Yesu",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ndza ku tsemba Yesu, Loy'a nga ndzi fela, Ku ndzi ntshumxa Ndzi yingise sweswi, Hlantswa mbilu ya nga, Ndzi endle namuntlha, Ndzi ve wa ku.", "refrao": false},
+            {"verso": "2 Ndzi nyike tintswalo, Ni ntamu embilwin; U ndzi pfuxe; Ndzi kombela sweswi Leswaku rirhandzu Ra mina, ri hisa Ri ve ndzilo", "refrao": false},
+            {"verso": "3 Ndzi tshika hinkwaswo, Swa misava, Hosi, Murhandziwa; Ndzi lava ku endla Ku rhandza ka wena, Ni ku ku tirhela Hi masiku.", "refrao": false},
+            {"verso": "4 loko ndzi ri ndzingwen; khombyen` ni nhlomulwen' Ndzi hlayise. Ndi vonakarise, Ndzi nyike matimba, Ni ku tsemba wena, Ndzi tiyise.", "refrao": false},
+            {"verso": "5 Chela mbilwin' ya nga Rirhandzu ra Kriste Le' rikulu; Leswaku ndzi famba Xikarhi ka vanhu, Ndzi va byela Rito ra Vutomi.", "refrao": false},
+            {"verso": "6 Loko ri herile Pfumba ra vutomi La misaven', Ndzi nyike ku rhula, Ndzi teke tilweni Ku tsaka na wena Hosi Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 84,
+        "numero": 84,
+        "titulo": "Hosi ha Khongela",
+        "autor": "A.C.N",
+        "ref": "\"Oho Yehova, nitrho wa wena wu pfluxe Exikarhi ka malembe.\"Habakuk.3:2",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hosi ha Khongela, Hi pfuxe hinkwerhu, Tirha xikarhi ka hina", "refrao": false},
+            {"verso": "Hi danglea wena, Xikwembu xa hina, Hikuva hi rhandza ku tiva Ku rhandza ka wena.", "refrao": false},
+            {"verso": "2 Hosi, hi kombela Tintsvalo ni musa, Hi nga tshuki hi navela Swilo swa misava.", "refrao": false},
+            {"verso": "3 Hosi, ha khongela Hikuva hi rhandza Ku dzunisa vito ra ku, Xikwembu xa hina.", "refrao": false},
+            {"verso": "4 Hosi, hi kombela Moya wo kwetsima, Leswaku hi tatisiva Hi matimba sweswi.", "refrao": false},
+            {"verso": "5 Hosi, hi kombela, U hi katekisa Leswaku hinkwerhu hi ve Timboni ta wena.", "refrao": false},
+            {"verso": "6 Hosi, hi kombela, Tiyise timbilu. Hi nga tshuki hi tlherisiva Hi nala Satana.", "refrao": false}
+        ]
+    },
+    {
+        "id": 85,
+        "numero": 85,
+        "titulo": "Ndzi lava ku fana ni Yesu",
+        "autor": "A.C.N",
+        "ref": "Xaxamela ni xifaniso xa N'wana wa xona. Roma 8. 29; ( ni Mateo 5: 48 ni 1 Yoh. 3: 3)",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Yesu ndzi lava ku fana, Na wena, Hosi ya mina. Ndzi rhandza ku tivisa vanhu, Yesu,", "refrao": false},
+            {"verso": "2 Ndzi lava ku va rivoni Xikarhi ka vanhu, Yesu, Leswaku va vona rirhandzu ra ku, Va kondza va ponisiva.", "refrao": false},
+            {"verso": "3 Ndzi lava leswaku Hosi, U ta hluvula swa mina, U ndzi ambexa swa wena Xikwenbu, Ndzi ko ndzi fana na Yesu.", "refrao": false},
+            {"verso": "4 Ndzi lava ku vula, Hosi, Marito ya wena ntsena, Ndzi nga ha swi naveri swa misava, Kambe ndzi navela wena.", "refrao": false},
+            {"verso": "5 Ndzi lava, ndzi ku kombela, Ntamu wa ku ku dzunisa, Ni loko ndzi nghena kaya le henhla, Ndzi ta ku dzunisa kwale.", "refrao": false}
+        ]
+    },
+    {
+        "id": 86,
+        "numero": 86,
+        "titulo": "Hlangana na Yesu",
+        "autor": "C.A.C",
+        "ref": "\" Ni madyambu, ni mixo ni nblekanhi, Ndzi ta khongela.\" Psa. 55:17.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hlangana na Yesu wa ha ri mpundzu, O ta ku xurhisa hi mitsakiso Khongela ka yena le xihundleni,", "refrao": false},
+            {"verso": "2 Ni nhlekanhi u hlangana na Yesu, O ta ku Iwela, a ku nyika ntamu, N'wi hlayela ni timhaka ta wena, Tolovela ku khongela ka yena.", "refrao": false},
+            {"verso": "3 Ni madyambu u hlangana na Yesu, Yena o ta tshinelela kusuhi. Tiyisela u nga hatli ku suka U tsakela Yesu, xuxa na yena.", "refrao": false},
+            {"verso": "4 Tiyisela hi masiku hinkwawo, U nga rhuteli ku bula na Yesu, U nga n'wi fihleri nehumu wa wena, Wa ku rhandza ngopfu, o ta ku Iwela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 87,
+        "numero": 87,
+        "titulo": "Ku khongela ka Nandziha",
+        "autor": "C.A.C",
+        "ref": "Psa. 34:1-8; 78:17-26; Mateo 6:6; Roma 8:26",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ku khonghela ka nandziha, Ka ndzi nyika matimba; Ndzi vulavula na Hosi, Na yona ya hlamula.", "refrao": false},
+            {"verso": "E xihundleni xa mikhongelo, Ndzi vonana na Yesu, Wa tsinelela, wa ndzi rhulisa, Mbilu ya nga yi tsaka.", "refrao": false},
+            {"verso": "2 E mikhongelwen' ndza dyondza Ku tiva Yesu wa nga, Ndza n'wi nkhensa ndza n'wi vonga, Ndzi n'wi dangela yena.", "refrao": false},
+            {"verso": "3 E mikhongelwen' ndza tima Torha ra mbilu ya nga, Ndzi nwa mati ya vutomi Xihlobyeni xa Yesu.", "refrao": false},
+            {"verso": "4 E mikhongelwen' ndza kuma Matimba ya vunhenha, Hosi ya susa vutoya, Ndzi va mboni ya yona.", "refrao": false},
+            {"verso": "5 E mikhongelwen' ndza hlula Nyimpi ya yena nala, Satana wa rhurhumela Loko ku khongeriwa.", "refrao": false},
+            {"verso": "6 Ku khongela i fanelo, A ndzi nga ha rhuteri, Ndzi hanya hi mikhongelo, I vutomi bya mina.", "refrao": false},
+            {"verso": "7 Wena Moya wo kwetsima, Mukhongeleri wa nga, Ndzi dyondzise ku khongela Ni ku swi tolovela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 88,
+        "numero": 88,
+        "titulo": "Kamba Mbilu",
+        "autor": "C.A.C",
+        "ref": "\"Xikwembu, ndzi kambe, u tiva mbilu ya nga.\" Psalma 139:23, 24.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Kamba mbilu u yi vona Ni meehleketo; Kamba mahanyelo ya nga,", "refrao": false},
+            {"verso": "2 Wena l'a kambaka swilo, Mahlweni ka wena, Ra xa matthelo hinkwawo, Wena wa swi vona.", "refrao": false},
+            {"verso": "3 Munhu a nga ku fihleri Mintirho ya yena; Hambi swihundla ni swivi, Wena wa swi tiva.", "refrao": false},
+            {"verso": "4 Kamba ku hanya ka mina U ndzi hlavutela Le'swi nga ku vilerisa, Ndzi hlayele swona.", "refrao": false},
+            {"verso": "5 Kamba no swona swihundla, Swihlovo swa swivi; Swo biha le'swi fumaka Mbilu ni ririmi.", "refrao": false},
+            {"verso": "6 Pfuxa mapfalo ya mina, Yi va yi ndzi tshinya; Swidyoho swi ndzi nyenyetsa, Swi yila ka mina.", "refrao": false},
+            {"verso": "7 Hosi ndza titsongahata, Ndzi lava ku tenga, Hosi le'swi nyamisaka Wa nga basisisa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 89,
+        "numero": 89,
+        "titulo": "Ndzi na Ndlala, Ndzi na Torha",
+        "autor": "C.A.C",
+        "ref": "Mat. 5:6; Psa. 42:1.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ndzi yingise Hosi ya nga Ndzi ku thsinelela wena, Mbilu ya nga ya ku lava, Ndzi phamele, ndzi na ndlala.", "refrao": false},
+            {"verso": "Ndzi nwise mati, ndzi nyike vuswa Bya vutomi bya le henhla. Ndzi na ndlala ndzi na torha, Yesu, Hosi ndzi phamele.", "refrao": true},
+            {"verso": "2 U ndzi kamba tiva mbilu, Ndzi hlavutele swa le ndzen', Ndzi basise, ndzi dyondzise, Ndza ku lava wena ntsena.", "refrao": false},
+            {"verso": "3 Moya wa nga, wu ni torha, Hi me mupfumari, Hosi, U nga fiihi mombo wa ku, Tikombise eka mina.", "refrao": false},
+            {"verso": "4 Ku kotisa yona mhala, Le'yi rilelaka mati; Sweswo ndzi ku naverisa! Ndzi ni torha ra Xikwembu.", "refrao": false},
+            {"verso": "5 Hanyanyisa mahlo ya nga, Rito ra ku ra nandziha, Ndzi dyondzise ku twisisa, Hlavutela ni swihundla.", "refrao": false}
+        ]
+    },
+    {
+        "id": 90,
+        "numero": 90,
+        "titulo": "Tjhama na Hine, Hosi Yeru",
+        "autor": "H.C",
+        "ref": "Sala na hine, hikusa i madambu, ni dambu Ji pelile mfuri. Luka 24:29.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Tjhama na hine, Hosi Yeru, Hi hanane vumbilu bya ku, A hi na ku hanya hine. Handle ka timpsalo ta ku.", "refrao": false},
+            {"verso": "2 Tjhama na hine, Dambu jeru U hi vaningisela ndlela, Hi yingela rito ja ku, Hi ko hi ji yamukela.", "refrao": false},
+            {"verso": "3 Tjhama na hine we Muhlui, Hi hlulise valala veru, Hi thamungiwa Satana, Wena u xitlhangu xeru.", "refrao": false},
+            {"verso": "4 Tjhama na hine Mulamuli, Hi ta va na ku rula kwa ku, Hi tiyise, hi nga tluli Mun'we wa milau ya ku.", "refrao": false}
+        ]
+    },
+    {
+        "id": 91,
+        "numero": 91,
+        "titulo": "Ndzi Tekele Xihambano",
+        "autor": "M.N",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ndzi tekele xihambano, A ku va ndzi ku landza, Hambi va ndzi sola vanhu, Mina ndzi ta ku randza Hambi van'wana va tlhela, Swo biha va landzela Va ko va ku fularhela Ndzi ta ku landzela.", "refrao": false},
+            {"verso": "2 A ndzi byi naveri byona Vukulu bya misava, Laha Yesu a nga kona Mahlomulo ku hava Ncini loko va ndzi venga, Va n'wi venga na Yesu L'a nga fela nandzu wa nga, Muferi wa rirandzu", "refrao": false},
+            {"verso": "3 Va ndzi tsika va misava, Kambe ndzi na ro xaka, A nga Yesu, Murhandziwa L'a ndzi xavelelaka, Ku sandza ka varikweru Ku ndzi tshineta ntsena Kusuhi na yena Yesu, Ndzi va ndzi n'wi landzela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 92,
+        "numero": 92,
+        "titulo": "Ndzi Fume, Hosi",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Tatana a ndzi hambuka, Ni le kaya a ndzi suka, Ndzi dyondzise ku hundzuka; Ndzi fume hosi.", "refrao": false},
+            {"verso": "2 Hambi ndzi le nhlomulweni, N'to miyela, ndzi to yini? N'ta khongela miringweni; Ndzi fume Hosi.", "refrao": false},
+            {"verso": "3 Hambi u ri ndzi swi tshika Swilo leswi ndzi rhandzaka, N'ta hlamula hi ku tsaka; Ndzi fume Hosi.", "refrao": false},
+            {"verso": "4 Wena l'a nga ndzi hanyisa; Hi Moya ndzi katekise, Hi tintswalo ndzi tiyise; Ndzi fume Hosi.", "refrao": false},
+            {"verso": "5 Mbilu yanga kendlukela, Susa swa ku ku alela, Hambi swi ndzi nonon'hwela; Ndzi fume Hosi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 93,
+        "numero": 93,
+        "titulo": "Loko yi ta Hosi",
+        "autor": "W.A.D",
+        "ref": "Mal. 3: 17; 1 Tesa .4: 15-17.",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Loko yi ta, loko yi ta; Hosi ya matilo Loko yi ta, loko yi ta ku fuma a misava.", "refrao": false},
+            {"verso": "Hi ta hlengeletana Ku n'wi nkhensa na hi vonga; Hi ta huwa: \"Hosana\". \"Nwan'a Davida\".", "refrao": false},
+            {"verso": "2 Hosi yi ta hlengeleta Varhandziwa va yona; La' vo tenga va ta fuma Tilweni na yona.", "refrao": false},
+            {"verso": "3 La' va n'wi langutelaka Hi ku titengisa, Va ta tsaka ku twa huwa: \"Muteki wa vuya\".", "refrao": false}
+        ]
+    },
+    {
+        "id": 94,
+        "numero": 94,
+        "titulo": "Tiko le`ji Tjhavisaka",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Tiko le` ji tjhavisaka halahaya, Le`ji nga ni va ku xwenga, halahaya, A ko le Muferi wa nga , Ni vanakulori va nga, I jolejo kaya kwa nga, Halahaya.", "refrao": false},
+            {"verso": "2 Mimhombo mi ta vaninga, halahaya, Minkbantxu mi ta phatima halahaya. Famba na hine makwerhu , Hi ya vona Hosi yeru, Hi ta thasa kaya kweru, Halahaya.", "refrao": false},
+            {"verso": "3 Ambangwini lo` wu nene, halahaya, Tana a hi kongomeni,halahaya, Hi ta tjhava misaveni, Hi ta hlula le ku feni, Hi ta sina le tikweni Halahaya.", "refrao": false}
+        ]
+      },
+    {
+        "id": 95,
+        "numero": 95,
+        "titulo": "Mhalamhala ya Xikwembu",
+        "autor": "H.L.C.",
+        "ref": "1 kor. 15:52",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Mhalamhala ya Xikwembu Yi ta twala le ntsungen', E mixweni le' yi nene ku ku phaa! Loko ndzi twa vito ra mina, Ri kona ebukwin', N'ta ku: Hi mina ndzi n'wi langutela.", "refrao": false},
+            {"verso": "Yingisani Mhalamhala, Mapapeni yi twakala Yesu o ta vonakala Ku kutsula vapfuneri", "refrao": true},
+            {"verso": "2 La'va feleke ka Kriste Va ta huma masirhen', La' va hanyaka va ta wutleriwa; Yona Hosi yi xiviri Yi ta xika he tilwen', Hi ta hlangana na yona empfuken'", "refrao": false},
+            {"verso": "3 A hi tirheleni Yesu, Ha ha ri la misaven' Hi ta rhurha hi ku hatha hi ya le. Loko va ri hlaya vito Ra mina hi le tilwen' N' ta ku: Hi mina ndzi n'wi langutela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 96,
+        "numero": 96,
+        "titulo": "Hosi Yesu, O ta Vuya",
+        "autor": "C.A.C.",
+        "ref": "Timhaka 1:11; 1 Tesa. 4:16,17",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hosi Yesu o ta vuya L'a vambiweke murhini O ta teka vakwetsimi, A va yisa etilweni; Hi ta tsaka, hi ta tsaka; Aleluya! Aleluya! Hosi Yesu o ta vuya. Aleluya! Amen!", "refrao": false},
+            {"verso": "2 Ntsumi yi ta yimba nanga, Hosi Yesu o ta xika; Vafi va ta pfuka swin've Na hina la'va hanyaka; Hinkwerhu hi ta ya henhla, Aleluya! Aleluya! Hosi Yesu o ta vuya. Aleluya! Amen!", "refrao": false},
+            {"verso": "3 Hi ku tsopeta ka tihlo, Hi ta hundzuka hinkwerhu; Vadyondzisiva va Yesu, Hi ta ambala swa tilo; Hi nga ka hi nga fi kambe, Aleluya! Aleluya! Hosi Yesu o ta vuya. Aleluya! Amen!", "refrao": false},
+            {"verso": "4 A hi titengisen' sweswi, Yingisane vamakwerhu; A hi tsimbeni swisuti, Hi langutela Muteki; Pfurhisani mavoningo, Aleluya! Aleluya! Wa ta sweswi, Hosi Yesu. Aleluya! Amen!", "refrao": false},
+            {"verso": "5 \"Ndza hatlisa, ndza ta sweswi,\" Yingisan' rito ra Hosi, \"Ndzi ta tisa ni hakelo.\" Amen! Tana Hosi Yesu! Hi ta tsaka ku ku vona, Aleluya! Aleluya! Tana Yesu, tana sweswi. Aleluya! Amen!", "refrao": false}
+        ]
+    },
+    {
+        "id": 97,
+        "numero": 97,
+        "titulo": "Mapapeni ya ta Hosi",
+        "autor": "C.A.C.",
+        "ref": "Hlav. 1:7",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Mapapeni ya ta Hosi Ni mavandla ya matilo; Vakwetsimi ni tintsumi, Va ambala le'swo basa, Va n'wi landza hi ku tsaka, Aleluya, Aleluya, Mapapeni ya ta Hosi, Aleluya, Amen.", "refrao": false},
+            {"verso": "2 Va ta n'wi vona, hinkwavo, Loko a vuya ku fuma; Na vo la'va n'wi thaveke. Yo! Va ta tiba swiftuva; Va ta rila, va ta chava. Hi ku vona yena Kriste, Mapapeni ya ta Hosi, Aleluya, Amen.", "refrao": false},
+            {"verso": "3 Ti ta susiwa tihosi, Ni valala ni vadyohi; Ku ta fuma Hosi Yesu, Hinkwako hi ku lulama, Le'swo biha swi ta hela, Aleluya, Aleluya, Mapapeni ya ta Hosi, Aleluya, Amen.", "refrao": false},
+            {"verso": "4 Ha kunene, ha khongela, Tana Hosi, fuma wena; Susa ku Iwa misaveni; Fuma wena hi rhula, Hi ta tsaka hi ta nkhensa, Aleluya, Aleluya, Mapapeni ya ta Hosi, Aleluya, Amen.", "refrao": false},
+            {"verso": "5 Kambe n'wina va misava, Ma ha chava ku n'wi vona, Hundzukani mi pfumela, Mi ta pona, mi ta rhula, Mi ta tsaka, mi ta vula, Aleluya Aleluya, Ya ta Hosi ya matilo Aleluya, Amen.", "refrao": false}
+        ]
+    },
+    {
+        "id": 98,
+        "numero": 98,
+        "titulo": "Wa Vuya Hosi Yesu",
+        "autor": "C.A.C.",
+        "ref": "Yoh. 14:3; Hlav. 3:11 Tesa. 4:16,17",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Wa vuya Hosi Yesu Hi xiviri xa yena; O tshembisile swona Loko a nga si famba.", "refrao": false},
+            {"verso": "Wa vuya Hosi Yesu, Ni tintsumi ta yena, ta yena, Hi ta hlanganisiva Ku kwetsimen' le henhla.", "refrao": true},
+            {"verso": "2 Xana wa karhateka Hi miringo yo tala; Tiya mbilu, makwerhu, Mukutsuri wa vuya.", "refrao": false},
+            {"verso": "3 La'va feke e Hosin' Na vona va ta pfuka, Loko Hosi yi vuya Ku teka vapfuneri.", "refrao": false},
+            {"verso": "4 Hitekani vakriste, Lungisani timboni; A hi n'wi languteleni', Muteki a nga hlweri.", "refrao": false}
+        ]
+    },
+    {
+        "id": 99,
+        "numero": 99,
+        "titulo": "Ndzi ta Tsaka Kwale Kaya",
+        "autor": "A.H.R. (C.A.C.)",
+        "ref": "Hlav. 22:3, 4; Heb. 11:16; Yoh. 14:2",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Loko ndzi hetile rhendzo ra nga Ku tani ndzi fikile le kaya. Ndzi ta vonana ni Murhandziwa, Swi ta tsakisa hi ku tiurisa.", "refrao": false},
+            {"verso": "Ndzi ta tsaka kwale kaya, Ndzi ta vona Hosi ya nga. Ndzi ta flangela Yesu wa nga, Swi ta tsakisa ku va na yena.", "refrao": true},
+            {"verso": "2 Hi musa wa yena ndzi ta fika, Ndzi byi kuma vutshamo bya Mina, Kambe ku yi vona Hosi ya nga Swi ta tsakisa hi ku tiurisa.", "refrao": false},
+            {"verso": "3 Ku vonana ni la'va nga rhurha, Vapfuneri la'va rhandziwaka, Ku ta ndzi tsakisa, kambe yena O ta tsakisa hi ku tiurisa.", "refrao": false},
+            {"verso": "4 Ku nghena eku rhulen' ka tilo, Ni ku vona swo saseka kona, Swi ta ndzi tsakisa, kambe Yesu O ta tsakisa hi ku tiurisa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 100,
+        "numero": 100,
+        "titulo": "Tsemba ra Hina",
+        "autor": "C.A.C.",
+        "ref": "Efs. 6:10; 2 Kor. 12:9",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Tiya Hosini! - u tshemba Muhluri, U tiyisela endlelen'; Kaya tilweni a ka ha ri kule, I mpfhukanyana le mahlwen'; U nga titsoni tintswalo ta Hosi Ti ta ku nyika ku tiya, Ti ta ku pfuna leswaku u hlula Hinkwaswo le'swa ku biha.", "refrao": false},
+            {"verso": "Hosi ya vuya! Ku tsongo! Kutsongonyana Yesu l'a taka wa fika; Wa swi twa xana? Swin'we na yena Hi ta nyikiwa ku fuma, L'a hitekaka, Kunen' o ta tsaka, O ta dya ndzhaka ni xuma.", "refrao": true},
+            {"verso": "2 Yesu wa hanya, wa vona ku tsana, Ka wena eku pfumelen'; Wa nga ma tshemba matimba ya yena, Ma endlakala' ku tsanen'; Pfuxa mavoko na wona matsolo La'ma nga ni ku karhala; Tiyisa mbilu, hi ntamu wa Yena, U nge phasivvi hi nala.", "refrao": false},
+            {"verso": "3 Sweswi i nkarhi wa ku tiya Hosini, U va u pfulka vurhongwen', Byona vusiku bya hundza ni dyambu Ra xa sweswi kwale vuxen'; Hi wona nkarhi, wa ku hakarha matlhari! Vulolo u fularhela; Swi nga vavisa ku lahlekiriwa Le'swi u nga swi tirhela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 101,
+        "numero": 101,
+        "titulo": "Tana Moya wo Kwetsima",
+        "autor": "C.A.C.",
+        "ref": "Mhaka 1:4,5; Yoh. 14:26,27; 15: 26,27",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Tatana, u tshembisile Ku rhuma eka hina Moya lo'wa ku kwetsima Ku hi nyika matimba.", "refrao": false},
+            {"verso": "Xurhisa, xurhisa, Hi xurhise hi Moya; Wena Yesu Mukhuvuri, Tana, u hi xurhisa.", "refrao": true},
+            {"verso": "2 Tana Moya Mufambisi, Hi tiyise endlelen', Hi dyondzise ku khongela, Hi mukhuva wa wena.", "refrao": false},
+            {"verso": "3 Tana Moya wa Rirhandzu, Aka ndzeni ka hina, Hi dyondzise ku rhandzana Hi ku tiyisana.", "refrao": false},
+            {"verso": "4 Tana Moya, Mudyondzisi, Hi basisele ndlela, Twakarisa, Hosi Yesu, Hlavutela swa yena.", "refrao": false},
+            {"verso": "5 We Moya wa Pentekosta Hi susele vutoya. Hi he vanhenha bya wena, Hi pfuxe hi matimba.", "refrao": false}
+        ]
+    },
+    {
+        "id": 102,
+        "numero": 102,
+        "titulo": "Ha Kombela, Hosi Yesu",
+        "autor": "S.K.",
+        "ref": null,
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Ha kombela, Hosi Yesu Xitshembiso xa wena, Leswaku Hosi ya hina, U hi nisela Moya.", "refrao": false},
+            {"verso": "Hosi Yesu, Hosi Yesu, Nisa timpfula ta Moya. Nisa timpfula ta Moya.", "refrao": true}
+        ]
+    },
+    {
+        "id": 103,
+        "numero": 103,
+        "titulo": "Ndzilo wa Hosi",
+        "autor": "C.A.C.",
+        "ref": "Luka 12:49; 3:16",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Vanhu la'va orhaka ndzilo, Va twa ku kufumela, Na vona ngi va hi byela Leswaku wa nandziha; Kambe ndzilo wu ta hisa Le'swi khumbaka wona.", "refrao": false},
+            {"verso": "2 Swi tano hina vamakwerhu Lava hi nga vakriste; Ku ni ndzilo wa Yehova Lo'wu pfurhaka sweswi. Tshinelela, tshinelela, Wu ta hisa swa nyama.", "refrao": false},
+            {"verso": "3 Loko hi ma lava matimba Ya ku tirhela Hosi, A hi kombeleni ndzilo Hi hisekela Hosi; Wu ta pfurha, wu ta pfurha, Wu hi pfurhisa hina.", "refrao": false},
+            {"verso": "4 A hi tshineleleni sweswi, Hosi yi hi pfurhisa, Hi tala hi ndzilo wa Moya Moya wa Pentekosta, Rhuma ndzilo, rhuma ndzilo, Wu hi pfurhisa hina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 104,
+        "numero": 104,
+        "titulo": "Phukani n'wina Vapfuneri",
+        "autor": "A.C.N.",
+        "ref": null,
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Pfukani ke sweswi n'wina vapfuneri La'va nga tinhlengeletano ta Hosi, Moya 'wo kwetsima wu tile ka hina, Ku hi katekisa.", "refrao": false},
+            {"verso": "Kunen' wu misaven', wu hume etilwen', Ku ta hi kombisisa swivi swa hina Wa hi basisisa ni ku hi dyondzisa Marito ya Yesu.", "refrao": true},
+            {"verso": "2 Vanhu, yingisani, O vitana n'wina, Leswaku mi suka mi n'wi nkhinsamela, Mi kombela Yesu ku rhumela wona, Wu ta mi tiyisa.", "refrao": false},
+            {"verso": "3 A he! wu tile la xikarhi ka hina, Ku hi hlulela nala yena Satana, A hi pfaluleni timbilu ta hina, Wu ta nghena sweswi.", "refrao": false},
+            {"verso": "4 Tanan' vamakwerhu, hi khombela Hosi Ku hi rivalela milandzu ya hina, Ni ku tatisa hi Moya wa yona, Hi tinela Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 105,
+        "numero": 105,
+        "titulo": "Tana Moya wa Pentekosta",
+        "autor": "C.A.C.",
+        "ref": "Luka 11:13",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Xana u wu kumile Moya wa matimba? Hosi Yesu u ta Ku nyika namuntlha, Loko u pfumela, Pfalula mbilu sweswi, Moya u ta xikela Ehenhla ka wena.", "refrao": false},
+            {"verso": "Tana ke, Moya, Nisa timpfula, Hi tatise sweswi, Hi tsakamise; Moya wa ntiyiso, Dyondzisa swa Kriste Hi lava ku tiva Swa Hosi Yesu.", "refrao": true},
+            {"verso": "2 Hi siku ra Pentekosta A va hlangene, Hi mbilu yi ri yin've Eku khongeleni Hi nomu lo a wu Twakala mpfumawulo Wu hume etilweni Wa nge xihuhuri.", "refrao": false},
+            {"verso": "3 Ni va le Kezaria, Ni va le Efesa, Loko a va hundzuka Va khongela Hosi, Moya wa matimba A wu va funengeta, Hi tin'wana tindzimi Va vulavula.", "refrao": false},
+            {"verso": "4 Xana wa navela Ku kuma mikateko E moyen'ne ku hanyen' Ka wena namuntlha? Tisa mbita ya wena Le'yi hlantswiweke, U ta tatisiwa hi Matimba ya Moya.", "refrao": false},
+            {"verso": "5 Xana wa lava mati La'ma pfelelaka, Milambu ya mati Ya vutomi bya tilo? U ta tsaka ngopfu, U tsakisa van'wana, Vona va ta navela Vutomi bya Yesu.", "refrao": false},
+            {"verso": "6 Wa lava namuntlha Matimba ya vunhenha? Wa lava ku va mboni Ya Yesu misaven'? Loko u wu kumile Moya wa henhla U ta kota ku yisa Evangeli vanhwin'.", "refrao": false},
+            {"verso": "7 U ta amukela Svirhangana swa Moya, Ndzhaka ya wena le'yo Saseka ya tilo; Kombela nyiko ya Moya lo'wo kwetsima, Kutani xi ta hlamula, Xi ta ku tatisa.", "refrao": false},
+            {"verso": "8 A ku swi twi sweswi Ku dsindza ka matilo? Mapapa ya hlangana, Timpfula ti ta ta! Hi ta tsaka, hi rhula Hi pfulka, hi tirha, Hikuva hi ta Funengitiwa hi Moya.", "refrao": false}
+        ]
+    },
+    {
+        "id": 106,
+        "numero": 106,
+        "titulo": "Hi le Mahlweni ka Wena",
+        "autor": "C.A.C.",
+        "ref": "2 Tesa. 3: 1",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hi le mahlen' ka wena, Tatana wa hina; Hi kombela tintswalo, Hi ko ku khongela. Hi swi twile swirilo Swa la' va lovaka, Ha khongelela vona, Hosi va hanyise.", "refrao": false},
+            {"verso": "2 Matiko la'yo tala Male munyameni, Va ha ri la ndleleni, Ya khombo ni rifu. Va twele vusiwana, Va nyike ni Rito, Susa munyama wa vo, Hi ku vonakala.", "refrao": false},
+            {"verso": "3 Rhumela vadyondzisi, U va nyika ntamu, Va ta va byela vanhu Timhaka ta wena. Fambisa Evangeli Misaven' hinkwayo, Byisa vatsendzeleki Endyangweni wa ku.", "refrao": false},
+            {"verso": "4 Hatlisisa mikarhi Le' ya ku saseka, Loko vanhu hinkwayo Va tiva ta wena; Va amukela Hosi Muendli wa vona, Va rhandza Yesu Kriste Muferi wa vona.", "refrao": false}
+        ]
+    },
+    {
+        "id": 107,
+        "numero": 107,
+        "titulo": "Vakriste, Tiyiselani!",
+        "autor": "A.C.N.",
+        "ref": "Efesa 6: 10 - 14",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Vakriste tiyiselani, Yesu o ta ta; O yurile: \" Langutani, Mi khongela ke.'", "refrao": false},
+            {"verso": "Vamakwerhu, tiyani ke, Mi vula Rito; Mi va byela vamatiko, Yesu o ta ta.", "refrao": true},
+            {"verso": "2 Vanhu a va tivi Yesu, L'a nga va fela; Va ta byeriwa hi mani Ta ku pona sweswi?", "refrao": false},
+            {"verso": "3 Va ha ri emunyameni, Va khomiwile Hi matimba ya Satana, Nala wa vanhu.", "refrao": false},
+            {"verso": "4 Kambe Yesu wa va rhandza, Wa va vitana Ku ta eka yena sweswi. Ku ponisiwa.", "refrao": false},
+            {"verso": "5 Sweswi ke, tiyiselani, Yesu o ta ta, Mi ta tsaka, mi ta rhula Swin'we na yena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 108,
+        "numero": 108,
+        "titulo": "Twarisan' Timhaka ta Yesu",
+        "autor": "C.A.C.",
+        "ref": "Mhaka 5: 42; 4: 29; Luka 24: 47, 48",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Hi ti twile timhaka Ta Yesu, Muponisi, Ha ti tsakela tona Ta yena Mukutsuri. Hi ti amukellie, Hi suke ku n'wi landza Yesu u hi ferile; Sweswi - ke ha n'wi rhandza.", "refrao": false},
+            {"verso": "2 Twarisani timhaka Ta Yesu Muponisi, Vulani ku saseka Ka Yesu Mulamuri; Twarisani hinkwako Timhaka ta ku pona, Va byeleni hinkwavo Ta Yesu Muponisi.", "refrao": false},
+            {"verso": "3 Byelan va ku lahleka Ta Yesu muponisi, Va nga pona namuntha Hi Yesu Mukutsuri . Van wana va kaneta Timhaka ta matilo A va si khorwisiwa Va ha ta ku pfumela.", "refrao": false},
+            {"verso": "4 Va hlayeleni rito Ra Yesu muponisi, Nkateko wa rirhandzu Ra Yesu l a nsthumxaka, Mi ya va khongotela, A va te va tisola, Va ta amukeriwa Hi Yesu ni namutha.", "refrao": false}
+        ]
+    },
+    {
+        "id": 109,
+        "numero": 109,
+        "titulo": "Lavane Vanhu va nga si Lova",
+        "autor": "C.A.C.",
+        "ref": "Mi va wutla e ndzilweni . Yuda 23",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Lavani vanhu , Va nga si lova Mi va ponisa E makhombyeni, Va wile ekhelen` Va tkkuseni, Va byelen` ta Yesu muponisi.", "refrao": false},
+            {"verso": "Lavane vanhu Va nga si lova, Yesu o rhandza Va ta ponisiwa.", "refrao": true},
+            {"verso": "2 Hambi va landzula , Wa ha va rhandza O va rindzele Ku va ponisa, Va tivisen Mhaka ya Evangeli; O ta ponisa, loko va kholwa;", "refrao": false},
+            {"verso": "3 Va biwa masiku Hi wo mapfalo, Kambe a va baleki vukari; Va ha xisiwa hi Nala wa vanhu Kambe rirhandzu Ri ta va pfuxa.", "refrao": false},
+            {"verso": "4 I nfanelo ya ku Ku phasa vanhu Hosi yi ta ku pfuna, Mukriste; Va koke endlelen,` La va lovaka, Ya byise ka Yesu muponisi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 110,
+        "numero": 110,
+        "titulo": "Vandla ra Vaphasi",
+        "autor": "I.L.C.",
+        "ref": "Marka 1:17; Yuda 1:23",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Vandla ra væphasi, Pfukani n'wina, Nanga yi yimbile, Yanan' mahlweni. Yisan' Evangeli mitin' Ya vanhu; Mi ya va dyondzisa Ta ku pona.", "refrao": false},
+            {"verso": "Vandla ra vaphasi Pfukani sweswi, Twarisan' mahungu Ya Muponisi.", "refrao": true},
+            {"verso": "2 Yesu wa vitana, a ku: \" Ndzi landzen,\" Mi ta va vaphasi va vanhu Khombyen', Vanhu va lahleka, A va twisise, Timhaka ta yena Yesu Muferi.", "refrao": false},
+            {"verso": "3 Yesu l'a yimaka ematilweni, Wa va khongelela Va le ndzingweni. Wa vona mirhwalo Le' yi tikaka, Na tona timhaka le'ti vavisaka.", "refrao": false},
+            {"verso": "4 Hosi ya tintswalo, a yi swi lavi Ku lova ni un'we wa vo vadyohi Pfukani mi vula ta le matilwen', Vaphasi tirhani, Va wutle' ndzilwen'.", "refrao": false},
+            {"verso": "5 Dyondzani ta Hosi, Mi ta tlhariha: Lungisan' tinjovo, Bohan' tinyama' Va kombise ndlela ya ku chupuka, Kombela ka Moya wu ta khorwisa.", "refrao": false},
+            {"verso": "6 Khongelan' vaphasi Mi va mi tsemba. Mi nga heli mbilu, nala wa chava, Hosi ya hlamula yi ta mi pfuna Ku phasa mimoya ya la' vo tala.", "refrao": false}
         ]
     }
+  
+
+
 
 
 

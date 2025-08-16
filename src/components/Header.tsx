@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity, StyleSheet,TextInput } from 'react-native';
-import { Ionicons,FontAwesome5 } from '@expo/vector-icons'; // ícones do Expo (se estiver usando)
-import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import { View, Text, TouchableOpacity,Dimensions, StyleSheet,TextInput } from 'react-native';
+import { Ionicons} from '@expo/vector-icons'; // ícones do Expo (se estiver usando)
+// import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+const { width, height } = Dimensions.get('window');
 
 type HeaderProps = {
   onMenuPress: () => void;
   onShearchClose: () => void;
-  onTextoChange: (texto: string) => void  // nova prop
+  onTextoChange: (texto: any) => void  // nova prop
 }
 
 export default function Header({ onMenuPress, onTextoChange, onShearchClose}: HeaderProps) {
+
   const [pesquisaclicada, SetPesquisaclicada] = useState(false)
 
   const onPesquisarClicaddo = ()=>{
@@ -32,18 +34,18 @@ export default function Header({ onMenuPress, onTextoChange, onShearchClose}: He
        <View style={styles.pesquisaFechada}>
 
         <TouchableOpacity onPress={onMenuPress} style={styles.menuButton}>
-        <Ionicons name="menu" size={28} color="#333" />
+        <Ionicons name="menu" size={28} color="rgba(255,255,255, 0.8)" />
       </TouchableOpacity>
       <Text style={styles.title}> Mhalamhala Plus+</Text> 
 
-      <TouchableOpacity style={styles.menuButton} onPress={onPesquisarClicaddo}>
-        <Ionicons name="search" size={28} color="#3CB371" />
+      <TouchableOpacity style={styles.menuButton && styles.circulo} onPress={onPesquisarClicaddo}>
+        <Ionicons name="search" size={28} color="#179650ff" />
       </TouchableOpacity>
       </View>: <View style={styles.searchBar}><TextInput style={styles.searchInput}
             placeholder="Pesquisar por título ou número..."
             autoFocus
             placeholderTextColor="green"
-            onChangeText={onTextoChange}/><TouchableOpacity style={styles.closeButton} onPress={onPesquisarClicaddo} onPressOut={onShearchClose}>
+            onChangeText={onTextoChange}/><TouchableOpacity style={styles.closeButton && styles.circulo} onPress={onPesquisarClicaddo} onPressOut={onShearchClose}>
         <Ionicons name="close" size={30} color="#E0E0E0" />
       </TouchableOpacity></View>
       }
@@ -55,11 +57,10 @@ export default function Header({ onMenuPress, onTextoChange, onShearchClose}: He
 
 const styles = StyleSheet.create({
   header: {
-    backgroundColor: '#fff',
+    backgroundColor: 'black',
     padding: 10,
-    paddingBottom:15,
+    paddingBottom:-5,
     alignContent:'center',
-    top: 30,
     zIndex:22,
     // borderBottomWidth: 1,
     // borderBottomColor: "#ccc",
@@ -70,19 +71,24 @@ const styles = StyleSheet.create({
     marginRight: 10,
   },
   title: {
-    color: '#333333',
+    color: 'rgba(255,255,255,0.8)',
     fontSize: 20,
     fontWeight: '600',
     textAlign: 'center',
     flex: 1,
   },
   searchBar: {
+    paddingBottom: 10,
+    width: width,
+    gap: width * .030,
+    justifyContent: 'center',
+    paddingTop: 10,
     position: 'absolute',
     top: -5,
     left: 0,
     right: 0,
-    height: 60,
-    backgroundColor: '#fff',
+    height: 70,
+    backgroundColor: 'black',
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 10,
@@ -97,15 +103,15 @@ const styles = StyleSheet.create({
   },
   pesquisaAberta:{
     flexDirection:'row',
-    width:100,
     justifyContent:'space-between',
     padding:0,
   },
   searchInput: {
-    flex: 1,
     display:'flex',
+    width: width *.75,
+    marginTop:8,
     height: 40,
-    backgroundColor: '#E0E0E0',
+    backgroundColor: 'rgba(255,255,255, 0.2)',
     borderRadius: 20,
     paddingHorizontal: 15,
     fontSize: 16,
@@ -117,8 +123,8 @@ const styles = StyleSheet.create({
   },
   closeButton: {
     marginLeft: 10,
-    width: 36,
-    height: 36,
+    width: width *.15,
+    height:34,
     borderRadius: 18,
     justifyContent: 'center',
     alignItems: 'center',
@@ -127,7 +133,18 @@ const styles = StyleSheet.create({
   closeButtonText: {
     color: '#fff',
     fontWeight: 'bold',
-    fontSize: 18,
+    fontSize: 16,
   },
+
+  circulo: {
+    height:43,
+    width: 43,
+    borderRadius:"50%",
+    backgroundColor: 'rgba(255,255,255,0.2)',
+    justifyContent:'center',
+    alignItems:'center'
+  }
+
+  
 });
 

@@ -1,4 +1,26 @@
 {
+  "expo": {
+    "name": "Mhalamhala Plus+",
+    "slug": "mhalamhala-plus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.mauro.mhalamhala",
+      "edgeToEdgeEnabled": true,
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.mauro.mhalamhala",
+      "buildNumber": "1.0.0"
+    }
+  },
   "compilerOptions": {},
   "extends": "expo/tsconfig.base"
 }

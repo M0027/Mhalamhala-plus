@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, View, Text, TouchableOpacity, Appearance } from 'react-native';
-import { RouteProp, useRoute } from '@react-navigation/native';
-import { RootStackParamList } from '../../App';
 import Footer from '../components/Footer';
 
 const Configuracoes = () => {
