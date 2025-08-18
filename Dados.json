@@ -1657,8 +1657,1451 @@
             {"verso": "5 Dyondzani ta Hosi, Mi ta tlhariha: Lungisan' tinjovo, Bohan' tinyama' Va kombise ndlela ya ku chupuka, Kombela ka Moya wu ta khorwisa.", "refrao": false},
             {"verso": "6 Khongelan' vaphasi Mi va mi tsemba. Mi nga heli mbilu, nala wa chava, Hosi ya hlamula yi ta mi pfuna Ku phasa mimoya ya la' vo tala.", "refrao": false}
         ]
+    },
+    {
+        "id": 111,
+        "numero": 111,
+        "titulo": "Byala Emixweni",
+        "autor": "C.A.C",
+        "ref": "Psa. 126: 5; Esa. 32: 20; 2 Tim. 4: 2",
+        "categoria": "Evangelismo",
+        "letra": [
+            {"verso": "1. Byala emixweni, Mbewu ya vunene, Byala ni nhekanhi, byala vusikwini; Ndza ha langutela Siko ro tshovela, Hi siko ro tsaka N'ta rhwala ntsovelo.", "refrao": false},
+            {"verso": "2. Byala edyambyini, Byala ni ndzutini, U nga chavi mumu, Hambi ni xirhami; Siku ro tshovela Ntirho wu ta hela Hi siku ro tsaka N'ta rhwala ntshovelo.", "refrao": false},
+            {"verso": "3. Hambi ni mihloti Yi xuva timbewu, Ti ta mila ngopfu, Ti ta va ti andza; Yesu o ta sula Mihloti ya wena. Hi siku ro tsaka N'ta rhwala ntshovelo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 112,
+        "numero": 112,
+        "titulo": "Tirhani hi Ntamu",
+        "autor": "C.A.C",
+        "ref": "Mateo 9: 35- 38",
+        "categoria": "Evangelismo",
+        "letra": [
+            {"verso": "1. N'wina va ku pfumela, Tintsume ta Kriste, Vulani Evangeli, Vanhu va lovile Va phasiwa entlhan'wini, Va fela le munyameni.", "refrao": false},
+            {"verso": "2. Loko a famba Yesu E mitin' ya vanhu, A dyondzisa ta tilo, A vona mitshungu, A yi twela vusiwana, A hanyisa, a horisa.", "refrao": false},
+            {"verso": "3. Sweswi ku vonakala Hi n'wina vakriste Mahanyelo ya n'wina Yi ve yo lulama, Mi yi hisekela Hosi, Vulan' Rito ra vutomi.", "refrao": false},
+            {"verso": "4. Vanhu va fa hi mumu, Va dlawa hi torha, A nga ri tima Yesu, Va siyele va nwa N'wina mi swibya swa Hosi Swa wo mati ya vutomi.", "refrao": false},
+            {"verso": "5. Ku tshovela ku kulu, Masimu ya wupfa, Tinyanyana ta yiva Maphila ya Yesu, Vatirhi a hi vangani. Tirha wena mutshoveri.", "refrao": false}
+        ]
+    },
+    {
+        "id": 113,
+        "numero": 113,
+        "titulo": "Pfulsane, Pfulsane, Vamakwerhu",
+        "autor": "C.A.C",
+        "ref": "Luka 14: 23; Mateo 9: 35",
+        "categoria": "Evangelismo",
+        "letra": [
+            {"verso": "1. Pfulsan'l pfulsan'l vamakwerhu! A hi yen' hi ya hlasela Ku fuma ka mulovisi Wa mavandla ya Xikwembu.", "refrao": false},
+            {"verso": "2. A hi tiyen' hi matimba. Hi nga ka hi nga hluriwi; Hosi Yesu o vurile; \"Ndzi na n'wina hi masiku.\"", "refrao": false},
+            {"verso": "3. A hi famben' ematikwen', Emitin' ne swimitanen', Etintshaven' ne mikoven', A hi va laven' hinkwavo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 114,
+        "numero": 114,
+        "titulo": "Fambani Vamakwerhu",
+        "autor": "C.A.C",
+        "ref": "Marka. 16: 15",
+        "categoria": "Evangelismo",
+        "letra": [
+            {"verso": "1. Ma twa! Huwa ha matilo, Aleluya! Vamakwerhu fambani sweswi Fambani mi ya va byela vamatiko, Va ta ponisiwa hi Hosi.", "refrao": false},
+            {"verso": "2. Ma twa! Huwa ya misava: \"Hi pfunete, mi hi byela timaka teto, Hantlisane ku hi pfuna, ha lahleka! Xana Yesu a nga hi rhandzi?\"", "refrao": false},
+            {"verso": "3. Ku hlamula, ku hlamula ka vAKriste, \"Ha hatlisa ku mi tivisa, Leswaku mi ta n'wi tiva Hosi Yesu, Mi pfumela ku ta ka yena\".", "refrao": false}
+        ]
+    },
+    {
+        "id": 115,
+        "numero": 115,
+        "titulo": "Yinbeni Nanga hi Ntamu",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso": "1. Yimbeni nanga yi ntamu :I: N'wine vanhu va kwe :I: Nanga i rito ja Hosi :I: Yi ta mi ponisa :I:", "refrao": false},
+            {"verso": "2. A ji fambe Evangeli, :I: 'Tikweni hikwaju :I: Ji ko ji yam' kela jone :I: Hikwerhu hi va :I: na jo :I", "refrao": false},
+            {"verso": "3. Yimbeni nanga hi ntamu :I: N' wine vanhu va kwe :I: A ji twale rito ja yo :I: ku vo la' va nga :I: kule :I:", "refrao": false},
+            {"verso": "4. Yimbeni nanga yi ntamu :I: N' wine vanhu va kwe :I: A ji fambe rito ja kwe :I: Hi ku hatlisa :I: ngopfu :I:", "refrao": false}
+        ]
+    },
+    {
+        "id": 116,
+        "numero": 116,
+        "titulo": "Vakriste Nyimpi ya Hosi",
+        "autor": "C.A.C",
+        "ref": "Rom. 13:11,12; Efs. 56:10 - 19; Fil. 1: 27, 28; Mhaka 4: 29",
+        "categoria": "Guerra Espiritual",
+        "letra": [
+            {"verso": "1. Vakriste nghenan' nyimpini, Pfukani, mi ya ku lweni! Mitsungu yi le khombyeni: Vanhu va lova. A mi yi twi mhalamhala? Ya lovisiwa hi nala, Swa ku ti pfuna swa kala, Va fa va lova.", "refrao": false},
+            {"verso": "2. Hi na vutomi le' byintshwa Na xo xivongo le'xintshwa Hi na ndzaka kwale henhla, Kasi va lova. A hi yeni hi va byela, I Yesu l' a nga va fela, Va fanela ku pfumela Va nga si lova.", "refrao": false},
+            {"verso": "3. Yesu wa va randza vanhu, Wa va twela vusiwana, A mi nga va byeli xana? Va nga si lova. Hosi, hi pfune ku vula, Rito ra ku va kutsula Hi va wutla hi n'wi hlula Nala wa leva.", "refrao": false}
+        ]
+    },
+    {
+        "id": 117,
+        "numero": 117,
+        "titulo": "Famba na vo, Hosi Yesu",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Evangelismo",
+        "letra": [
+            {"verso": "1. Famba na vo Hosi Yesu Va basisele ndlela, Ku ya lwela vamakwerhu Miringweni ya nala.", "refrao": false},
+            {"verso": "2. Vabyele vanhu hinkwave Ta 'vangeli ya Yesu, Va tshika timhamba ta vo, Va landza ndlela ya ku.", "refrao": false}
+        ]
+    },
+    {
+        "id": 118,
+        "numero": 118,
+        "titulo": "Risimu ra ku Nylketa Vatinhi",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Consagraçao",
+        "letra": [
+            {"verso": "1. Mikarhin' ya khale, Hosi, U hlavule vatinhi, U va nylke ni matimba Ya ku vul' evangeli Ni ku horisa la' va vabyaka Va hlongola mimoya ya chyaka, Va tshunxa la' va tikeriwaka, Va nkika vanhu ku tsaka.", "refrao": false},
+            {"verso": "2. Ni namunthla ha va tisa Vav' wana e ka wena . Va ri' \"U va vitamle Le nsin` wini ya wena\" Va ti natswile tintswalo ta ku , Va lava ku navetisa vanhu A va cyawuki vutomi bya vo , Va ta rhwana Xihambano.", "refrao": false},
+            {"verso": "3. Namunthla ha va nylketa. Tintswalweni ta wena Hi ku thlandleka mavoko Ni ku va khongelela, A va tiveke mandlen'ya wena, Va nga titshembi; eku tsaneni Ma endlakala matimba ya wena U ta va hlulela nala.", "refrao": false},
+            {"verso": "4. E xikarhi ka timbisi Va kota swinyimpfana Va ta soriwa hi vanhu A va tirhele wena Tani hi nyoka vo tivonela, A va kotise magugurhwana Va tsundzuka L'a nga va vitana, Va ta rhwana Xihambano.", "refrao": false},
+            {"verso": "5. Va pfune va nga dyondzisi Hi vutlhari bya vona, A va vule Evangeli, Hi matimba ya moya. A va twarise rito hinkwaro Va nga tsuki va fihla ni nchumu Va nga naveli xuma ni bindzu, A va tirhele Xikwembu.", "refrao": false},
+            {"verso": "6. Hi vito ra wena Yesu U va nyika ku hlula Ntamu hinkwave wa nala, Va ta ponisa vanhu. A va tirhe na wo masingita, Va veka swandla ka 'va vabyaka Va pfula mahlo ya la' va faka, Ya phasa la'va dyohaka.", "refrao": false}
+        ]
+    },
+    {
+        "id": 119,
+        "numero": 119,
+        "titulo": "Landza Rito ra Hosi Yesu",
+        "autor": "E.M.N",
+        "ref": "Yohane 8:32",
+        "categoria": "Santidade",
+        "letra": [
+            {"verso": "1. Namuntiha ndza n'wi landza Yesu Hi ku khuvuriwa ematin', Kutani Hosi yi thsembise Ni ku ndzi khuvula eMoyen',", "refrao": false},
+            {"verso": "2. Ndlela ya ku ya e tilweni I ya ku fularhela swivi, Ni ku landza Rito ra Hosi, Hosi, byi nga byona vutomi", "refrao": false},
+            {"verso": "3. Siku Yesu a nga lelana Ni va dyondzisiwa va yena, A va lerisa ku nyimela Wona Moya lo' wo kwetsima.", "refrao": false},
+            {"verso": "4. Tana nawena, tana sweswi, Landza mitila ya muferi. Hundzuka sweswi u ta kuma Vutomi le' byi nga heriki.", "refrao": false}
+        ]
+    },
+    {
+        "id": 120,
+        "numero": 120,
+        "titulo": "Nkhuvulo Ematini",
+        "autor": "E.M.N",
+        "ref": "",
+        "categoria": "Santidade",
+        "letra": [
+            {"verso": "1. Rito ra Xikwembu ra hi kombisa ndlela, Ya ku landza ntila wa Yesu, L'a pfumelaka kutani a khuvuriwa, Kunen' a ta hlayiseka.", "refrao": false},
+            {"verso": "2. Yesu hi xiviri xa yena a fanele Ku heta nawu wo lulama. Rin'wana siku o tile ka Mukhuvuri Ku petiwa e Matini.", "refrao": false},
+            {"verso": "3. Infanelo ya Mukriste ku landza ndlela Le'yi kombiwaka eBukwin', Loko u lava ku yi kuma mikateko, Landza Rito ra Xikwembu.", "refrao": false},
+            {"verso": "4. Ku khuvuriwa a hi ko Ku hlantswa chyaka Ra mmini kumbe ra yo mbilu. Kambe i kona ku tiboha hi ripfalo, Le'rinene ka Xikwembu.", "refrao": false},
+            {"verso": "5. Loko munhu a tisola ni ku pfumela, Evitweni ra Muponisi, Ngati ya Yesu yi hlantswa mbilu ya yena, A hundzuka munhu lo'ntswha.", "refrao": false},
+            {"verso": "6. Nkhuvulo i sirha ra munhu lo'wa khale L'a yimberiwaka na Yesu. Leswaku ku pfulka munhu lo'ntswha esirhen', Lo'wa ku hanyela Hosi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 121,
+        "numero": 121,
+        "titulo": "Hosi Yesu va Tiyise",
+        "autor": "E.M.N",
+        "ref": "Marko 16:15; Mhaka 2:38,41; 19:3-5",
+        "categoria": "Batismo",
+        "letra": [
+            {"verso": "1. A hi tsaken', siku ra namuntlha, Hi tsakela nitrho wa Hosi; Hi yona le'yi nga va ponisa, La' va khuvuriwaka sweswi.", "refrao": false},
+            {"verso": "2. Vona a va ri le munyameni, Endleleni ya ku lahleka; Kambe va twile rito ra Hosi, Va kholwa va ko va kateka.", "refrao": false},
+            {"verso": "3. Va tsakile, va flangela Hosi; Va twile tintsvalo ta yona; Va nantswile vunene bya Yesu, Ni ku nandziya ka ku pona.", "refrao": false},
+            {"verso": "4. Swidyoho swa vona swi herile; Va hiva vutomi le' byintswha Munhu wa khale va n'wi lahille, Va va swivumbiwa le'swintswha.", "refrao": false},
+            {"verso": "5. Tsundzukani marito ya Yesu, Loko mi petiwa 'matini: \"Mi ta funengetiwa hi ntamu Mi ta khuvuriwa ' Moyeni\"", "refrao": false}
+        ]
+    },
+    {
+        "id": 122,
+        "numero": 122,
+        "titulo": "Etafuleni ra ku Hosi",
+        "autor": "C.A.C",
+        "ref": "I Kor. 10:21. Hi masiko hi-nkwavo loko mi dya xinkwa lexi, ni loko mi nwela xinwelweni lexi mi ta va mi vula riftu ra Hosi akondza a fika. I Kor 11:26",
+        "categoria": "Santa Ceia",
+        "letra": [
+            {"verso": "1. E tafuleni ra ku, Hosi Hi hlangane vapfuneri, Hi tsundzuka riftu ra ku, Ni maxangu xihambanwen'.", "refrao": false},
+            {"verso": "2. Ha xi nkhensa xinakulobye, Le'xintswha xa Xinyimpfana; Yesu i mhamba ya mina, Ngati ya kwe ya hi hlantswa.", "refrao": false},
+            {"verso": "3. Ha ti nkhensa tintswalo leti, Mmiri lo'wu pheniweke, Ngati le'yi tsoniweke, Na byo vutomi bya tilo.", "refrao": false},
+            {"verso": "4. Hi katekise ni namuntlha, Loko hi dya xinkwa lexi Ni loko hi nwa xinwelwen', Hi tsundzuka swa Golgotha.", "refrao": false},
+            {"verso": "5. Hi na xo xintsundzuxo lexi Ku kondza a vuya Hosi; I nkateko lo'wukulu. Hi ta vona mombo wa kwe.", "refrao": false}
+        ]
+    },
+    {
+        "id": 123,
+        "numero": 123,
+        "titulo": "Yesu af a nji Ranja",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Santidade",
+        "letra": [
+            {"verso": "1. Yesu af a nji ranja Ku hlaya buku ja kwe. A n'tamu n'winyi wa nga Mine nji ntjongwana ntse.", "refrao": false},
+            {"verso": "2. Yesu wa ha nji ranja Nambi nji he he ni gome Mine nji ta mu lanja Lwe' afaka nji fela.", "refrao": false},
+            {"verso": "3. Yesu wa ha nji ranja Nhlobyeni a nji hlantpsa A ta pfula ni nyangwa Ya tilu, nji ninghena.", "refrao": false},
+            {"verso": "4. Yesu wa nji ranja A ta tjhama na mine Moya ni miri ya nga Nji nyiketa ku yene.", "refrao": false}
+        ]
+    },
+    {
+        "id": 124,
+        "numero": 124,
+        "titulo": "ku Hlangana ka Vakriste",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Comunhao",
+        "letra": [
+            {"verso": "1. Hi khensa rirhandzu Ni xinakulobye Xa Yesu, Hosi ya hina, L'a nga hi kutsula.", "refrao": false},
+            {"verso": "2. Hi hanyisiwile, Hi tsakile sweswi; Swa khale swi susiwile, Hi vana va Hosi.", "refrao": false},
+            {"verso": "3. Ngati ya Muferi Yi hlantswile swivi; Hina ku hlangana sweswi Ku tsaken' ka Hosi.", "refrao": false},
+            {"verso": "4. \"Rhandzanani vana!\" Yesu o vurile; \"Mi va timboni ta mina Xikhari ka vanhu\"", "refrao": false},
+            {"verso": "5. Ndyango wa Xikwembu I nhlengeletano Ya vapfuneri hinkwavo Va tinxaka - xaka.", "refrao": false},
+            {"verso": "6. Hosi, hi fambise Hi nga tsekatseki: Hi kurise tidyondzweni, Hi kongoma tilo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 125,
+        "numero": 125,
+        "titulo": "Nhlengeletano ya Xikwembu",
+        "autor": "C.A.C",
+        "ref": "1 Kor. 15:54,56; Hlav. 1:8",
+        "categoria": "Igreja",
+        "letra": [
+            {"verso": "1. Nhlengeletano ya Xikwembu Khana Hosin', Sirha a ra ha na ntsumbu, O pfukile ku fen' Wu kwihi ntamu wa rifu Ri mitiwile, Mpfunguro wa rifu ni tilo Yesu u komile.", "refrao": false},
+            {"verso": "2. Nhlengelétano ya Xikwembu Tiya Hosin', Vula Evangeli ya Yesu, Wutla vanhu swivin', Hlula matimba ya nala L'a nga va dyela, Lwana nyimpi ya ku pfumela. Ni ya ku khongela.", "refrao": false},
+            {"verso": "3. Hinkwaku u nga ta kandziya Hi mikondzo. Vandla ro biha u nga tsimba, U andzisa ndyondzo; I nga ka yi nga ku hluli Nyimpi hinkwayo, Ndzina mjeke ya Evangeli Matthelo hinkwayo.", "refrao": false},
+            {"verso": "4. Hanyanyisa malho ya vona La'va faka, Horisa vavabyi, hlongola Mimoya ya chyaka, Ntshunxa la'va bohiweke Sula mihloti, Kondlotelo tinyiko ta ku Ta Moya wa Hosi.", "refrao": false},
+            {"verso": "5. Mbundzuxa na wo makhokholo Ya munyama, Kamanyeta hi mikhongelo, U hlula madzana, Pfuka u nga kudseheri Pfurheta ndzilo, Malangavi ya Evangeli Ma ta mi hlula.", "refrao": false}
+        ]
+    },
+    {
+        "id": 126,
+        "numero": 126,
+        "titulo": "Katekisa Yindlu Leyi",
+        "autor": "C.A.C",
+        "ref": "Luka 19:46",
+        "categoria": "Dedicacao",
+        "letra": [
+            {"verso": "1. Ha mi losa vamakwerhu, Mi tile ku tlangela Yindlu leyi ya rikwerhu, Yi nga ya ku Khongela.", "refrao": false},
+            {"verso": "2. Mi tirhe ku aka yona; Xikwembu xi pfunile, Nhlengeletano ya xona, Na hina hi nkhensile", "refrao": false},
+            {"verso": "3. Namuntlha ya khanguriwa, A ri ve rivoningo, Rito a ri twarisiwe, Ku phasiwa timbilu.", "refrao": false},
+            {"verso": "4. A va tolovele lomu Ku ya khongotelana, Ni ku n'wi twarisa Yesu Evangeli yi andza.", "refrao": false}
+        ]
+    },
+    {
+        "id": 127,
+        "numero": 127,
+        "titulo": "Tisani Vukhume bya Yehova",
+        "autor": "I.L.C",
+        "ref": "Gen 14:18-20",
+        "categoria": "Oferta",
+        "letra": [
+            {"verso": "1. Lok' Abrahama nandza wa Hosi A vuya kaya a ni vukosi, A pambulela Hosi ya Salem Ka Khume ka hinkwaswo.", "refrao": false},
+            {"verso": "2. Vonan' Yakob a xi hlambanyela Xikwembu: Ndzi ta ku humesela Vukhume bya ku, ni minyikelo Nyangwa ya tilo i kwala.", "refrao": false},
+            {"verso": "3. Ka swona le'swi tshoveriwaka Ni ka swiftuvo 'swi risiwaka, Mi ta hlawulela hi ku tsaka Vukhume bya Yehova.", "refrao": false},
+            {"verso": "4. Na yena Yesu a hi letela: Kunene n'wina mi fanelaka, Ku endla leswo, mi humesela, Vukhume bya Xikwembu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 128,
+        "numero": 128,
+        "titulo": "Ha mi Losa Vamakwerhu",
+        "autor": "C.A.C",
+        "ref": "",
+        "categoria": "Comunhao",
+        "letra": [
+            {"verso": "1. Ha mi losa n'wina malandza ya Hosi, Na n'wina vamakwerhu vagfumeri La'va teke la mutini wa hina Ha ri tlangela rirhandzu ra n'wina.", "refrao": false},
+            {"verso": "2. Tintswalo ta Hosi ta hlamarisa, Ti lava vadyohi ti hi ponisa, Hambi swivongo swa hina swi tele, Hi un'we ka Kriste hi ngati ya kwe.", "refrao": false},
+            {"verso": "3. N'wina va le kule ni va kusuhi, Ha mi rhandza varhandziwa va Hosi, Ha mi khoma hi voko ra vuxaka, Hi kombela Hosin' e ku kateka.", "refrao": false}
+        ]
+    },
+    {
+        "id": 129,
+        "numero": 129,
+        "titulo": "Ndlela ya Xihambano",
+        "autor": "P.N.K",
+        "ref": "Luka 22: 41, 42; Mateo 26 : 38, 39",
+        "categoria": "Paixao de Cristo",
+        "letra": [
+            {"verso": "1. Yesu a nga si vambiwa, A nghena Getsemane, A va siya van wanyana, A teke la' vanharhu. 'Mahlomulweni ya yena Yesu a va sukela. A ya le le mahlweningana Ku ya le xihambanwen'.", "refrao": false},
+            {"verso": "2. Vonani! Wa ya khongela, Rifu ri le kusuhi; \"Xinwelo a xi ndzi hundze,\" A badhla yona ngati; \"Tatana, ku rhandza ka ku Sweswi a ku endliwe.\" O yile mahlweningana Ku ya le xihambanwen'.", "refrao": false},
+            {"verso": "3. Vanhu va n'wi ruketela Lok'a avanyisiwa, \"Hi nyike yena Barabas, Kriste a a vambiwe,\" \"O, Barabas, O, Barabas, Yesu o ku ferile Lok' a ye mahweningana Ku fa le xihambanwen'\"", "refrao": false},
+            {"verso": "4. Va n'wi rhwexe xihambano, Xi n'wi heta matimba; Sweswi wa fika Golgotha Vanhu va n'wi xanisa. A tshikiwa hi maxaka, A twa gome ra ku fa. O yile mahlweninyana Ku fa le xihambanwen'.", "refrao": false}
+        ]
+    },
+    {
+        "id": 130,
+        "numero": 130,
+        "titulo": "Yerusalema, karikwerhu",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Ceus",
+        "letra": [
+            {"verso": "1. Yerusalema, karikwerhu Kaya ro phyuphyeka, Ndzi ta fika rini kona? :I: :I: Muti wo rhandzeka! :I: :I:", "refrao": false},
+            {"verso": "2. Ndzi ta hialela rini xana Makorwa yo xonga? Ni mitsendzele ya nsuku, :I: :I: Sweswi ndzi ta longa. :I: :I:", "refrao": false},
+            {"verso": "3. U tlula Eden hi ku xonga, Wena muti wa nga, Tihari ni xiluvelo :I: :I: ndzi xuva ku vona. :I: :I:", "refrao": false},
+            {"verso": "4. Xana makhombo ni maxangu Swi nga ndzi sivela? Sweswi ndza ku langutela :I: :I: Muti wo phatima. :I: :I:", "refrao": false},
+            {"verso": "5. Ndzi xuvile swonghasi kwala, Ndzi rhandza ku muka, Ndzi ta khapa hi ku tsaka :I: :I: loko ndzi guduka. :I: :I:", "refrao": false}
+        ]
+    },
+    {
+        "id": 131,
+        "numero": 131,
+        "titulo": "Jesus Me Ama",
+        "autor": "",
+        "ref": "",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso": "1. Jesus me ama e quer salvar-me Jesus me ama e quer salvar-me Por isso eu canto Sempre ele me ama Jesus me ama meu Salvador", "refrao": false},
+            {"verso": "2. Estive preso no vil pecado Estive preso mas salvo estou", "refrao": false},
+            {"verso": "3. Jesus morreu na dura cruz Jesus sofreu mas me salvou", "refrao": false},
+            {"verso": "4. Agora quero na minha vida Ao meu amigo sempre agradar.", "refrao": false}
+        ]
+    },
+    {
+        "id": 132,
+        "numero": 132,
+        "titulo": "Pelo Sangue",
+        "autor": "P.L.M",
+        "ref": "No. 192 no livro Harpa Cristã",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso": "1. Pelo mundo, brilha a luz, Desde que morreu Jesus, Pendurado lá na cruz do Calvário; Os pecados carregou E da culpa nos livrou Com o Sangue que manou, no Calvário!", "refrao": false},
+            {"verso": "2. Antes, tinha mui temor, Mas, agora, tenho amor, Pois compreendo o valor do Calvário; Eu vivi na perdição Mas achei a Salvação Pela grande redenção, no Calvário!", "refrao": false},
+            {"verso": "3. E's um grande pecador? Eis aqui teu Salvador! Tema do bom pregador: o Calvário O Cordeiro divinal Padeceu na cruz teu mal, E oferece graça tal, no Calvário.", "refrao": false}
+        ]
+    },
+    {
+        "id": 133,
+        "numero": 133,
+        "titulo": "Conversão",
+        "autor": "",
+        "ref": "N°. 15 na Harpa Cristã",
+        "categoria": "Conversao",
+        "letra": [
+            {"verso": "1. Oh! Quão cego andei, e perdido vaguei, Longe, longe do meu Salvador! Mas de céu Ele desceu, e Seu sangue verteu Pra salvar um tão pobre pecador.", "refrao": false},
+            {"verso": "2. Eu ouvia falar dessa graça sem par, Que do Céu trouxe nosso Jesus; Mas, eu surdo me fiz, converter-me não quiz, Ao Senhor, que por mim morreu na cruz.", "refrao": false},
+            {"verso": "3. Mas, um dia ,senti meu pecado, e vi Sobre mim a espada da lei ; Apressado fugi ,em Jesus me escondi, E salvo sou, sim, graças a lei!", "refrao": false},
+            {"verso": "4. Quão ditoso então, este meu coração, Conhecendo o excelso amor, Que levou meu Jesus a sofrer lá na cruz P ra salvar um tão pobre pecador!", "refrao": false}
+        ]
+    },
+    {
+        "id": 134,
+        "numero": 134,
+        "titulo": "Livre estou",
+        "autor": "J.T.L",
+        "ref": "No. 116 na harpa Cristão",
+        "categoria": "Libertacao",
+        "letra": [
+            {"verso": "1. Eu vagava pela senda de horror, Oprimido pelo pecado e temor, Quando o Salvador eu vi, Meu Jesus me libertou por Seu amor.", "refrao": false},
+            {"verso": "2. Eu vagava pela senda de horror, Nao pensando no amor do Salvador, Eu vagava sem ter luz, Longe do Senhor Jesus, Mas liberto, hoje canto a Deus louvor.", "refrao": false},
+            {"verso": "3. Eu vagava pela senda de horror, Mas, agora, quero andar com meu Senhor; Quero ouvir Sua terna voz E segui- lo sempre após; Glória seja dada ao nosso bom Pastor.", "refrao": false}
+        ]
+    },
+    {
+        "id": 135,
+        "numero": 135,
+        "titulo": "Paz, Paz gloriosa Paz",
+        "autor": "",
+        "ref": "",
+        "categoria": "Paz",
+        "letra": [
+            {"verso": "1. Paz, paz, gloriosa paz; Paz, paz, perfeita paz! Desde que Cristo minh'alma salvou,", "refrao": false}
+        ]
+    },
+    {
+        "id": 136,
+        "numero": 136,
+        "titulo": "Nome de Jesus",
+        "autor": "F.R.D",
+        "ref": "No. 369 no livro Cânticos Cristãos",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso": "1. Leva tu contigo o nome De Jesus o Salvador, Este nome dá comforto Sempre, seja onde for.", "refrao": false},
+            {"verso": "2. Este nome leva sempre, Para bem te defender. Arma é ao teu alcance Quando o mal te aparecer.", "refrao": false},
+            {"verso": "3. Oh, que nome precioso! Dá-nos gozo ao coração, Sendo por Jesus aceitos, Possuímos o perdão.", "refrao": false},
+            {"verso": "4. Nome Santo adorável, E' Jesus amado meu; Rei dos reis eternamente, Coroemo-lo no céu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 137,
+        "numero": 137,
+        "titulo": "Fogo Divino",
+        "autor": "J.T.L",
+        "ref": "No. 369 no livro Cânticos Cristãos",
+        "categoria": "Espírito Santo",
+        "letra": [
+            {"verso": "1. Fogo Divino, clamamos por Ti; Vem lá do alto, vem, desce aqui; O' vem despertar - nos com Teu fulgor, Vem inflamar - nos com Teu calor!", "refrao": false},
+            {"verso": "2. Desce, Espírito Consolador, Desce e enche - nos, de santo amor; Desce ao mundo, nos mostra Jesus; Dá- nos poder, vida, graça e luz.", "refrao": false},
+            {"verso": "3. Arde em minh'alma, ó Chama de amor, Arde em meu peito e dá- me valor; Consome todos os restos do mal; Desde já, ó Fogo pentecostal.", "refrao": false}
+        ]
+    },
+    {
+        "id": 138,
+        "numero": 138,
+        "titulo": "Chuvas de Graça",
+        "autor": "J.R",
+        "ref": "No. 1 na Harpa Crista",
+        "categoria": "Espírito Santo",
+        "letra": [
+            {"verso": "1. Deus prometeu com certeza, Chuvas de graça mandar; Ele nos dá fortaleza, E ricas bênçãos, sem par.", "refrao": false},
+            {"verso": "2. Cristo nos tem concedido O santo Consolador, De plena paz nos enchido, Para o reinado de amor.", "refrao": false},
+            {"verso": "3. Dá- nos Senhor amplamente Teu grande gôzo e poder; Fonte de amor permanente, Põe dentro do nosso ser.", "refrao": false},
+            {"verso": "4. Faze os teus servos piedosos, Dá- lhes virtudes e valor, Dando os teus dons preciosos, Do santo Preceptor.", "refrao": false}
+        ]
+    },
+    {
+        "id": 139,
+        "numero": 139,
+        "titulo": "Imploramos teu poder",
+        "autor": "A.S",
+        "ref": "No. 155 na Harpa Crista",
+        "categoria": "Espírito Santo",
+        "letra": [
+            {"verso": "1. Imploramos, nosso Salvador Teu poder, Teu poder, Teu poder, Divinal poder renovador, Teu poder, Teu poder, Teu poder. Bendita promessa paternal! Vem encher-nos de real valor, Do pleno poder celestial, Teu poder, Teu poder, Teu poder.", "refrao": false},
+            {"verso": "2. Com óleo, sim, vem-nos ungir, Teu poder, Teu poder, Teu poder; Pai celeste, faze-nos fruir Teu poder, Teu poder, Teu poder; Tu já prometeste derramar Tuas bênçãos, e nos revestir, Pra tua palavra proclamarmos, Com poder, com poder, com poder.", "refrao": false},
+            {"verso": "3. Com o fogo vem-nos inflamar, Teu poder, Teu poder, Teu poder, E de toda a mancha nos limpar, Teu poder, Teu poder, Teu poder Aquece os frios, ó Senhor Faze os que dormem despertar. Nós te suplicamos com fervor, Teu poder, Teu poder, Teu poder", "refrao": false},
+            {"verso": "4. Como a brisa, queiras assoprar Teu poder, Teu poder, Teu poder Deus bendito, vem-nos outorgar Teu poder, Teu poder, Teu poder Perene e doce comunhão, Quero aqui, contigo, O pai, gozar, Depressa, nos enche o coração, Com poder, com poder, com poder.", "refrao": false}
+        ]
+    },
+    {
+        "id": 140,
+        "numero": 140,
+        "titulo": "Vem a' Assembleia de Deus",
+        "autor": "P.L.M",
+        "ref": "No. 144 na Harpa Crista",
+        "categoria": "Igreja",
+        "letra": [
+            {"verso": "1. À Assembleia de Deus, vem comigo, Ouvir a Palavra de Deus; E terá a certeza, contigo, Que Jesus é o caminho dos Céus.", "refrao": false},
+            {"verso": "2. Vem irmão, à Assembleia dos Santo, Sentir o poder do Senhor E ali entoar lindos cantos, Exultando ao Consolador.", "refrao": false},
+            {"verso": "3. Na assembleia de Deus tu estejas Humilde aos pés do Senhor; Santidade convém à Igreja, p'ra gozarmos celeste amor.", "refrao": false},
+            {"verso": "4. Nós sentimos a santa presença Do nosso querido Jesus; Anulada foi tua sentença; Deixa as trevas e vem para a luz.", "refrao": false}
+        ]
+    },
+    {
+        "id": 141,
+        "numero": 141,
+        "titulo": "Jesus Voltará",
+        "autor": "H.M",
+        "ref": "No . 401 na Harpa Crista",
+        "categoria": "Volta de Cristo",
+        "letra": [
+            {"verso": "1. Tudo nos mostra que Cristo já volta; Breve Jesus voltará! Já deste mundo o mar se revolta; Breve Jesus voltará.", "refrao": false},
+            {"verso": "2. Cristão acorda, Sua vinda é certa; Breve Jesus voltará! P'ra recebe-lo estás bem alerta? Breve Jesus voltará!", "refrao": false},
+            {"verso": "3. Crente proclama para os pecadores: Breve Jesus voltará! Não haverá mais tristezas nem dores; Breve Jesus voltará!", "refrao": false},
+            {"verso": "4. Consola o coração que lhe clama, Breve Jesus voltará! P'ra Suas bodas o bom Rei nos chama; Breve Jesus voltará!", "refrao": false}
+        ]
+    },
+    {
+        "id": 142,
+        "numero": 142,
+        "titulo": "O Fim das Lutas",
+        "autor": "Anon",
+        "ref": "No. 357 na Harpa Crista",
+        "categoria": "Ceus",
+        "letra": [
+            {"verso": "1. Quando esta vida de lutas cessar. Vou para o Céu meu descanso gozar, Com meu Jesus, lá na glória sem fim; Oh! Que ventura será para mim!", "refrao": false},
+            {"verso": "2. Penso na paz e no grande amor Do lar celeste do meu Salvador; Em ver Seu rosto, em sorrir também, Na grande Gloria do dia que vem.", "refrao": false},
+            {"verso": "3. Pais e amigos, irmãos, hão de estar, No santo rio seu gozo a banhar, Sempre alegres, louvando ao Senhor, Gozando bênçãos do seu Criador.", "refrao": false}
+        ]
+    },
+    {
+        "id": 143,
+        "numero": 143,
+        "titulo": "O Senhor da Ceifa Chama",
+        "autor": "",
+        "ref": "No.127 na Harpa Cristã",
+        "categoria": "Evangelismo",
+        "letra": [
+            {"verso": "1. O Senhor da ceifa está chamando: \"Quem quer ir por mim, a procurar Almas que no mundo vão chorando, Sem da salvação participar?\"", "refrao": false},
+            {"verso": "2. O profeta a Deus se aproximando, Considera-se um pecador, Mas, o Fogo santo o queimando, Torna-o util para seu Senhor.", "refrao": false},
+            {"verso": "3. Muito são os que vão expirando Sem ter esperança de ver Deus; Vai depressa lhes anunciando, Que Jesus nos leva para os Céus.", "refrao": false},
+            {"verso": "4. Breve, os trabalhos serão findos, Bênçãos vão os servos desfrutar; E Jesus os saudará: \"Bemvindos\", Esta glória espero alcançar.", "refrao": false}
+        ]
+    },
+    {
+        "id": 144,
+        "numero": 144,
+        "titulo": "Cristo Cura, Sim",
+        "autor": "",
+        "ref": "No. 7 na harpa Crista",
+        "categoria": "Cura",
+        "letra": [
+            {"verso": "1. Contra os males deste mundo, Deus nos vale só; Não há mal que Deus não cure, Pois de nós tem dó.", "refrao": false},
+            {"verso": "2. Derramou seu sangue puro P`ra remir a mim; Quando ungido sou de azeite , Sou curado ,enfim!", "refrao": false},
+            {"verso": "3. Só noss` alma bem segura, Oculta em Jesus ; Ele o bálsamo da vida Derramou na cruz.", "refrao": false},
+            {"verso": "4. Glória a Deus! Eterna Glória Damos-lhe louvor ; Gloria, cânticos e hosanas Daí ao Redentor!", "refrao": false}
+        ]
+    },
+    {
+        "id": 145,
+        "numero": 145,
+        "titulo": "Ya Pfuriwa Yindlu, ya Hosi",
+        "autor": "P.M.K",
+        "ref": "",
+        "categoria": "Dedicacao",
+        "letra": [
+            {"verso": "1. Namuntlha ya pfuriwa yindlu Yindlu ya Hosi Yesu, Hinkwenu mi llangana Ku ta yi khangula,", "refrao": false},
+            {"verso": "2. A malembe ma hundza, Minkama ya khaluta, Hatlisan' munghena nyangwa Yi nga si pfariwa", "refrao": false},
+            {"verso": "3. Vakokwana, vamamana, Na n'we majaha Na tintombi, Nghenani hinkwenu, Mî vitiwa hi Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 146,
+        "numero": 146,
+        "titulo": "Xewani Vafundzisi",
+        "autor": "S.M.K",
+        "ref": "Ra ku khangula yindlu ya mikhongelo le' yintswha Ya le Maxaquene, ka Mpfumo. 1939",
+        "categoria": "Dedicacao",
+        "letra": [
+            {"verso": "1. Xewani vafundzisi, xewani vafundzisi Ha mi losa hi vito ra Hosi Yesu Ha flangela ku fika ka n'wina eka hina. Ku ta hi nyika mikateko ya tilo,", "refrao": false},
+            {"verso": "2. Na n'wina vatatana, na'wina vamamana, Amukelani timhaka ta Hosi Yesu. Mi pfumela ka Yesu, mi ta kuma vutomi, Mi ta rivaleriva swivi swa n'wina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 147,
+        "numero": 147,
+        "titulo": "Risimu ra ku Tekana",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Casamento",
+        "letra": [
+            {"verso": "1. Hi tintswalo ta Xikwembu, Hi hlangana namuntlha, Hi va timboni ta n'wina Loko mi ta tekana, A ku rhula ka Hosi", "refrao": false},
+            {"verso": "2. Hoi yi mi katekise Hi vumbirhi bya n`wina, Mi pfunana, mi ta wisa, Tintswalweni ta Yesu Rhandzanani eHosini Mi kongoma matilwen'.", "refrao": false},
+            {"verso": "3. Muteki ni mutekiwa, La mahlweni ka Hosi Mi nyiketana mavoko, Tiyisani utwanano, Mi ta katekisiwa Endyangweni wa n`wina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 148,
+        "numero": 148,
+        "titulo": "From: \"Ingonhama ka Juda.\"",
+        "autor": "I.L.C",
+        "ref": "",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso": "::: Yona Nghala ya Yuda Yi hlurile Satana, Loko ndzi ri na yona N'ta hluriwa yi mani? ::I:", "refrao": false}
+        ]
+    },
+    {
+        "id": 149,
+        "numero": 149,
+        "titulo": "Yesu u kona namuntlha",
+        "autor": "C.A.C",
+        "ref": "Tune : \"Jesus is Passing this Way.\"",
+        "categoria": "Louvor",
+        "letra": [
+            {"verso": "Yesu u kona namuntlha, Namuntlha, namuntlha, Yesu u kona namuntlha, O ta ku pfuna sweswi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 150,
+        "numero": 150,
+        "titulo": "Exihlobyeni ndza hlamba",
+        "autor": "C.A.C",
+        "ref": "From \"The Cleasing Wave.\" (P.P.P)",
+        "categoria": "Santidade",
+        "letra": [
+            {"verso": "Exihlobyeni ndza hlamba, Swivi swa nga swi susiwa Engatini ya Muferi, Aleluya! Ndzi lilantswiwa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 151,
+        "numero": 151,
+        "titulo": "Ho! Ngati ya Xinyimpfana",
+        "autor": "H..C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ho! Ngati ya Xinyimpfana,", "refrao": false},
+            {"verso": "Aleluya, ya ndzi basisa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 152,
+        "numero": 152,
+        "titulo": "Ndzi tumbela eka wena",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ndzi tumbela eka wena.", "refrao": false},
+            {"verso": "Khokholo ra mina, Yesu, hi wena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 153,
+        "numero": 153,
+        "titulo": "Ekaya ndza vuya",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ekaya ndza vuya,", "refrao": false},
+            {"verso": "Ndzi hambukile.", "refrao": false},
+            {"verso": "Rirhandzu ri ndzi hlule,", "refrao": false},
+            {"verso": "Hosi, ndza vuya.", "refrao": false}
+        ]
+    },
+    {
+        "id": 154,
+        "numero": 154,
+        "titulo": "Yesu, Yesu, ndza ku landza",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Yesu, Yesu, ndza ku landza", "refrao": false},
+            {"verso": "Ndza ku landza namuntlha;", "refrao": false},
+            {"verso": "Yesu, Yesu, Hosi ya nga,", "refrao": false},
+            {"verso": "N'ta ku tshemba hinkwaswo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 155,
+        "numero": 155,
+        "titulo": "Swin'we na Yesu hinkwako ndzi ta ya",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Swin'we na Yesu hinkwako ndzi ta ya", "refrao": false},
+            {"verso": "Swa ndzi tsakisa ku yi tirhela Hosi ya nga,", "refrao": false},
+            {"verso": "Tingana ta Xihambano ndzi ta rhwala,", "refrao": false},
+            {"verso": "Loko ndzi famba hinkwako na yena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 156,
+        "numero": 156,
+        "titulo": "Mi ta va vaphasi va vanhu",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Mi ta va vaphasi va vanhu", "refrao": false},
+            {"verso": ":I: Vaphasi va vanhu :I:", "refrao": true},
+            {"verso": "Mi ta va vaphasi va vanhu", "refrao": false},
+            {"verso": "Loko mi ndzi landza", "refrao": false},
+            {"verso": ":I: Loko mi ndzi landza :I:", "refrao": true},
+            {"verso": "Mi ta va vaphasi va vanhu", "refrao": false},
+            {"verso": "Loko mi ndzi landza.", "refrao": false}
+        ]
+    },
+    {
+        "id": 157,
+        "numero": 157,
+        "titulo": "Entirhweni wa Hosi",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Entirhweni wa Hosi,", "refrao": false},
+            {"verso": "Ndzi ta tinyiketela.", "refrao": false},
+            {"verso": "Ndzi tsakile,ndzi ta tirha,", "refrao": false},
+            {"verso": "Entirhweni wa Hosi.", "refrao": false},
+            {"verso": "2 Ndzi ta tirhela Hosi,", "refrao": false},
+            {"verso": "Ndzi ta pfuna van'wana;", "refrao": false},
+            {"verso": "Ndzi ta tisa e ka Yesu,", "refrao": false},
+            {"verso": "Muponisi wa hina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 158,
+        "numero": 158,
+        "titulo": "Ku karhateka ni makhombo",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ku karhateka ni makhombo", "refrao": false},
+            {"verso": "Tisa Hosini, tshika na yo,", "refrao": false},
+            {"verso": "Wu nge n'wi hluri ndzwalo lowu,", "refrao": false},
+            {"verso": "Yesu, Muponisi wa ku.", "refrao": false}
+        ]
+    },
+    {
+        "id": 159,
+        "numero": 159,
+        "titulo": "Tshinela, tshinela",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Tshinela, tshinela,", "refrao": false},
+            {"verso": "Tshinela ka Yesu,", "refrao": false},
+            {"verso": "Tshinelela u khongela,", "refrao": false},
+            {"verso": "U ta kateka sweswi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 160,
+        "numero": 160,
+        "titulo": "Hosi u ndzi tsongohata",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Hosi u ndzi tsongohata,", "refrao": false},
+            {"verso": "Ndzi ve hansi", "refrao": false},
+            {"verso": "Milengeni ya Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 161,
+        "numero": 161,
+        "titulo": "Hi nisele mikateko",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Hi nisele mikateko,", "refrao": false},
+            {"verso": "Wena Hosi ya hina,", "refrao": false},
+            {"verso": "Ha ha rindza hi ku tsemba", "refrao": false},
+            {"verso": "Mpfuxelelo wa Moya.", "refrao": false}
+        ]
+    },
+    {
+        "id": 162,
+        "numero": 162,
+        "titulo": "Rhuma nkateko",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Rhuma nkateko, rhuma nkateko,", "refrao": false},
+            {"verso": "Rhuma nkateko, e ka hina Hos'.", "refrao": false}
+        ]
+    },
+    {
+        "id": 163,
+        "numero": 163,
+        "titulo": "Ndzi tatise Xikwembu",
+        "autor": "A.C.N.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ndzi tatise Xikwembu,", "refrao": false},
+            {"verso": "Ndzi tatise Xikwembu", "refrao": false},
+            {"verso": "Hi Moya lo'wo kwetsima,", "refrao": false},
+            {"verso": "Ndzi tatise Xikwembu,", "refrao": false},
+            {"verso": "Ndzi tatise Xikwembu", "refrao": false},
+            {"verso": "Hi Moya wo kwetsima.", "refrao": false}
+        ]
+    },
+    {
+        "id": 164,
+        "numero": 164,
+        "titulo": "Moya wa Hosi lo' wo kwetsima",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Moya wa Hosi lo' wo kwetsima,", "refrao": false},
+            {"verso": "Nghena embilwin'ya mina,", "refrao": false},
+            {"verso": "Susa swa nga, veka swa ku,", "refrao": false},
+            {"verso": "Nghena,tirha, katekisa.", "refrao": false}
+        ]
+    },
+    {
+        "id": 165,
+        "numero": 165,
+        "titulo": "Tisa mbilu ya ku",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Tisa mbilu ya ku", "refrao": false},
+            {"verso": "Le' yi hlantwiweke,", "refrao": false},
+            {"verso": "Hosi yi ta xurhisa", "refrao": false},
+            {"verso": "Mbilu ya ku namuntlha.", "refrao": false},
+            {"verso": "O ta yi tatisa,", "refrao": false},
+            {"verso": "Yi ta khapa -khapa,", "refrao": false},
+            {"verso": "Hi Moya wo kwetsima.", "refrao": false}
+        ]
+    },
+    {
+        "id": 166,
+        "numero": 166,
+        "titulo": "Ndzi tsakile sweswi",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ndzi tsakile sweswi", "refrao": false},
+            {"verso": "Ndzi tlangela Hosi,", "refrao": false},
+            {"verso": "Ndzilo wa Moya", "refrao": false},
+            {"verso": "Wu pfurha embilwini,", "refrao": false},
+            {"verso": "Moya wo kwetsima", "refrao": false},
+            {"verso": "Wu tile ka mina,", "refrao": false},
+            {"verso": "Rirhandzu ra Xikwembu", "refrao": false},
+            {"verso": "Ra pfurha sweswi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 167,
+        "numero": 167,
+        "titulo": "O ta voninga mbilwin",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "O ta voninga mbilwin;", "refrao": false},
+            {"verso": "O ta voninga mbilwin;", "refrao": false},
+            {"verso": "Pfula majanela, pfula ni nyangwa", "refrao": false},
+            {"verso": "Yesu o ta voninga.", "refrao": false},
+            {"verso": "U ta xurha hi Moya,", "refrao": false},
+            {"verso": "U ta xurha hi Moya,", "refrao": false},
+            {"verso": "Yi ta tala mbilu ya ku yi khapa,", "refrao": false},
+            {"verso": "Hi Moya wo kwetsima.", "refrao": false}
+        ]
+    },
+    {
+        "id": 168,
+        "numero": 168,
+        "titulo": "Tamelani mavomingo",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Tamelani mavomingo!", "refrao": false},
+            {"verso": "Timboni ta Xikwembu.", "refrao": false},
+            {"verso": "Tlakusan', la' va loveke,", "refrao": false},
+            {"verso": "Mi va tisa' ka Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 169,
+        "numero": 169,
+        "titulo": "Ra ta siku ra nkateko",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ra ta siku ra nkateko,", "refrao": false},
+            {"verso": "Ndzi ta tsaka, ndzi ta tlangela;", "refrao": false},
+            {"verso": "Loko ndzi vona mombo wa Yesu:", "refrao": false},
+            {"verso": "Ri ta va siku ro yimbelela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 170,
+        "numero": 170,
+        "titulo": "O ta vuya, o ta vuya",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "O ta vuya, o ta vuya.", "refrao": false},
+            {"verso": "Hi ku: \"Vuyane,\" hi ku tsaka,", "refrao": false},
+            {"verso": "Kumbe ni mpundzu,", "refrao": false},
+            {"verso": "Kumbe madyambu,", "refrao": false},
+            {"verso": "Kunene wa vuya.", "refrao": false},
+            {"verso": "Wa ta sweswi, Wa ta sweswi,", "refrao": false},
+            {"verso": "Ha n'wi rindzela hi ku tsaka,", "refrao": false},
+            {"verso": "Kumbe vusiku kumbe nhekani,", "refrao": false},
+            {"verso": "O ta vuya sweswi.", "refrao": false}
+        ]
+    },
+    {
+        "id": 171,
+        "numero": 171,
+        "titulo": "N'ta n'wi tiva, n'ta n'wi tiva",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "N'ta n'wi tiva, n'ta n'wi tiva", "refrao": false},
+            {"verso": "Yesu Joy'a nga ndzi kutsula,", "refrao": false},
+            {"verso": "N'ta n'wi tiva, n'ta n'wi tiva,", "refrao": false},
+            {"verso": "Loko ndzi n'wi vona kwale henhla.", "refrao": false}
+        ]
+    },
+    {
+        "id": 172,
+        "numero": 172,
+        "titulo": "Yesu u ta vuya kwala misaven'",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Yesu u ta vuya kwala misaven',", "refrao": false},
+            {"verso": "Hinkwako u ta fuma le matikwen',", "refrao": false},
+            {"verso": "Satan'l'a va phasaka vanhu.", "refrao": false},
+            {"verso": "O ta va le khlelen',", "refrao": false},
+            {"verso": "Loko Yesu o vuhile misaven',", "refrao": false},
+            {"verso": "Loko Yesu a fuma la misaven',", "refrao": false},
+            {"verso": "A va nga ha full matthari tikwen',", "refrao": false},
+            {"verso": "Nghala yi ta tshama swin'we", "refrao": false},
+            {"verso": "Ni xinyimpfana nhoven',", "refrao": false},
+            {"verso": "Loko Yesu a vuyile misaven'.", "refrao": false}
+        ]
+    },
+    {
+        "id": 173,
+        "numero": 173,
+        "titulo": "Le ntsungeni",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": ":I: Le ntsungeni :I:", "refrao": true},
+            {"verso": "Hi ta wisa le namben',", "refrao": false},
+            {"verso": "Hi dya ndzhaka le tilwen',", "refrao": false},
+            {"verso": ":I: Le ntsungeni :I:", "refrao": true},
+            {"verso": "Loko hi fika tilwen'", "refrao": false},
+            {"verso": "Le ntsungeni.", "refrao": false}
+        ]
+    },
+    {
+        "id": 174,
+        "numero": 174,
+        "titulo": "Hi ta famba mahlwen'",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Hi ta famba mahlwen',", "refrao": false},
+            {"verso": "Hi ta ya byela", "refrao": false},
+            {"verso": "Vanhu emunyamen',", "refrao": false},
+            {"verso": "Rito ra ku pona.", "refrao": false}
+        ]
+    },
+    {
+        "id": 175,
+        "numero": 175,
+        "titulo": "Tumbela kwale xihundleni",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Tumbela kwale xihundleni,", "refrao": false},
+            {"verso": "Hlayela Yesu hinkwato,", "refrao": false},
+            {"verso": "O ta ku hlamula a kutani,", "refrao": false},
+            {"verso": "O ta rhulisa hinkwaswo.", "refrao": false}
+        ]
+    },
+    {
+        "id": 176,
+        "numero": 176,
+        "titulo": "Ndzi ambexe hi ku tenga ka Yesu",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ndzi ambexe hi ku tenga ka Yesu", "refrao": false},
+            {"verso": "Hi ku saseka ni nsovo wa yena", "refrao": false},
+            {"verso": "Moya wo kwetsima, hlangula swa Mina", "refrao": false},
+            {"verso": "Ndzi kondza ndzi xaxamela na Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 177,
+        "numero": 177,
+        "titulo": "Hlalela yena Yesu",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Hlalela yena Yesu.", "refrao": false},
+            {"verso": "U hlalela ku vangama,", "refrao": false},
+            {"verso": "Xaxameta swilo swa misava", "refrao": false},
+            {"verso": "Na yena, kutani swi to: swa!", "refrao": false}
+        ]
+    },
+    {
+        "id": 178,
+        "numero": 178,
+        "titulo": "Yima tan' hi Daniel hamb' u le swa ku",
+        "autor": "C.A.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Yima tan' hi Daniel hamb' u le swa ku,", "refrao": false},
+            {"verso": "Yimela ntiyiso ke, u ku: nkwankwanana.", "refrao": false}
+        ]
+    },
+    {
+        "id": 179,
+        "numero": 179,
+        "titulo": "Kombelani mi ta nyikiwa",
+        "autor": "F.C.B.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Kombelani mi ta nyikiwa,", "refrao": false},
+            {"verso": ":I: Mi ta nyikiwa, :I:", "refrao": true},
+            {"verso": "Kombelani mi ta nyikiwa,", "refrao": false},
+            {"verso": "A mi pfule timbilu ta n'wina.", "refrao": false},
+            {"verso": "Lavani mi ta swi kuma", "refrao": false},
+            {"verso": ":I: Mi ta swi kuma :I:", "refrao": true},
+            {"verso": "Lavani mi ta swi kuma,", "refrao": false},
+            {"verso": "A mi pfule timbilu ta n'wina.", "refrao": false},
+            {"verso": "Gongondzani mi ta pfuleriwa,", "refrao": false},
+            {"verso": ":I: Mi pfuleriwa, :I:", "refrao": true},
+            {"verso": "Gongondzani mi ta pfuleriwa,", "refrao": false},
+            {"verso": "A mi pfule timbilu ta n'wina.", "refrao": false}
+        ]
+    },
+    {
+        "id": 180,
+        "numero": 180,
+        "titulo": "O pfukile Muferi",
+        "autor": "A.N.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "O pfukile Muferi, O pfukile Muferi,", "refrao": false},
+            {"verso": "O pfukile namuntlha,", "refrao": false},
+            {"verso": "O pfukile Muferi, O yile matilweni", "refrao": false},
+            {"verso": "Ku hi lunghisela.", "refrao": false}
+        ]
+    },
+    {
+        "id": 181,
+        "numero": 181,
+        "titulo": "I mani l'a nga ndzi ntshumxa?",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "I mani l'a nga ndzi ntshumxa?", "refrao": false},
+            {"verso": "I Yesu, i Yesu,", "refrao": false},
+            {"verso": "A ku te mphu, sweswi ko mpha-a,", "refrao": false},
+            {"verso": "I yena Yesu ntsena,", "refrao": false},
+            {"verso": ":I: Yesu,Yesu, Yesu ntsena. :I:", "refrao": true}
+        ]
+    },
+    {
+        "id": 182,
+        "numero": 182,
+        "titulo": "Kun'wanyana endzutini",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Kunwanyana endzutini u ta mu kuma,", "refrao": false},
+            {"verso": "Yena Yesu l'a a tivaka ta wena.", "refrao": false},
+            {"verso": "Kun'wanyana endzutini o ta huma", "refrao": false},
+            {"verso": "U ta mu tiva hi timbanga ta yena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 183,
+        "numero": 183,
+        "titulo": "A ndzi koti ku Dzivila Amintiro ya Hosi",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": ":I: A ndzi koti ku dzivala amintiro ya Hosi", "refrao": true},
+            {"verso": "A ndzi koti ku tlhelela a ntshaku :I:", "refrao": true},
+            {"verso": "I - hi, I- hi, I- hi,", "refrao": false},
+            {"verso": "A ndzi koti ku tlhelela a ntsaku,", "refrao": false},
+            {"verso": "I -hi, I- hi, I - hi,", "refrao": false},
+            {"verso": "Swoswi ndzi dzyula ku landza Yesu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 184,
+        "numero": 184,
+        "titulo": "Ruma ndzilo lo' wuntswha",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ruma ndzilo lo' wuntswha e ka mina", "refrao": false},
+            {"verso": "Ruma swoswi.", "refrao": false},
+            {"verso": "Wena,Hosi,", "refrao": false},
+            {"verso": "Oka kala le'ri vuvumelaka,", "refrao": false},
+            {"verso": "Khumba milomo ya nga namuntlha.", "refrao": false}
+        ]
+    },
+    {
+        "id": 185,
+        "numero": 185,
+        "titulo": "Ri ta xa siku ro phatima",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Ri ta xa siku ro phatima,", "refrao": false},
+            {"verso": "Hosi Yesu o ta vonakala,", "refrao": false},
+            {"verso": "Hi ta ba huwa ya ku khana,", "refrao": false},
+            {"verso": "Hi nyamalala hi ya kaya.", "refrao": false}
+        ]
+    },
+    {
+        "id": 186,
+        "numero": 186,
+        "titulo": "Nkhensa Hosi",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Nkhensa, nkhensa,", "refrao": false},
+            {"verso": "Nkhensa ximixweni,", "refrao": false},
+            {"verso": "Nkhensa nhlekanhini,", "refrao": false},
+            {"verso": "Nkhensa,nkhensa,", "refrao": false},
+            {"verso": "Ri ko ri pela dyambu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 187,
+        "numero": 187,
+        "titulo": "Oho! Ndzi Tsakile",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": ":I: Oho! Ndzi tsakile ngopfu, :I:", "refrao": true},
+            {"verso": "Muponisi o Kusuhi na mina,", "refrao": false},
+            {"verso": "Kutani mbilu ya nga yi tsakile.", "refrao": false}
+        ]
+    },
+    {
+        "id": 188,
+        "numero": 188,
+        "titulo": "Hosi Ndzi Fihle",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": ":I: Hosi, ndzi fihle hansi ka ngati :I:", "refrao": true},
+            {"verso": "Ndzi fihle hansi ka ngati", "refrao": false},
+            {"verso": "Ndzi fihle hansi ka ngati", "refrao": false},
+            {"verso": "Ndzi tumbela ka xo' Xinyimpfana.", "refrao": false}
+        ]
+    },
+    {
+        "id": 189,
+        "numero": 189,
+        "titulo": "Hosi, Ndzi Tlakuse",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Hosi, ndzi tlakuse henhla", "refrao": false},
+            {"verso": "Entshaveni ya ku khana", "refrao": false},
+            {"verso": "Ndzi hlalela ku kwetsima", "refrao": false},
+            {"verso": "Ni ku saseka ka wena.", "refrao": false}
+        ]
+    },
+    {
+        "id": 190,
+        "numero": 190,
+        "titulo": "If you Bilive",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "",
+        "letra": [
+            {"verso": "f you believe and I believe And we together strive, The Holy Spirit must come down And Africa must be saved.", "refrao": true}
+        ]
+    },
+    {
+        "id": 190.1,
+        "numero": 190.1,
+        "titulo": "Na Afrika ri ta pona",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "A hi tshembeni Hosi Yesu,", "refrao": false},
+            {"verso": "Hi tirhela yona,", "refrao": false},
+            {"verso": "Wu fanela ku xika Moya,", "refrao": false},
+            {"verso": "Ri pona na Africa.", "refrao": false},
+            {"verso": ":I: Na Afrika ri ta pona :I:", "refrao": true},
+            {"verso": "Xikisa Moya wo kwetsima,", "refrao": false},
+            {"verso": "Ponisa na Africa.", "refrao": false},
+            {"verso": ":I: Ponisa na Moçambique :I:", "refrao": true},
+            {"verso": "Xikisa Moya wo kwetsima,", "refrao": false},
+            {"verso": "Ponisa na Moçambique.", "refrao": false}
+        ]
+    },
+    {
+        "id": 191,
+        "numero": 191,
+        "titulo": "Hi ku twanana hi Tirhela Hosi",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Swa saseka hi ku twanana;", "refrao": false},
+            {"verso": "Hi ku twanana hi tirhela Hosi Yesu.", "refrao": false},
+            {"verso": "Vuyelelo:", "refrao": false},
+            {"verso": ":I: Hi ku twanana, hi ku twanana,", "refrao": true},
+            {"verso": "Hi ku twanana hi tirhela Hosi. :I:", "refrao": true},
+            {"verso": "2 Na tinyoxi, hi ku twanana,", "refrao": false},
+            {"verso": "Ta swi kota ku endla vulombe bya tona.", "refrao": false},
+            {"verso": "3 Na vusokoti, hi ku twanana,", "refrao": false},
+            {"verso": "Bya swikota ku aka tiyindlu ya byona,", "refrao": false},
+            {"verso": "4 Na vapostoli, hi ku twanana", "refrao": false},
+            {"verso": "Va kotile ku sala ni ntirho wa Hosi.", "refrao": false},
+            {"verso": "5 Na vafundzisi, hi ku twanana,", "refrao": false},
+            {"verso": "Va swi kota ku andzisa Rito ra Hosi.", "refrao": false},
+            {"verso": "6 Na hinkwerhu hi ku twanana,", "refrao": false},
+            {"verso": "Hi ta yi twarisa Evangeli hinkwako.", "refrao": false}
+        ]
+    },
+    {
+        "id": 192,
+        "numero": 192,
+        "titulo": "Todos devem conhecer",
+        "autor": "I.L.C.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Todos devem conhecer (bis)", "refrao": false},
+            {"verso": "Todos devem conhecer", "refrao": false},
+            {"verso": "Quem é Jesus.", "refrao": false},
+            {"verso": "Ele é o lírio dos vales", "refrao": false},
+            {"verso": "A estrela da manhã", "refrao": false},
+            {"verso": "O escolhido dos milhares", "refrao": false},
+            {"verso": "Todos devem conhecer.", "refrao": false}
+        ]
+    },
+    {
+        "id": 193,
+        "numero": 193,
+        "titulo": "Cristo é meu e eu d'Ele sou",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Cristo é meu e eu d'Ele sou", "refrao": false},
+            {"verso": "E o meu Salvador eu sei", "refrao": false},
+            {"verso": "Em quem vivo e viverei.", "refrao": false},
+            {"verso": "Jamais meu, mas p'ra sempre Seu", "refrao": false},
+            {"verso": "Resgatado por Cristo sou", "refrao": false},
+            {"verso": "E p'ra sempre Seu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 194,
+        "numero": 194,
+        "titulo": "O amor de Jesus não tem igual",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "O amor de Jesus não tem igual", "refrao": false},
+            {"verso": "Não tem igual amor sem fim", "refrao": false},
+            {"verso": "O amor de Jesus não tem igual", "refrao": false},
+            {"verso": "Basta para mim.", "refrao": false}
+        ]
+    },
+    {
+        "id": 195,
+        "numero": 195,
+        "titulo": "Aleluia aleluia aleluia",
+        "autor": "Hino de todas as línguas",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Aleluia aleluia aleluia (bis)", "refrao": false},
+            {"verso": "Aleluia aleluia", "refrao": false},
+            {"verso": "Aleluia aleluia aleluia", "refrao": false},
+            {"verso": "Aleluia amen amen", "refrao": false},
+            {"verso": "Aleluia amen aleluia amen", "refrao": false},
+            {"verso": "Aleluia amen!", "refrao": false}
+        ]
+    },
+    {
+        "id": 196,
+        "numero": 196,
+        "titulo": "O melhor para Ti, Senhor",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "O melhor para Ti, Senhor", "refrao": false},
+            {"verso": "O melhor para Ti, Salvador", "refrao": false},
+            {"verso": "O teu melhor também deste por mim na cruz", "refrao": false},
+            {"verso": "O meu melhor para Ti, Jesus.", "refrao": false}
+        ]
+    },
+    {
+        "id": 197,
+        "numero": 197,
+        "titulo": "Completa entrega a ti Amado",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Completa entrega a ti Amado", "refrao": false},
+            {"verso": "Minha alma nega o vil pecado", "refrao": false},
+            {"verso": "Aceita e molda todo o meu ser", "refrao": false},
+            {"verso": "Que eu possa em Ti e tu em mim viver.", "refrao": false}
+        ]
+    },
+    {
+        "id": 198,
+        "numero": 198,
+        "titulo": "Sim posso todas as coisas",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Sim posso todas as coisas,", "refrao": false},
+            {"verso": "Naquele que me fortalece", "refrao": false},
+            {"verso": "Quem nas Suas promessas confia", "refrao": false},
+            {"verso": "Em Cristo sempre prevalece.", "refrao": false}
+        ]
+    },
+    {
+        "id": 199,
+        "numero": 199,
+        "titulo": "Não há outro que por mim morresse",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Não há outro que por mim morresse", "refrao": false},
+            {"verso": "Não há outro que por mim sofresse.", "refrao": false},
+            {"verso": "Não há outro mediador", "refrao": false},
+            {"verso": "Só Jesus meu Salvador,", "refrao": false},
+            {"verso": "Deu a vida por mim, na cruz.", "refrao": false}
+        ]
+    },
+    {
+        "id": 200,
+        "numero": 200,
+        "titulo": "Aleluia, glória a Jesus",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Aleluia, glória a Jesus", "refrao": false},
+            {"verso": "Dos meus pecados já me livrou", "refrao": false},
+            {"verso": "Alegre canto a quem me salvou.", "refrao": false},
+            {"verso": "Aleluia e glória a Jesus!", "refrao": false},
+            {"verso": "Glória a Jesus, o mundo deixei", "refrao": false},
+            {"verso": "Suas vaidades abandonei,", "refrao": false},
+            {"verso": "Agora sigo com meu Jesus,", "refrao": false},
+            {"verso": "Ele é meu guia e minha luz.", "refrao": false}
+        ]
+    },
+    {
+        "id": 201,
+        "numero": 201,
+        "titulo": "O mundo não tem p'ra mim valor",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "O mundo não tem p'ra mim valor", "refrao": false},
+            {"verso": "O mundo matou o meu Salvador", "refrao": false},
+            {"verso": "Agora só quero a Jesus seguir", "refrao": false},
+            {"verso": "E na Sua graça também fluir.", "refrao": false}
+        ]
+    },
+    {
+        "id": 202,
+        "numero": 202,
+        "titulo": "Brilho celeste",
+        "autor": "Tradução",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Brilho celeste (bis)", "refrao": false},
+            {"verso": "Enche a minha alma glória do Céu", "refrao": false},
+            {"verso": "Brilho celeste (bis)", "refrao": false},
+            {"verso": "Aleluia! Jesus é meu.", "refrao": false}
+        ]
+    },
+    {
+        "id": 203,
+        "numero": 203,
+        "titulo": "Não me importa o que o mundo diga",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Não me importa o que o mundo diga", "refrao": false},
+            {"verso": "Contra nós, contra nós.", "refrao": false},
+            {"verso": "Se me importa que Jesus se siga;", "refrao": false},
+            {"verso": "Quem será pois contra nós?", "refrao": false},
+            {"verso": "Pois Jesus o mundo já venceu", "refrao": false},
+            {"verso": "Ele é nosso capitão", "refrao": false},
+            {"verso": "Na cruz vitória já nos deu.", "refrao": false},
+            {"verso": "Porque temer, então?", "refrao": false}
+        ]
+    },
+    {
+        "id": 204,
+        "numero": 204,
+        "titulo": "Alegre e contente vou seguindo",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Alegre e contente vou seguindo", "refrao": false},
+            {"verso": "A Jesus que me leva para a glória.", "refrao": false},
+            {"verso": "Glória, glória, glória, glória!", "refrao": false},
+            {"verso": "Jesus nos promete a vitória.", "refrao": false},
+            {"verso": "II", "refrao": false},
+            {"verso": "Por isso segui-Lo eu quero sempre", "refrao": false},
+            {"verso": "E ás almas falar do Seu amor.", "refrao": false},
+            {"verso": "Glória, Glória, Glória, Glória!", "refrao": false},
+            {"verso": "Jesus para sempre o meu Salvador.", "refrao": false}
+        ]
+    },
+    {
+        "id": 205,
+        "numero": 205,
+        "titulo": "Não há segredo no que Deus faz",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Não há segredo no que Deus faz", "refrao": false},
+            {"verso": "Ele Salva e cura e satisfaz", "refrao": false},
+            {"verso": "Se a Ele vier então verás", "refrao": false},
+            {"verso": "Não há segredo no que Deus faz", "refrao": false}
+        ]
+    },
+    {
+        "id": 206,
+        "numero": 206,
+        "titulo": "Plena salvação em Cristo encontrei",
+        "autor": "J.C.G.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "Plena salvação em Cristo encontrei (bis)", "refrao": false},
+            {"verso": "Toda a minha vida Ele transformou", "refrao": false},
+            {"verso": "E agora salvo sou", "refrao": false},
+            {"verso": "Oh glória a Jesus, oh glória a Jesus", "refrao": false},
+            {"verso": "Oh glória a Jesus meu salvador e minha luz.", "refrao": false}
+        ]
+    },
+    {
+        "id": 207,
+        "numero": 207,
+        "titulo": "Ya Pfuriwa Yindlu, ya Hosi",
+        "autor": "P.M.K.",
+        "ref": "",
+        "categoria": "Adoracao / louvor",
+        "letra": [
+            {"verso": "1 Namuntlha ya pfuriwa yindlu", "refrao": false},
+            {"verso": "Yindlu ya Hosi Yesu,", "refrao": false},
+            {"verso": "Hinkwenu mi llangana", "refrao": false},
+            {"verso": "Ku ta yi khangula,", "refrao": false},
+            {"verso": "Vamamana, vatatana,", "refrao": false},
+            {"verso": "Na n'we majaha,", "refrao": false},
+            {"verso": "Na tintombi", "refrao": false},
+            {"verso": "Vatsongwana,", "refrao": false},
+            {"verso": "Tanani hinkwenu,", "refrao": false},
+            {"verso": "Mi vitiwa hi Yesu.", "refrao": false},
+            {"verso": "2 A malembe ma hundza,", "refrao": false},
+            {"verso": "Minkama ya khaluta,", "refrao": false},
+            {"verso": "Hatlisan' munghena nyangwa", "refrao": false},
+            {"verso": "Yi nga si pfariwa", "refrao": false},
+            {"verso": "3 Vakokwana, vamamana,", "refrao": false},
+            {"verso": "Na n'we majaha", "refrao": false},
+            {"verso": "Na tintombi,", "refrao": false},
+            {"verso": "Nghenani hinkwenu,", "refrao": false},
+            {"verso": "Mi vitiwa hi Yesu.", "refrao": false}
+        ]
     }
-  
+
 
 
 

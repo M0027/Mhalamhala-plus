@@ -29,7 +29,7 @@ export default function WelcomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff', // fundo preto
+    backgroundColor: "#25D366", // fundo preto
     justifyContent: 'center',
     alignItems: 'center',
     padding: 20,

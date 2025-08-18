@@ -558,67 +558,67 @@
     {
         "numero": 111,
         "titulo": "Byala Emixweni",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 112,
         "titulo": "Tirhani hi Ntamu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 113,
         "titulo": "Pfulsane, Pfulsane, Vamakwerhu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 114,
         "titulo": "Fambani Vamakwerhu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 115,
         "titulo": "Yinbeni Nanga hi Ntamu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 116,
         "titulo": "Vakriste Nyimpi ya Hosi",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 117,
         "titulo": "Famba na vo, Hosi Yesu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 118,
-        "titulo": "Risimu ra ku Nylketa Vatinhi",
-        "categoria": "Adoracao / louvor"
+        "titulo": "Risimu ra ku Nylketa Vatirhi",
+        "categoria": "Oração / Clamor"
     },
     {
         "numero": 119,
         "titulo": "Landza Rito ra Hosi Yesu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 120,
         "titulo": "Nkhuvulo Ematini",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Batismos"
     },
     {
         "numero": 121,
         "titulo": "Hosi Yesu va Tiyise",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor"
     },
-    {
+    { 
         "numero": 122,
         "titulo": "Etafuleni ra ku Hosi",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 123,
         "titulo": "Yesu af a nji Ranja",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 124,
@@ -628,7 +628,7 @@
     {
         "numero": 125,
         "titulo": "Nhlengeletano ya Xikwembu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 126,
@@ -643,47 +643,47 @@
     {
         "numero": 128,
         "titulo": "Ha mi Losa Vamakwerhu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 129,
         "titulo": "Ndlela ya Xihambano",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Céia do Sonhor"
     },
     {
         "numero": 130,
         "titulo": "Yerusalema, karikwerhu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 131,
         "titulo": "Jesus Me Ama",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Portugues)"
     },
     {
         "numero": 132,
         "titulo": "Pelo Sangue",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Portugues)"
     },
     {
         "numero": 133,
         "titulo": "Conversão",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Portugues)"
     },
     {
         "numero": 134,
         "titulo": "Livre estou",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Portugues)"
     },
     {
         "numero": 135,
         "titulo": "Paz, Paz gloriosa Paz",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (Portugues)"
     },
     {
         "numero": 136,
         "titulo": "Nome de Jesus",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Portugues)"
     },
     {
         "numero": 137,
@@ -698,32 +698,32 @@
     {
         "numero": 139,
         "titulo": "Imploramos teu poder",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor"
     },
     {
         "numero": 140,
         "titulo": "Vem a' Assembleia de Deus",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Envagelizacao"
     },
     {
         "numero": 141,
         "titulo": "Jesus Voltará",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 142,
         "titulo": "O Fim das Lutas",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 143,
         "titulo": "O Senhor da Ceifa Chama",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Envagelizacao"
     },
     {
         "numero": 144,
         "titulo": "Cristo Cura, Sim",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao"
     },
     {
         "numero": 145,
@@ -732,286 +732,314 @@
     {
         "numero": 146,
         "titulo": "Xewani Vafundzisi",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 147,
         "titulo": "Risimu ra ku Tekana",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Casamento"
     },
     {
         "numero": 148,
         "titulo": "From: \"Ingonhama ka Juda.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 149,
         "titulo": "Tune : \"Jesus is Passing this Way.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 150,
         "titulo": "from \"The Cleasing Wave.\" (P.P.P)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Santidade"
     },
     {
         "numero": 151,
         "titulo": "From: \" Oh the Blood.\" ( Chorus)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 152,
         "titulo": "From: \" Hiding in Thee.\" (Chorus) W.O.C",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 153,
         "titulo": "From: \" Lord I am Coming Home.\" (W.J.K.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Arrependimeto"
     },
     {
         "numero": 154,
         "titulo": "From: \"Jesus, Jesus, How I Trust Thee.\" (L.M.R.S.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Ingles)"
     },
     {
         "numero": 155,
         "titulo": "From: \" If Jesus Goes with Me.\" (C.A.M.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Ingles)"
     },
     {
         "numero": 156,
         "titulo": "From: \" Fishers of Men.\" (H.D.C.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
+        
     },
     {
         "numero": 157,
         "titulo": "From Chorus of: \" In the Service of the King.\"(A.H.A.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 158,
         "titulo": "\"All your Anxiety, All your Care.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 159,
         "titulo": "\"Steal Away to Jesus.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 160,
         "titulo": "\"Bend me Lower.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor(ingles)"
     },
     {
         "numero": 161,
         "titulo": "\"Let it Come, O Lord, We Pray Thee.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor(ingles)"
     },
     {
         "numero": 162,
         "titulo": "\"Lord Send Thy Blessing.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor(ingles)"
     },
     {
         "numero": 163,
         "titulo": "Tune: \" Gave me oil in my lamp.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor(ingles)"
     },
     {
         "numero": 164,
         "titulo": "Tune only: \"Let The Tide Come in.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 165,
         "titulo": "From: \" He Will Fill Your Heart Today.\" ( C.H.M.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 166,
         "titulo": "From: \"Tis Burning in My Soul.\" (D.T.W.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Ingles)"
     },
     {
         "numero": 167,
         "titulo": "Tune: Let the Holy Ghost Come in\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 168,
         "titulo": "From: \" Let the Lower Lights be Burning.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 169,
         "titulo": "From: \" Oh! That Wilt be glory.\" (C.H.C)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 170,
         "titulo": "Tune: \" He's Coming Soon.\" (T.H.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 171,
         "titulo": "From: \" I Shall Know Him.\" (F.J.C.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
+
     },
     {
         "numero": 172,
         "titulo": "Tune: \" Our Lord is Coming Back to Earth Again\" (J.M.K.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 173,
         "titulo": "Tune only: \"Giemern Blodet.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 174,
         "titulo": "From: \"The Regions Beyond.\" (Chours) A.B.S",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 175,
         "titulo": "From: \"O Steal Away Softly to Jesus.\" (E.E.H.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 176,
         "titulo": "From: \"Let the Beauty of Jesus be Seen in me.\" (T.M.J.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 177,
         "titulo": "From: \"Turn your Eyes upon Jesus.\" ( H.H.L.)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 178,
         "titulo": "From: \"Dare to be a Daniel.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor (ingles)"
     },
     {
         "numero": 179,
         "titulo": "From: \"U Jesu u ya biza.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Envagelizacao"
     },
     {
         "numero": 180,
         "titulo": "Tune only: \"Give Me Oil in My Lamp.\"",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Ingles)"
     },
     {
         "numero": 181,
         "titulo": "I Yesu, i Yesu",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 182,
         "titulo": "kun'wanyana Endzutini",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 183,
         "titulo": "A ndzi koti ku Dzivila Amintiro ya Hosi",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 184,
         "titulo": "Ruma ndzilo lo' wuntswha",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor"
     },
     {
         "numero": 185,
         "titulo": "Ri ta xa siku ro phatima",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 186,
         "titulo": "Nkhensa Hosi",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 187,
         "titulo": "Oho! Ndzi Tsakile",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 188,
         "titulo": "Hosi Ndzi Fihle",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor"
     },
     {
         "numero": 189,
         "titulo": "Hosi, Ndzi Tlakuse",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor"
     },
     {
-        "numero": 0.190,
+        "numero": 190,
         "titulo": "If you Believe and I Believe",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor(ingles)"
     },
     {
-        "numero": 1.190,
+        "numero": 190.1,
         "titulo": "Na Afrika ri ta pona",
-        "categoria": "Adoracao / louvor"
-    },
-    {
-        "numero": 2.90,
-        "titulo": "Ponisa na Moçambique",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Oração / Clamor"
     },
     {
         "numero": 191,
         "titulo": "Hi ku twanana hi Tirhela Hosi",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 192,
         "titulo": "Todos devem conhecer (bis)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Esortacao"
     },
     {
         "numero": 193,
         "titulo": "Cristo é meu e eu d'Ele sou",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao"
     },
     {
         "numero": 194,
         "titulo": "O amor de Jesus não tem igual",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 195,
         "titulo": "Aleluia aleluia aleluia (bis)",
-        "categoria": "Adoracao / louvor"
+        "categoria": "louvor"
     },
     {
         "numero": 196,
         "titulo": "O melhor para Ti, Senhor",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao"
     },
     {
         "numero": 197,
         "titulo": "Completa entrega a ti Amado",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao"
     },
     {
         "numero": 198,
         "titulo": "Sim posso todas as coisas,",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Consolacao"
     },
     {
         "numero": 199,
         "titulo": "Não há outro que por mim morresse",
-        "categoria": "Adoracao / louvor"
+        "categoria": "Adoracao (Portugues)"
     },
     {
         "numero": 200,
         "titulo": "Aleluia, glória a Jesus",
         "categoria": "louvor"
+    },
+    {
+        "numero": 201,
+        "titulo": "O mundo não tem p'ra mim valor",
+        "categoria":"Consolacao"
+    },
+    {
+        "numero": 202,
+        "titulo": "Brilho celeste (bis)",
+        "categoria": "louvor (Portugues)"
+    },
+    {
+        "numero": 203,
+        "titulo": "Não me importa o que o mundo diga",
+        "categoria": "louvor (Portugues)"
+    },
+    {
+        "numero": 204,
+        "titulo": "Alegre e contente vou seguindo",
+        "categoria": "Adoracao (Portugues)"
+    },
+    {
+        "numero": 205,
+        "titulo": "Não há segredo no que Deus faz",
+        "categoria": "Adoracao (Portugues)"
+    },
+    {
+        "numero": 206,
+        "titulo": "Plena salvação em Cristo encontrei (bis)",
+        "categoria": "louvor (Portugues)"
     }
+
 ]

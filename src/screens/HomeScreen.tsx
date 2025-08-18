@@ -169,6 +169,12 @@ export default function HomeScreen({ navigation }) {
           onPress={() => Linking.openURL('https://wa.me/258833072296')}
           style={styles.menuItem}
         >
+          <Text style={styles.menuItem}><FontAwesome name="edit" size={20} color="#25D366" /> Tenho uma sugestao..</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={() => Linking.openURL('https://wa.me/258833072296')}
+          style={styles.menuItem}
+        >
           <Text style={styles.menuItem}><FontAwesome name="whatsapp" size={20} color="#25D366" />  Reportar erro</Text>
         </TouchableOpacity>
       </Animated.View>

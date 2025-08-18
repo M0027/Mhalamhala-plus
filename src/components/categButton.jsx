@@ -15,7 +15,14 @@ export default function categButton({ setCategoria, setLoading }) {
         { nome: 'Envagelizacao', id: 4 },
         { nome: 'Consolacao', id: 5 },
         { nome: 'Esortacao', id: 7},
-        { nome: 'Oração / Clamor', id: 8}
+        { nome: 'Oração / Clamor', id: 8},
+        { nome: 'Batismos', id: 9},
+        { nome: 'Céia do Sonhor', id: 10},
+        { nome: 'Adoracao (Portugues)', id: 11},
+        { nome: 'Adoracao (Ingles)', id: 12},
+        { nome: 'Casamento', id: 13},
+        { nome: 'Oração / Clamor(ingles)', id: 14},
+        { nome: 'Santidade', id: 15},
     ]
 
     const handlePress = async (categoria) => {

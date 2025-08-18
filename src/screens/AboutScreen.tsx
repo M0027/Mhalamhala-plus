@@ -1,8 +1,9 @@
 import React from 'react';
-import { StyleSheet, View, Text, ScrollView } from 'react-native';
+import { StyleSheet, View, Text, ScrollView, TouchableOpacity, Linking } from 'react-native';
 import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../../App';
 import Footer from '../components/Footer';
+import { FontAwesome } from '@expo/vector-icons';
 
 type SobreRouteProp = RouteProp<RootStackParamList, 'Sobre'>;
 
@@ -29,12 +30,21 @@ const AboutScreen = () => {
         <Text style={styles.accessibilityDescription}>
           Pensando em todos os usuários, o Mhalamhala Plus oferece recursos que facilitam o uso para pessoas com problemas visuais, garantindo que a beleza dos hinos seja acessível a todos.
         </Text>
-        <Text style={ styles.accessibilityTitle}>Nota do desenvolvedor do aplicativo:</Text>
+        <Text style={styles.accessibilityTitle}>Nota do desenvolvedor do aplicativo:</Text>
         <Text style={styles.accessibilityDescription}>Este aplicativo foi desenvolvido apenas para fim relegioso ( louvor e Adoração a Deus), apelamos o uso com responsabilidade.</Text>
         <Text style={styles.accessibilityDescription}>Os hinos foram retirados do Mhalamhala oficial.</Text>
+
+
+        <TouchableOpacity
+          onPress={() => Linking.openURL('https://mauro-assis-cumbane.vercel.app')}
+          style={styles.button}
+        >
+          {/* <FontAwesome name="chrome" size={20} color="orange" /> */}
+          <Text style={styles.autor}>Sobre o autor</Text>
+        </TouchableOpacity>
         <Text style={styles.footer}>Mhalamhala Plus - Louvando juntos, de forma inovadora.</Text>
       </View>
-         <Footer />
+      <Footer />
     </ScrollView>
   );
 };
@@ -51,7 +61,7 @@ const styles = StyleSheet.create({
     fontSize: 28,
     fontWeight: 'bold',
     // color: 'rgba(255,255,255,.8)',
-    color:"#25D366",
+    color: "#25D366",
     marginBottom: 15,
     textAlign: 'center',
   },
@@ -65,7 +75,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
     // color: 'rgba(255,255,255,.8)',
-    color:"#25D366",
+    color: "#25D366",
     marginBottom: 10,
   },
   featureItem: {
@@ -84,7 +94,7 @@ const styles = StyleSheet.create({
   accessibilityTitle: {
     fontSize: 20,
     fontWeight: 'bold',
-    color:"#25D366",
+    color: "#25D366",
     // color: 'rgba(255,255,255,.8)',
     marginTop: 20,
     marginBottom: 10,
@@ -95,12 +105,28 @@ const styles = StyleSheet.create({
     lineHeight: 24,
     marginBottom: 20,
   },
+  button: {
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    borderRadius: 20,
+    marginBottom: 30,
+    color: "#fff"
+  },
+  autor: {
+    color: 'skyblue',
+    fontSize: 16,
+    textDecorationStyle:'solid',
+    textDecorationColor: 'blue',
+    textDecorationLine:'underline'
+  },
   footer: {
     fontSize: 14,
-    color: '#000',
+    color: '#fff',
     textAlign: 'center',
     marginTop: 30,
+    marginBottom: 60
   },
+
 });
 
 export default AboutScreen;

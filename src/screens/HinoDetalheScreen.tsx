@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, Share, Dimensions, SafeAreaView, ScrollView, StatusBar } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Share, Dimensions, SafeAreaView, ScrollView, StatusBar, Alert } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage, { useAsyncStorage } from '@react-native-async-storage/async-storage';
 import { Audio } from 'expo-av';
@@ -37,6 +37,7 @@ export default function HinoDetalheScreen({ route }) {
   const [audios, setAudios] = useState<AudioItem[]>([])
   const [Activo, SetActivo] = useState(false);
   const [time, SetTime] = useState(0);
+  const [sharebleLetra, setSharebleLetra] = useState({});
 
   const [permissionResponse, requestPermission] = Audio.usePermissions();
 
@@ -262,20 +263,28 @@ export default function HinoDetalheScreen({ route }) {
 
     const dados = Hinos.find(item => item.numero == hino.numero) || null;
 
-    console.log("aqui ????????????????????", dados);
+    console.log("aqui ????????????????????", dados.letra);
+    // setSharebleLetra(dados);
     return dados;
+
   }
 
 
 
   const handlePartilhar = async () => {
 
+      const dados = Hinos.find(item => item.numero == hino.numero) || null;
+
+      console.log("aqui ????????????????????", dados.letra);
+
+
     try {
 
-      const result = await Share.share({ message: `${hino.titulo + "    " + Hino()[0].letra.map(i => i.verso)},${url}`, url: `${url}`, title: 'Compartilhar via...' });
+      const result = await Share.share({ message: `${dados.titulo+ "    " + dados.letra.map(i => i.verso)},${url}`, url: `${url}`, title: 'Compartilhar via...' });
       if (result.action === Share.sharedAction) {
         console.log("Compartilhado com sucesso!");
 
+        Alert.alert('clicou em partilhar');
       } else if (result.action === Share.dismissedAction) {
         console.log("Compartilhamento Canselado");
       }
@@ -295,7 +304,7 @@ export default function HinoDetalheScreen({ route }) {
       {/* Conteúdo */}
       <ScrollView style={styles.content}>
         <Text style={styles.titulo}>{hino.numero}.  {hino.titulo}. {hino.favorito}</Text>
-        <Text style={styles.metaDados}> <Text style={{color:"gold"}}>{hino.categoria}</Text> {"\n"} By: {hino.autor}  {"\n"} {hino.ref}</Text>
+        <Text style={styles.metaDados}> <Text style={{ color: "gold" }}>{hino.categoria}</Text> {"\n"} By: {hino.autor}  {"\n"} {hino.ref}</Text>
 
         {
           Hino().letra.map((verso, index) => (

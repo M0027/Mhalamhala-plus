@@ -25,33 +25,29 @@ export default function Cronometro({Ativo, Timer }) {
       <Text style={styles.texto}>
         {minutos}:{seg.toString().padStart(2, "0")}
       </Text>
-
-      {/* <View style={styles.botoes}>
-        <Button title={ativo ? "Parar" : "Iniciar"} onPress={() => setAtivo(!ativo)} />
-        <Button title="Resetar" onPress={() => setSegundos(0)} />
-      </View> */}
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    alignItems: "center",
+    textAlign: "center",
     position: "absolute",
-    left: '40%',
-    top: '80%',
+    left: '70%',
+    top: '55%',
     justifyContent: "center",
-    padding: 20,
-    backgroundColor: "transparent"
+    padding: 12,
+    backgroundColor: "rgba(0, 0, 0, .6)",
+    borderRadius:'50%',
+    elevation:8,
+    borderWidth:1,
+    borderColor: "#25D366",
+
   },
   texto: {
     fontSize: 30,
     fontWeight: "bold",
-    marginBottom: 20,
-    color: 'tomato'
-  },
-  botoes: {
-    flexDirection: "row",
-    gap: 10
+    marginVertical: 10,
+    color: 'red'
   }
 });
